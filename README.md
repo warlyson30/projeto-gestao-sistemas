@@ -6,10 +6,15 @@ Projeto em Gestão de Sistemas Computacionais
 Integrantes:
 Nome completo -	RA
 [Lucas Ferreira Mamede]	[926107241]
+
 [Luana Mariana Lopes Bomfim]	[926113544]
+
 [Warlyson Machado de Araujo]	[926116958]
+
 [Gustavo Prota da Silva Barbosa]	[926109672]
+
 [Andrielly Campos da Silva]	[926110878]
+
 [Henryque Gomes Moura Cunha]	[1726101989]
 
 Empresa
