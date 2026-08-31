@@ -3,6 +3,7 @@ Repositório oficial do projeto de Análise e Gestão de Sistemas para otimizaç
 
 Projeto em Gestão de Sistemas Computacionais
 
+
 Integrantes:
 Nome completo -	RA
 
@@ -19,11 +20,14 @@ Nome completo -	RA
 [Henryque Gomes Moura Cunha]	[1726101989]
 
 
+
 Empresa
 - Nome: Academia Vértice Fit (empresa fictícia)
+  
 
 Ramo de Atuação
 - Academia de musculação e funcional, com sistema de gestão que registra check-in, frequência e plano dos alunos, além de controle de estoque de suplementos e equipamentos.
+  
 
 O Problema:
 
@@ -31,6 +35,7 @@ A Academia Vértice Fit enfrenta duas dores centrais de negócio que o projeto p
 
 Alta evasão de alunos (churn): a academia não consegue prever quais alunos estão prestes a cancelar o plano, perdendo receita recorrente sem tempo de agir.
 Ineficiência operacional: má alocação de horários/instrutores nos períodos de pico e custos elevados na reposição de suplementos e equipamentos junto a fornecedores.
+
 
 O grupo utilizará:
 
