@@ -45,4 +45,4 @@ Segurança da Informação para mapear riscos e adequar o tratamento de dados pe
 Pesquisa Operacional para maximizar o lucro na alocação de horários/instrutores e minimizar o custo de reposição junto aos fornecedores.
 Repositório
 
-Link deste repositório : [inserir link do GitHub aqui]
+Link deste repositório : [https://github.com/warlyson30/projeto-gestao-sistemas/tree/main]
