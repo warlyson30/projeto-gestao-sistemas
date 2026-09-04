@@ -1,0 +1,1546 @@
+id_aluno,data_matricula,data_cancelamento,plano,valor_mensalidade,unidade,modalidade_principal,idade,frequencia_semanal,usa_app,checkins_app_mes
+1496,2025-11-25,,Trimestral,109.9,Zona Oeste,Musculacao,30.0,5.57,True,23.0
+544,2024-12-16,2025-01-18,anual,89.9,Centro,Funcional,,2.2,False,0.0
+1269,2024-06-12,2024-08-14,Mensal,123.4,Centro,Funcional,41.0,1.05,False,0.0
+529,2024-11-03,,Trimestral,109.9, Zona Oeste ,Musculacao,16.0,3.14,True,11.0
+1095,2024-04-29,,Trimestral,109.9,Zona Leste,,39.0,5.83,True,
+808,13/05/2024,,Mensal,129.9,Zona Leste,Crossfit,35.0,3.54,True,16.0
+934,2025-09-22,,Trimestral,104.4,Zona Leste,Funcional,37.0,1.45,False,0.0
+1118,2024-10-24,,Trimestral,109.9,Centro,Spinning,42.0,4.29,True,17.0
+1204,2025-04-18,2025-05-18,Trimestral,109.9,Centro,Crossfit,47.0,1.02,True,2.0
+1175,2025-11-25,,Mensal,129.9,Zona Oeste,Yoga,46.0,2.05,False,0.0
+429,2024-09-06,2025-02-01,Mensal,129.9,Zona Leste,Musculacao,25.0,2.53,False,0.0
+1409,2024-04-23,,Anual ,85.4, Centro ,Musculacao,,1.62,True,6.0
+1293,2024-04-30,2024-09-18,Trimestral,104.4,Zona Oeste,Yoga,37.0,2.81,False,0.0
+317,2024-06-01,2024-09-12,Mensal,129.9,Zona Oeste,Musculacao,34.0,3.97,False,0.0
+31,2025-07-16,,Trimestral,109.9,Zona Leste,Musculacao,24.0,3.36,True,12.0
+969,2024-07-18,,Trimestral,-104.4,Zona Oeste,Musculacao,39.0,2.95,False,0.0
+307,2024-06-09,2024-07-18,Mensal,129.9,Zona Leste,Crossfit,19.0,1.74,True,13.0
+937,2025-08-24,2025-09-12,Anual,89.9, Zona Oeste ,Funcional,38.0,,True,5.0
+579,09/04/2025,,Anual,89.9, Zona Leste ,Spinning,17.0,3.41,True,9.0
+340,2024-12-04,2025-03-24,Anual,89.9,Zona Oeste,Funcional,30.0,2.04,True,5.0
+480,25/01/2025,,MENSAL,129.9,Zona Leste,Spinning,33.0,5.01,True,18.0
+678,2024-04-27,,Mensal,129.9, Centro ,Musculacao,1.0,2.27,False,0.0
+608,2025-04-02,,Mensal,129.9,Centro,Yoga,34.0,0.74,False,0.0
+372,2024-04-01,,Mensal,129.9,Zona Leste,Funcional,66.0,2.55,True,14.0
+469,2025-09-28,,Mensal,129.9,Zona Oeste,Crossfit,41.0,3.46,True,16.0
+276,2025-08-28,,Mensal,129.9,Zona Oeste,Musculacao,43.0,3.28,True,11.0
+1048,2025-05-30,,Trimestral,104.4,Zona Leste,Funcional,36.0,3.36,False,
+933,28/11/2024,2025-03-15,Mensal,116.91,Zona Oeste,Yoga,20.0,1.0,True,4.0
+702,2024-01-11,2024-02-06,MENSAL,129.9, Centro ,Funcional,30.0,1.57,False,
+487,2024-04-15,2024-08-10,Mensal,129.9, Zona Leste ,Spinning,46.0,1.57,True,3.0
+1173,2024-01-04,2025-01-31,Mensal,349.79,Zona Leste,Spinning,41.0,1.2,False,0.0
+1390,2024-08-11,2024-11-01,Mensal,129.9,Zona Leste,Crossfit,30.0,1.75,False,0.0
+840,2024-02-05,,Mensal,129.9,Zona Leste,Crossfit,37.0,7.0,False,0.0
+1363,2025-06-15,,Trimestral,109.9,Zona Leste,Crossfit,37.0,4.38,True,14.0
+100,2024-01-04,2024-02-11,Anual,80.91,Zona Leste,Spinning,18.0,4.69,True,
+847,2024-12-09,, Mensal ,129.9,Centro,,20.0,2.48,True,9.0
+305,2025-07-03,,Anual,89.9,Zona Oeste,Funcional,40.0,3.39,False,0.0
+463,2024-04-30,2024-05-19,Anual ,89.9,Zona Oeste,Yoga,39.0,1.95,True,9.0
+384,2024-03-03,2024-11-16,Mensal,129.9,Zona Oeste,Musculacao,30.0,1.34,False,0.0
+507,2024-02-26,,Mensal,129.9,Zona Oeste,Musculacao,53.0,3.47,True,12.0
+484,2024-06-26,2024-10-29,Mensal,129.9,Zona Leste,Musculacao,33.0,1.62,True,8.0
+169,01/06/2024,,Mensal,129.9,Zona Leste,Musculacao,26.0,,False,0.0
+60,2024-01-25,,Mensal,434.53,Centro,Musculacao,,4.83,True,19.0
+24,2025-05-02,,Anual,80.91,Zona Oeste,Musculacao,38.0,7.0,True,26.0
+111,2025-08-28,,Mensal,129.9,Zona Leste,Crossfit,27.0,3.96,True,14.0
+345,06/03/2025,,Trimestral,109.9,Zona Leste,Crossfit,24.0,4.16,True,13.0
+50,2025-05-15,,Mensal,123.4,Zona Leste,Spinning,30.0,4.74,True,13.0
+1287,2025-02-01,,Mensal,129.9,Zona Oeste,Musculacao,28.0,4.21,True,20.0
+1023,2024-12-01,,Anual,89.9,Zona Leste,Yoga,41.0,3.83,False,
+755,26/02/2025,,Trimestral,109.9, Centro ,Musculacao,,3.53,True,13.0
+515,2024-07-14,,Mensal,123.4,Zona Leste,Crossfit,43.0,3.32,False,0.0
+221,2025-06-17,,Mensal,129.9, Zona Leste ,,31.0,3.36,True,12.0
+1069,2025-06-23,,Mensal,129.9,Zona Oeste,Musculacao,42.0,7.0,True,24.0
+1161,2025-08-25,2025-12-29,Mensal,123.4,Centro,Yoga,19.0,0.94,False,0.0
+66,2024-10-12,,Trimestral,109.9,Zona Oeste,Funcional,41.0,2.48,False,0.0
+430,2025-08-29,,Trimestral,109.9,Zona Leste,Spinning,34.0,4.25,True,12.0
+479,2024-10-30,2025-05-07,Trimestral,104.4,Zona Oeste,Musculacao,43.0,2.74,False,0.0
+637,2025-07-22,,Trimestral,109.9,Zona Leste,Musculacao,41.0,2.96,True,7.0
+994,2025-03-21,2025-07-21,Mensal,129.9,Centro,Musculacao,41.0,2.37,False,0.0
+1031,2025-06-07,,Trimestral,98.91,Zona Oeste,Funcional,27.0,,True,14.0
+938,2025-05-23,,Mensal,129.9,Zona Oeste,Funcional,32.0,1.75,True,10.0
+813,2024-01-07,,Anual,85.4,Zona Leste,Musculacao,28.0,6.25,True,20.0
+683,2025-01-14,2025-03-02,Mensal,123.4,Centro,Musculacao,41.0,1.91,True,7.0
+240,2024-01-05,2024-07-10,MENSAL,129.9,Zona Oeste,Musculacao,43.0,,False,0.0
+124,2024-11-02,2025-04-12,Mensal,129.9,Zona Leste,Funcional,27.0,2.57,True,
+644,2025-05-10,,Mensal,-129.9,Centro,Musculacao,36.0,3.85,True,21.0
+77,2024-06-05,, Mensal ,129.9,Centro,Funcional,40.0,4.93,True,13.0
+846,2024-08-19,,Anual,85.4,Zona Leste,Musculacao,31.0,2.52,True,9.0
+1275,2024-01-23,2024-05-25,Mensal,129.9,Zona Oeste,Musculacao,42.0,1.04,False,0.0
+782,2024-11-15,,Anual,89.9, Zona Leste ,Crossfit,23.0,2.99,True,9.0
+52,2025-06-18,,mensal ,129.9,Zona Leste,Spinning,17.0,5.57,True,22.0
+71,2025-03-20,2025-12-03,Mensal,129.9,Zona Leste,Funcional,17.0,0.96,False,0.0
+434,01/10/2025,,Anual,85.4,Centro,Musculacao,32.0,3.97,True,10.0
+1286,2025-05-16,,Anual,89.9,Zona Oeste,Musculacao,51.0,1.94,True,4.0
+241,2024-01-19,,Trimestral,109.9, Zona Leste ,Funcional,32.0,2.63,True,9.0
+125,2024-08-07,2025-01-23,Mensal,129.9,Zona Leste,Musculacao,27.0,1.21,False,0.0
+1102,2024-03-25,,Mensal,123.4,Zona Oeste,Crossfit,24.0,5.33,True,20.0
+375,11/05/2024,2024-06-12,Mensal,129.9,Centro,,40.0,2.17,True,2.0
+1400,2025-11-24,,Mensal,-129.9,Zona Leste,Musculacao,49.0,3.35,True,12.0
+980,2024-07-14,2024-10-03,Mensal,129.9,Centro,Funcional,27.0,1.69,False,0.0
+975,2024-08-08,,Mensal,409.82,Zona Leste,Musculacao,20.0,1.8,True,7.0
+333,2024-11-09,,Trimestral,109.9,Zona Oeste,Crossfit,36.0,1.87,False,0.0
+1147,2025-10-15,2025-11-14,Trimestral,109.9,Zona Oeste,Musculacao,26.0,3.07,False,0.0
+260,2024-04-18,,Trimestral,98.91,Centro,Crossfit,33.0,2.06,True,7.0
+176,02/02/2024,,Mensal,123.4,Centro,Funcional,18.0,2.07,False,0.0
+1484,2024-02-10,,Mensal,129.9,Zona Oeste,Musculacao,46.0,3.43,True,15.0
+716,2024-11-24,2025-02-06,Mensal,129.9,Zona Leste,Musculacao,47.0,2.6,False,0.0
+602,2025-04-21,,Trimestral,109.9,Zona Leste,Musculacao,37.0,6.47,True,22.0
+899,2025-04-08,,Mensal,116.91,Zona Leste,Musculacao,56.0,1.89,True,5.0
+1091,2025-11-20,,mensal ,129.9,Zona Oeste,Funcional,50.0,3.2,True,9.0
+1422,2024-01-26,,mensal ,368.62,Zona Leste,Musculacao,21.0,,True,18.0
+1019,21/03/2025,,Mensal,129.9,Zona Oeste,Funcional,58.0,6.36,True,22.0
+1375,2024-09-06,,Anual,89.9,Zona Leste,,55.0,6.29,True,13.0
+1308,2024-07-11,,Trimestral,98.91,Zona Oeste,Spinning,,5.34,True,18.0
+1337,2024-01-11,2024-02-20,Mensal,123.4,Zona Oeste,Musculacao,30.0,2.86,False,
+486,25/10/2025,,Mensal,123.4,Centro,Musculacao,34.0,3.06,True,11.0
+353,2024-02-27,,Trimestral,109.9,Zona Oeste,Funcional,43.0,3.75,True,17.0
+68,2025-03-12,2025-07-26,Mensal,129.9,Zona Leste,Funcional,46.0,2.2,True,10.0
+845,2024-07-21,2024-09-16,Mensal,129.9,Zona Oeste,Funcional,37.0,2.02,True,10.0
+907,2024-09-16,2024-11-19,Mensal,129.9,Zona Oeste,Musculacao,30.0,3.36,True,11.0
+271,2024-06-29,2024-09-29,Mensal,129.9,Zona Oeste,Funcional,44.0,1.55,False,0.0
+537,2025-04-07,,Mensal,123.4,Centro,Funcional,42.0,7.0,True,20.0
+536,2024-02-22,2024-07-18,Mensal,129.9,Centro,Musculacao,48.0,2.59,False,0.0
+1442,2025-03-08,2025-04-18,mensal,129.9,Zona Leste,Musculacao,42.0,0.65,False,0.0
+1278,2025-10-30,,Mensal,123.4,Zona Oeste,Funcional,32.0,2.91,True,
+910,2024-11-04,2025-04-27,Mensal,123.4,Centro,Musculacao,35.0,2.36,True,
+173,22/10/2024,2025-07-01,MENSAL,129.9,Zona Oeste,Funcional,32.0,4.24,True,20.0
+811,15/12/2024,,mensal,129.9,Centro,Funcional,39.0,3.46,False,0.0
+966,2024-04-02,2024-11-20,mensal ,129.9, Zona Oeste ,Musculacao,,1.13,False,0.0
+30,2024-06-11,2024-08-16,trimestral,109.9,Zona Leste,Musculacao,35.0,1.52,False,0.0
+586,2024-06-08,2025-01-30,Trimestral,104.4,Zona Leste,Spinning,32.0,3.03,False,0.0
+539,2024-07-29,2024-12-04,Mensal,129.9,Zona Oeste,Crossfit,29.0,3.27,True,54.0
+1053,2025-02-23,,Mensal,129.9,Zona Oeste,Musculacao,25.0,4.01,False,0.0
+1213,2025-09-14,,TRIMESTRAL,109.9,Zona Leste,Musculacao,30.0,3.23,True,9.0
+136,2024-06-08,,Mensal,129.9,Zona Leste,Crossfit,55.0,4.43,True,14.0
+680,2025-09-05,,Mensal,129.9,Centro,Funcional,26.0,4.42,True,16.0
+426,2024-08-23,,Trimestral,-109.9,Zona Leste,Spinning,21.0,6.07,True,27.0
+527,2024-03-06,2024-07-18,Anual,89.9, Centro ,,40.0,2.59,True,8.0
+1094,2024-05-27,2025-01-01,Mensal,129.9,Zona Leste,Funcional,25.0,1.04,False,0.0
+1439,03/06/2024,,Anual ,89.9,Zona Leste,Yoga,26.0,5.01,True,19.0
+368,2024-08-05,,trimestral,109.9,Zona Leste,Musculacao,38.0,5.59,True,17.0
+185,2024-05-08,2025-02-16,Trimestral,98.91,Zona Leste,Musculacao,30.0,1.34,False,0.0
+245,2024-05-28,2024-10-21,Trimestral,109.9,Zona Oeste,Musculacao,34.0,3.89,False,
+1360,2024-03-09,,Mensal,116.91,Zona Oeste,Funcional,22.0,,True,15.0
+381,2025-02-08,,Trimestral,109.9, Zona Oeste ,Musculacao,34.0,5.55,True,17.0
+1358,2024-08-12,2024-11-05,Mensal,129.9,Zona Leste,Musculacao,27.0,2.57,True,15.0
+1334,2025-07-02,2025-07-19,Anual,89.9,Centro,Spinning,23.0,1.16,False,0.0
+842,2025-05-09,2025-12-03,Trimestral,109.9,Zona Leste,Spinning,44.0,2.62,False,0.0
+1108,2025-01-20,,Mensal,129.9,Zona Leste,Musculacao,33.0,4.29,True,15.0
+382,20/10/2024,2025-02-03,Anual,89.9,Zona Oeste,Funcional,44.0,4.68,False,0.0
+590,2025-10-03,,Mensal,129.9,Zona Oeste,Musculacao,29.0,2.06,True,4.0
+675,2025-02-03,,Trimestral,343.02,Zona Leste,Funcional,48.0,6.69,True,19.0
+1106,2025-05-05,,Trimestral,104.4,Zona Leste,Yoga,24.0,4.15,True,12.0
+671,2024-10-11,2024-11-19,Mensal,129.9,Zona Leste,Crossfit,48.0,1.72,False,0.0
+142,2024-01-17,2024-06-18,Mensal,129.9,Zona Leste,,46.0,2.82,True,15.0
+1366,2024-07-21,,Mensal,129.9,Zona Leste,Musculacao,50.0,3.89,True,12.0
+1059,2024-05-17,,Mensal,129.9,Zona Oeste,Spinning,,4.42,True,28.0
+1244,2024-05-10,,Mensal,129.9,Zona Oeste,,37.0,5.62,True,20.0
+983,2025-08-15,,Trimestral,109.9,Zona Leste,Musculacao,29.0,5.15,True,22.0
+1243,2024-08-17,,Mensal,129.9,Zona Leste,Musculacao,26.0,3.1,True,14.0
+1474,2024-03-23,2024-04-29,Mensal,129.9,Centro,Musculacao,26.0,3.31,True,14.0
+325,2025-07-31,2025-11-08,ANUAL,-89.9,Zona Oeste,Musculacao,50.0,4.75,True,18.0
+1054,2024-08-08,,Mensal,129.9,Centro,Yoga,20.0,1.61,False,0.0
+204,2024-04-25,,Mensal,123.4, Zona Oeste ,Musculacao,46.0,6.63,True,21.0
+199,2025-06-05,,Mensal,129.9, Centro ,,25.0,4.06,True,10.0
+45,2025-02-11,,Anual,89.9,Zona Oeste,,31.0,1.53,True,
+927,2025-02-28,,Mensal,129.9,Zona Leste,Crossfit,36.0,4.95,True,9.0
+352,2025-08-19,2025-09-13,Mensal,129.9,Centro,Musculacao,24.0,3.37,True,13.0
+947,2024-04-17,2024-06-03,Trimestral,104.4,Zona Leste,Musculacao,35.0,,False,0.0
+1202,2024-04-18,,Trimestral,330.95,Zona Oeste,Musculacao,20.0,1.67,False,0.0
+1259,23/10/2024,,Mensal,129.9,Zona Oeste,Crossfit,41.0,5.05,True,11.0
+116,2024-08-17,,Anual,89.9,Zona Leste,Crossfit,42.0,5.73,True,22.0
+572,2025-07-16,2025-09-05,Anual ,89.9,Zona Leste,Musculacao,,1.94,True,6.0
+1007,2024-12-31,,Anual,89.9, Centro ,,48.0,2.97,False,0.0
+809,2025-09-21,2025-11-27,mensal,129.9,Zona Oeste,Spinning,24.0,2.83,True,12.0
+355,2025-06-03,2025-09-02,Mensal,129.9,Centro,Funcional,44.0,5.77,True,21.0
+1075,2025-05-13,,Anual,89.9,Zona Oeste,Musculacao,37.0,1.63,False,0.0
+381,2025-02-08,,Trimestral,109.9,Zona Oeste,Musculacao,34.0,5.55,True,17.0
+622,2024-01-06,,Mensal,123.4,Zona Leste,Crossfit,42.0,1.59,True,3.0
+79,2024-07-17,,TRIMESTRAL,109.9,Centro,Musculacao,28.0,4.56,True,14.0
+310,2025-08-16,, Mensal ,129.9, Zona Leste ,,35.0,2.27,False,0.0
+1424,2025-10-12,,Mensal,129.9,Zona Oeste,Crossfit,41.0,7.0,True,27.0
+673,2024-05-21,,Anual,80.91,Zona Oeste,,41.0,2.54,True,9.0
+868,28/04/2025,,Trimestral,109.9,Zona Leste,Musculacao,28.0,5.53,True,19.0
+1253,2025-11-30,,Mensal,123.4, Centro ,Musculacao,36.0,4.01,True,
+552,2024-02-27,,Mensal,327.41,Zona Leste,Yoga,42.0,4.78,True,19.0
+16,2024-12-15,,mensal,129.9,Zona Leste,Spinning,40.0,3.91,True,13.0
+1433,29/07/2025,,Mensal,129.9,Zona Oeste,Crossfit,43.0,1.2,False,0.0
+797,2025-06-25,2025-08-03,Mensal,129.9,Zona Oeste,Funcional,35.0,3.06,False,0.0
+1162,2024-10-05,,Trimestral,109.9,Zona Leste,Musculacao,38.0,4.28,True,8.0
+1231,2024-12-28,,Mensal,116.91,Zona Leste,Musculacao,17.0,3.41,True,17.0
+1205,2025-03-12,,Mensal,129.9,Zona Oeste,Crossfit,34.0,,True,14.0
+498,2025-02-02,,Trimestral,109.9,Zona Leste,,38.0,3.86,True,8.0
+1324,29/05/2024,,Trimestral,109.9,Centro,Musculacao,29.0,3.94,True,
+553,2025-02-10,,Mensal,129.9, Zona Oeste ,Spinning,44.0,2.26,False,0.0
+186,2024-10-06,2025-07-01,Trimestral,109.9,Zona Leste,Funcional,,2.65,True,8.0
+1132,2024-02-20,2024-03-07,Mensal,129.9,Zona Oeste,Funcional,34.0,1.4,True,5.0
+1262,2025-10-15,,Mensal,129.9,Centro,Musculacao,46.0,3.71,False,0.0
+1377,2025-10-30,,Trimestral,109.9,Zona Leste,Crossfit,36.0,2.89,True,6.0
+775,2025-01-08,,Mensal,123.4,Centro,Spinning,39.0,2.52,True,13.0
+1038,2024-06-15,,Mensal,129.9,Zona Leste,Spinning,24.0,,True,24.0
+901,21/08/2025,2025-12-12,Mensal,129.9,Zona Oeste,Funcional,23.0,3.39,True,
+1068,2024-07-15,,Trimestral,104.4,Zona Leste,Musculacao,35.0,1.34,True,5.0
+1421,2024-02-26,,Trimestral,109.9,Centro,Musculacao,29.0,3.84,True,
+1049,2025-01-17,,Anual,80.91, Zona Leste ,Musculacao,29.0,2.9,True,
+584,2025-08-07,,Mensal,123.4,Zona Leste,,37.0,3.13,True,16.0
+746,2024-02-11,,MENSAL,129.9,Zona Leste,Crossfit,24.0,4.05,True,12.0
+665,2024-04-02,2024-07-16,Mensal,129.9, Centro ,Musculacao,26.0,1.6,True,5.0
+57,2025-11-05,2025-12-23,Mensal,129.9,Centro,Musculacao,47.0,2.31,True,9.0
+1014,2025-03-03,2025-05-20,Anual,89.9,Zona Leste,Spinning,46.0,2.08,True,7.0
+1214,2025-03-17,,Mensal,129.9,Zona Leste,Funcional,33.0,4.05,True,15.0
+1186,2025-02-24,,Trimestral,109.9,Zona Oeste,Musculacao,24.0,2.78,True,10.0
+1471,2024-09-21,2024-11-01,anual,287.58,Zona Oeste,Musculacao,49.0,4.14,True,9.0
+238,05/11/2025,,Trimestral,109.9,Zona Leste,Crossfit,44.0,,True,19.0
+44,2024-09-04,2025-05-15,mensal,123.4,Zona Leste,Spinning,23.0,,True,10.0
+1320,2024-12-08,,Anual,89.9,Centro,Yoga,37.0,1.34,True,7.0
+383,2024-01-16,,Trimestral,109.9,Zona Leste,Musculacao,41.0,1.6,True,12.0
+905,02/08/2024,,Anual ,89.9, Centro ,Musculacao,30.0,2.77,True,11.0
+662,2025-07-01,,ANUAL,89.9,Zona Leste,Musculacao,28.0,5.47,True,17.0
+102,13/08/2024,,Trimestral,-109.9,Zona Leste,Crossfit,44.0,3.01,True,
+452,2025-09-27,,Anual,89.9,Zona Leste,Yoga,31.0,2.32,True,8.0
+591,2024-03-23,,Anual,89.9,Zona Leste,Musculacao,35.0,2.81,True,15.0
+108,2024-06-08,2024-08-28,Mensal,123.4,Zona Leste,Crossfit,46.0,3.5,False,0.0
+367,2024-02-28,,Trimestral,104.4,Centro,Funcional,34.0,7.0,True,24.0
+1079,2024-02-13,,Trimestral,109.9, Zona Leste ,Crossfit,35.0,4.06,True,18.0
+332,2025-10-27,,Mensal,129.9,Centro,Yoga,27.0,5.7,True,20.0
+421,2024-01-28,,Trimestral,109.9,Zona Oeste,Musculacao,23.0,7.0,True,26.0
+275,2024-10-12,,Trimestral,109.9,Zona Oeste,Musculacao,36.0,7.0,True,81.0
+1203,2025-01-22,,Trimestral,109.9,Zona Leste,Yoga,25.0,3.85,False,0.0
+814,2024-12-09,,Trimestral,109.9,Zona Leste,,25.0,2.91,True,13.0
+737,2025-11-21,,Mensal,123.4,Zona Leste,Musculacao,34.0,0.54,False,0.0
+129,2024-11-10,,Mensal,123.4,Zona Leste,Musculacao,34.0,1.9,True,10.0
+272,2024-12-30,,Mensal,123.4,Zona Oeste,Crossfit,37.0,3.01,True,10.0
+863,19/06/2024,,Trimestral,109.9, Zona Oeste ,Funcional,30.0,1.59,True,8.0
+343,2025-11-05,,Trimestral,98.91,Zona Leste,Musculacao,20.0,4.4,True,16.0
+719,2024-08-01,,Trimestral,109.9, Centro ,Crossfit,,3.25,True,14.0
+1410,2024-02-03,,Trimestral,109.9,Zona Oeste,Musculacao,31.0,2.44,True,6.0
+514,2024-11-16,2025-01-15,Mensal,129.9,Zona Leste,Crossfit,27.0,1.53,False,0.0
+1270,2024-07-07,2024-10-14,MENSAL,129.9,Centro,Yoga,38.0,,False,0.0
+533,2025-04-16,,Mensal,129.9,Zona Leste,Spinning,55.0,2.3,True,12.0
+1404,2024-05-26,,MENSAL,123.4,Centro,Spinning,34.0,6.49,True,16.0
+304,2024-01-30,,Mensal,129.9,Zona Oeste,Musculacao,44.0,4.27,True,21.0
+1109,2025-01-20,,Anual,89.9,Zona Oeste,,30.0,7.0,True,30.0
+1285,2024-07-28,2024-09-22,Anual,89.9,Zona Leste,Musculacao,37.0,1.48,True,6.0
+248,2025-11-28,,Mensal,129.9,Zona Oeste,Funcional,21.0,1.36,False,0.0
+33,20/09/2025,,Mensal,129.9,Zona Oeste,Crossfit,41.0,1.58,False,0.0
+1459,2025-11-21,,Anual,80.91,Zona Leste,Crossfit,46.0,3.29,True,13.0
+616,2025-08-19,2025-09-28,Trimestral,104.4,Centro,Musculacao,24.0,3.83,True,19.0
+1085,11/01/2024,,Anual,89.9, Zona Leste ,Crossfit,43.0,3.34,False,0.0
+555,2024-05-19,2024-09-14,Mensal,129.9,Zona Leste,Musculacao,35.0,2.91,True,8.0
+491,2024-10-17,,trimestral,109.9, Zona Leste ,Musculacao,,3.53,True,8.0
+362,2025-04-06,,Mensal,129.9,Centro,Funcional,26.0,3.04,True,12.0
+262,2025-07-09,,Trimestral,109.9,Zona Leste,Funcional,31.0,2.44,True,7.0
+1466,2024-09-04,,Trimestral,109.9,Zona Oeste,Musculacao,21.0,3.21,True,11.0
+923,2025-01-17,,Trimestral,109.9,Zona Oeste,Crossfit,21.0,4.69,True,17.0
+232,04/11/2024,2025-02-21,Mensal,129.9,Zona Leste,Musculacao,25.0,,False,0.0
+1207,2024-01-29,,Trimestral,109.9,Centro,Musculacao,35.0,4.85,True,21.0
+1321,02/09/2025,2025-11-15,Mensal,129.9,Zona Leste,Musculacao,30.0,2.41,True,11.0
+483,2024-02-27,,Trimestral,109.9,Centro,Crossfit,33.0,2.29,True,5.0
+164,2024-11-29,2024-12-26,Mensal,129.9, Zona Leste ,Spinning,47.0,2.81,False,
+630,2024-05-16,,Trimestral,109.9,Zona Leste,Funcional,18.0,3.97,True,14.0
+1491,2024-07-22,2024-11-10,Mensal,116.91,Centro,Musculacao,24.0,3.37,True,7.0
+1312,21/12/2024,,Anual,89.9,Centro,Funcional,34.0,5.36,True,24.0
+756,2024-07-11,,Mensal,129.9,Zona Oeste,Musculacao,61.0,4.72,False,0.0
+1497,2024-11-11,,Anual,89.9,Zona Oeste,Funcional,40.0,,True,31.0
+612,24/08/2024,,trimestral,109.9,Zona Oeste,Spinning,29.0,5.79,False,0.0
+1380,2025-08-06,,Mensal,123.4,Zona Leste,Musculacao,32.0,3.41,False,0.0
+354,2024-10-19,2025-01-19,Trimestral,104.4,Zona Oeste,Musculacao,17.0,,True,7.0
+1223,2024-03-16,2024-10-05,Anual,80.91,Zona Leste,Musculacao,26.0,5.49,False,0.0
+472,17/04/2024,,Mensal,129.9,Centro,Musculacao,44.0,2.76,True,11.0
+193,2024-11-03,,Mensal,129.9,Zona Leste,Musculacao,38.0,6.88,True,23.0
+711,2025-05-10,,anual,89.9,Centro,Spinning,25.0,2.78,True,8.0
+351,26/10/2025,,Trimestral,109.9,Zona Leste,Spinning,46.0,4.06,True,12.0
+979,2024-10-05,,mensal,116.91, Zona Leste ,Funcional,59.0,4.39,True,19.0
+1399,2024-11-14,2025-01-02,Trimestral,109.9,Zona Oeste,Musculacao,19.0,2.97,True,
+64,2024-06-15,, Trimestral,109.9,Centro,Yoga,19.0,7.0,True,37.0
+722,2025-11-29,,Mensal,129.9,Zona Oeste,Yoga,,0.86,True,2.0
+1092,2025-06-01,,Trimestral,109.9,Centro,Crossfit,22.0,2.21,True,15.0
+949,2024-12-12,2025-04-21,ANUAL,89.9,Zona Oeste,,47.0,2.56,False,0.0
+844,2025-10-16,,Mensal,129.9, Zona Leste ,Musculacao,22.0,1.85,True,7.0
+290,2024-06-08,2024-07-03,Mensal,129.9,Zona Leste,Musculacao,37.0,4.87,True,15.0
+433,2025-07-24,,trimestral,98.91,Zona Oeste,,18.0,3.61,True,19.0
+589,2025-03-29,2025-05-19,Mensal,116.91,Zona Oeste,Funcional,32.0,5.45,False,0.0
+219,13/09/2024,,Anual,89.9,Zona Oeste,Musculacao,22.0,4.03,True,21.0
+1339,2024-07-07,,Anual,85.4,Zona Leste,Musculacao,20.0,4.3,True,18.0
+1247,03/06/2025,,Trimestral,104.4, Zona Leste ,Yoga,23.0,3.92,True,11.0
+1413,2025-04-12,2025-05-13,Anual,85.4, Zona Oeste ,Crossfit,36.0,1.49,False,
+629,2025-07-30,,Trimestral,298.42,Zona Leste,Yoga,33.0,6.55,True,26.0
+1097,2025-10-30,,Mensal,123.4,Zona Leste,Crossfit,34.0,3.26,True,16.0
+1273,2024-03-13,2024-08-24,Mensal,129.9,Centro,Musculacao,29.0,2.77,True,
+1103,2024-06-30,,Trimestral,109.9,Zona Oeste,Crossfit,34.0,3.73,True,14.0
+428,2025-08-22,,Anual,89.9,Zona Oeste,,31.0,,True,37.0
+655,2024-02-28,,anual,89.9, Zona Oeste ,Funcional,34.0,5.16,True,26.0
+1033,2024-11-09,,Mensal,129.9, Zona Oeste ,Musculacao,23.0,,True,9.0
+561,09/04/2024,2024-09-23,Mensal,129.9,Centro,Crossfit,35.0,4.27,True,13.0
+298,2025-11-28,,Trimestral,109.9,Zona Leste,Spinning,27.0,4.6,False,0.0
+959,2025-10-29,, Mensal ,129.9,Zona Leste,Funcional,16.0,4.34,True,20.0
+611,2025-08-26,,Trimestral,104.4,Zona Oeste,Spinning,36.0,2.65,True,8.0
+299,2024-01-11,2024-03-26,Trimestral,359.35,Zona Oeste,Yoga,49.0,,True,14.0
+1090,2024-01-23,,Mensal,129.9,Zona Leste,Funcional,17.0,2.97,True,8.0
+661,2024-09-01,2024-09-24,Mensal,116.91, Zona Leste ,Musculacao,37.0,1.33,False,0.0
+1444,2025-01-25,2025-05-12,Mensal,129.9,Zona Leste,Musculacao,42.0,1.64,False,0.0
+412,2024-03-28,2024-05-14,Trimestral,104.4,Zona Leste,Funcional,38.0,2.91,True,14.0
+620,2024-06-24,2024-10-04,Mensal,123.4,Zona Leste,Musculacao,43.0,1.26,False,0.0
+1240,2025-02-11,,Mensal,129.9,Zona Oeste,Musculacao,33.0,3.44,True,22.0
+278,2025-03-29,,Mensal,129.9,Zona Leste,Spinning,32.0,2.33,True,8.0
+1200,2025-05-07,2025-11-21,Trimestral,109.9,Centro,Crossfit,36.0,3.05,True,9.0
+880,2025-04-14,,Trimestral,109.9,Zona Oeste,Musculacao,26.0,4.4,False,0.0
+631,2025-01-15,,Anual,89.9,Zona Leste,Funcional,30.0,6.5,True,21.0
+237,2024-05-22,,Mensal,123.4,Centro,Musculacao,19.0,5.4,True,16.0
+1281,25/04/2025,2025-11-05,Mensal,129.9, Zona Leste ,,31.0,2.57,True,10.0
+1353,2024-07-13,,Mensal,129.9,Centro,,51.0,2.8,True,11.0
+1489,16/11/2025,,Anual,89.9,Zona Leste,Musculacao,40.0,3.78,False,0.0
+906,30/08/2024,,Trimestral,348.88,Zona Leste,Musculacao,28.0,4.09,True,12.0
+1230,2025-10-09,,Mensal,129.9,Centro,Funcional,38.0,5.33,False,0.0
+209,2025-11-29,,MENSAL,129.9,Centro,Crossfit,65.0,1.22,False,0.0
+395,2025-08-05,,Mensal,129.9,Zona Leste,Musculacao,33.0,3.52,True,22.0
+427,2024-07-09,2024-08-30,Mensal,129.9,Zona Leste,Spinning,34.0,2.06,True,7.0
+532,2025-06-27,,Trimestral,109.9,Zona Oeste,Spinning,37.0,4.07,True,16.0
+59,2024-05-15,2024-09-14,Mensal,129.9,Zona Oeste,Musculacao,50.0,3.51,False,0.0
+900,2025-04-17,,Mensal,129.9,Zona Oeste,Crossfit,30.0,3.64,True,15.0
+1492,2025-02-05,, Trimestral,109.9,Centro,Musculacao,21.0,4.01,True,16.0
+495,2025-08-10,,Trimestral,104.4, Zona Oeste ,Funcional,,3.28,True,10.0
+766,2024-08-10,,mensal ,129.9, Zona Leste ,Musculacao,20.0,4.83,True,
+1226,2025-06-27,2025-09-25,Anual,89.9,Zona Oeste,Musculacao,44.0,4.41,True,18.0
+757,14/12/2024,,mensal ,129.9,Centro,Musculacao,47.0,3.85,True,13.0
+1246,2024-09-19,2024-12-06,Mensal,129.9,Centro,Spinning,24.0,2.09,True,9.0
+753,2025-09-19,, Mensal ,116.91, Zona Leste ,,35.0,4.12,False,0.0
+870,2024-07-03,2024-09-18,Mensal,129.9,Zona Oeste,Musculacao,30.0,,True,8.0
+482,2024-07-03,,Mensal,129.9, Zona Leste ,Crossfit,20.0,3.17,True,9.0
+530,2024-09-25,,Mensal,129.9,Zona Oeste,Musculacao,18.0,3.15,True,18.0
+1189,2024-06-27,,Mensal,123.4,Zona Leste,Musculacao,40.0,1.13,True,4.0
+860,2025-07-27,,Mensal,123.4,Zona Leste,Musculacao,28.0,,True,19.0
+1141,2025-08-22,,Mensal,129.9,Zona Oeste,Yoga,48.0,1.68,False,0.0
+234,2025-02-10,2025-05-05,Trimestral,109.9,Zona Leste,Musculacao,22.0,1.35,False,0.0
+652,2025-07-21,2025-09-02,Anual,89.9,Zona Leste,Musculacao,35.0,3.04,False,0.0
+197,2025-05-02,,Trimestral,109.9,Zona Leste,Spinning,36.0,3.96,True,10.0
+585,2025-04-08,2025-08-05,anual,89.9,Zona Oeste,Crossfit,31.0,2.79,True,9.0
+1493,2024-03-22,,Trimestral,109.9,Zona Leste,Spinning,40.0,4.17,True,17.0
+82,2024-01-16,2024-02-04,Mensal,129.9,Zona Leste,Funcional,43.0,2.5,False,0.0
+1446,2025-03-18,,Trimestral,104.4,Zona Leste,Funcional,27.0,,True,8.0
+951,01/10/2025,,Mensal,129.9,Zona Oeste,Spinning,,3.48,True,17.0
+1191,2024-10-19,,Mensal,129.9,Centro,Spinning,36.0,7.0,True,28.0
+112,2025-01-31,,Mensal,129.9,Zona Oeste,Musculacao,34.0,3.06,True,7.0
+1315,2025-02-19,2025-08-20,Mensal,129.9,Zona Leste,Musculacao,38.0,1.8,True,2.0
+865,2024-05-22,,Mensal,116.91,Zona Oeste,Spinning,20.0,3.05,True,6.0
+1305,2025-05-06,, Trimestral,109.9, Zona Leste ,Spinning,34.0,2.49,True,59.0
+417,07/10/2024,2024-12-31,MENSAL,116.91,Zona Oeste,Musculacao,22.0,2.41,True,
+1304,2025-06-09,2025-10-07,Mensal,129.9,Zona Oeste,Musculacao,34.0,2.45,True,7.0
+1477,24/03/2024,2024-05-03,MENSAL,129.9,Zona Oeste,Musculacao,52.0,1.59,False,0.0
+1290,2025-03-21,,Trimestral,109.9, Zona Leste ,Musculacao,68.0,2.34,False,0.0
+311,2025-05-27,2025-10-04,Mensal,123.4,Zona Leste,Musculacao,35.0,1.59,True,
+783,2025-02-02,, Mensal ,116.91, Zona Leste ,Funcional,23.0,6.14,True,32.0
+423,2025-10-19,2025-11-24,Mensal,123.4,Zona Oeste,Spinning,59.0,2.01,False,0.0
+567,2024-11-11,,Trimestral,109.9,Zona Oeste,,39.0,3.43,True,17.0
+465,2024-04-22,,Trimestral,109.9,Zona Oeste,Funcional,29.0,2.25,True,11.0
+1282,2025-08-17,,Mensal,129.9,Zona Leste,Crossfit,31.0,2.29,False,0.0
+406,2025-03-14,,Anual,85.4,Zona Leste,Funcional,20.0,1.87,True,2.0
+1088,2025-06-12,2025-06-29,Trimestral,109.9,Zona Leste,Musculacao,34.0,3.03,True,12.0
+677,28/03/2024,2024-07-20,Anual,89.9,Zona Leste,Musculacao,32.0,2.86,False,0.0
+1056,31/10/2025,,Trimestral,109.9, Zona Oeste ,Musculacao,45.0,4.35,True,
+440,2024-03-08,,Trimestral,109.9,Zona Leste,Yoga,26.0,5.15,True,21.0
+755,26/02/2025,,Trimestral,109.9, Centro ,Musculacao,,3.53,True,13.0
+888,2024-01-03,,Mensal,129.9,Zona Leste,Yoga,43.0,3.43,True,14.0
+535,20/10/2024,,Mensal,123.4,Zona Leste,Musculacao,29.0,7.0,True,26.0
+781,2024-08-17,,Mensal,123.4,Zona Leste,Yoga,33.0,2.71,True,8.0
+1252,2025-10-18,,Mensal,116.91,Zona Oeste,Spinning,32.0,5.63,True,19.0
+1314,04/09/2025,2025-11-04,Mensal,129.9,Zona Leste,Musculacao,34.0,1.05,False,0.0
+1193,2024-06-21,,Anual,85.4,Centro,Musculacao,31.0,,True,18.0
+1037,2024-10-18,,Mensal,357.57,Centro,,,6.43,True,
+799,06/05/2025,,Trimestral,104.4, Zona Leste ,Musculacao,40.0,2.22,False,0.0
+1114,2025-02-02,,Anual,85.4,Zona Oeste,Musculacao,,2.07,True,7.0
+255,2024-08-18,,MENSAL,129.9,Zona Leste,,24.0,4.78,True,14.0
+323,2024-11-16,,Mensal,123.4,Zona Oeste,Funcional,36.0,6.94,True,25.0
+1125,2024-10-09,2025-03-13,Mensal,401.64,Zona Oeste,Crossfit,40.0,3.45,False,0.0
+1166,2025-06-04,,Anual,89.9,Centro,Funcional,,4.06,False,0.0
+1099,04/05/2024,2024-06-27,Anual,80.91,Centro,Musculacao,27.0,1.82,False,0.0
+705,25/08/2024,,Mensal,129.9,Zona Leste,Yoga,47.0,6.93,True,21.0
+571,2024-08-04,,Mensal,123.4,Centro,Musculacao,19.0,4.29,True,22.0
+889,2024-01-15,2024-02-27,Mensal,129.9, Zona Oeste ,Yoga,46.0,2.28,True,6.0
+366,2024-07-31,,Mensal,129.9,Centro,Musculacao,27.0,3.97,True,
+964,23/10/2024,,Mensal,116.91,Zona Oeste,Musculacao,17.0,7.0,True,29.0
+87,11/01/2024,,Trimestral,109.9,Zona Leste,Musculacao,36.0,1.84,False,0.0
+1463,28/10/2024,,Mensal,123.4,Zona Leste,Funcional,35.0,5.14,True,19.0
+266,2025-08-23,,Mensal,129.9,Zona Leste,,43.0,3.45,True,18.0
+288,2025-07-21,,Mensal,129.9, Zona Oeste ,Funcional,48.0,1.64,True,12.0
+765,2025-09-21,,Anual,89.9,Zona Oeste,Yoga,30.0,2.7,True,10.0
+359,2025-11-20,,Mensal,129.9,Zona Leste,Spinning,35.0,4.15,True,17.0
+454,2025-02-18,,Mensal,129.9,Centro,Funcional,32.0,4.42,True,18.0
+1434,2025-08-04,,Mensal,129.9,Centro,Musculacao,37.0,2.7,True,8.0
+562,2025-04-22,,Mensal,129.9,Zona Leste,Musculacao,48.0,2.56,False,0.0
+1435,2024-12-06,2025-06-13,Mensal,123.4, Zona Oeste ,Musculacao,30.0,2.5,False,0.0
+773,2025-10-20,,Trimestral,109.9,Zona Oeste,Musculacao,29.0,2.31,False,0.0
+222,2024-12-19,,Mensal,129.9,Zona Leste,Spinning,25.0,3.01,False,0.0
+114,2025-03-30,2025-06-21,Trimestral,104.4,Zona Leste,Spinning,37.0,3.27,True,18.0
+603,2024-06-04,,Anual,89.9,Centro,Yoga,17.0,4.66,True,16.0
+614,2024-10-20,,Anual,89.9,Zona Oeste,Funcional,50.0,3.74,True,13.0
+175,2024-06-23,2024-09-17,Mensal,129.9,Centro,Musculacao,33.0,2.24,False,0.0
+1113,2025-08-09,,Trimestral,109.9,Zona Oeste,Musculacao,30.0,5.53,True,22.0
+1354,2024-01-23,,Mensal,129.9,Zona Leste,Spinning,24.0,3.03,True,10.0
+1081,2024-11-11,,Mensal,129.9,Zona Leste,Musculacao,51.0,,True,18.0
+1211,2025-04-26,2025-08-07,trimestral,109.9,Centro,Spinning,28.0,,False,0.0
+19,2024-02-06,2024-04-13,Trimestral,109.9,Zona Leste,Spinning,40.0,3.33,True,8.0
+1034,2024-08-10,,Anual,89.9,Zona Leste,Crossfit,21.0,5.56,True,87.0
+286,23/07/2025,2025-08-28,Mensal,129.9,Centro,Yoga,57.0,1.95,True,
+916,2024-11-15,,ANUAL,89.9,Zona Leste,Musculacao,42.0,3.37,True,17.0
+1011,2024-11-15,,Trimestral,98.91, Zona Oeste ,Yoga,40.0,3.08,True,13.0
+1232,29/04/2024,,Trimestral,109.9,Zona Leste,Funcional,30.0,1.99,True,7.0
+32,21/01/2024,,Anual,89.9, Zona Leste ,Musculacao,32.0,5.05,True,
+1220,2024-05-15,,Mensal,129.9,Zona Oeste,Yoga,36.0,3.08,False,0.0
+211,2025-03-24,2025-07-18,Trimestral,98.91, Centro ,Funcional,35.0,2.08,False,0.0
+830,20/03/2025,,Mensal,123.4,Zona Oeste,Musculacao,35.0,2.66,True,7.0
+1419,2024-01-04,,Anual,85.4,Zona Leste,Crossfit,19.0,1.93,True,53.0
+1119,2024-09-27,2024-12-21,Mensal,129.9,Centro,Spinning,31.0,3.53,True,5.0
+1344,2025-03-21,,Trimestral,98.91,Zona Leste,Musculacao,40.0,3.28,True,12.0
+1157,2024-10-16,,Mensal,129.9,Zona Leste,Funcional,40.0,4.13,True,13.0
+985,2025-02-01,,Mensal,129.9,Centro,Musculacao,25.0,5.29,True,15.0
+944,14/02/2025,,Mensal,129.9,Zona Oeste,Spinning,20.0,7.0,True,24.0
+1359,2025-01-06,,Trimestral,104.4,Zona Oeste,,20.0,5.32,True,18.0
+189,2024-12-18,,Trimestral,109.9,Zona Oeste,Yoga,34.0,5.56,True,18.0
+414,2024-10-31,,Anual,89.9,Zona Oeste,Musculacao,35.0,3.65,True,15.0
+989,2025-08-21,,Mensal,129.9,Zona Leste,Funcional,29.0,3.28,True,10.0
+528,2024-07-29,,Anual ,89.9,Zona Leste,Musculacao,33.0,3.8,True,11.0
+915,2025-09-20,,Anual,89.9,Zona Oeste,Musculacao,62.0,6.25,True,17.0
+416,2024-12-28,2025-05-23,Mensal,129.9,Zona Leste,Musculacao,38.0,1.78,True,5.0
+1138,2024-01-08,,Mensal,116.91,Zona Leste,Musculacao,30.0,3.31,True,7.0
+84,2025-01-05,2025-02-17,mensal,123.4,Zona Leste,Musculacao,25.0,1.86,True,6.0
+708,2024-01-22,,Trimestral,109.9,Zona Leste,Crossfit,26.0,5.19,True,26.0
+49,2025-11-28,,Trimestral,109.9,Zona Leste,Funcional,49.0,,True,12.0
+1322,27/08/2025,,Mensal,123.4,Zona Oeste,Funcional,23.0,1.3,True,0.0
+156,2024-07-21,,Trimestral,109.9,Zona Leste,Musculacao,34.0,2.31,True,38.0
+1101,2024-07-09,,Mensal,129.9,Zona Leste,Crossfit,39.0,4.97,True,15.0
+1174,17/10/2025,,Trimestral,109.9,Zona Oeste,Funcional,29.0,6.33,True,26.0
+439,2024-10-04,,Trimestral,109.9,Zona Leste,Spinning,29.0,4.56,True,62.0
+1084,2024-09-17,,Anual,89.9,Zona Leste,Musculacao,49.0,4.11,True,28.0
+853,2024-05-06,2024-10-16,Anual,85.4,Zona Leste,Musculacao,19.0,5.11,True,19.0
+1266,2024-12-17,2025-07-26,Trimestral,109.9,Centro,Spinning,43.0,2.02,True,8.0
+79,2024-07-17,,TRIMESTRAL,109.9,Centro,Musculacao,28.0,4.56,True,14.0
+1176,2024-02-24,,Trimestral,109.9,Zona Oeste,Funcional,48.0,3.85,True,9.0
+180,2024-07-14,2024-08-28, Trimestral,104.4,Zona Oeste,Musculacao,50.0,2.59,False,0.0
+1369,2024-06-09,,Mensal,129.9,Centro,Musculacao,,5.34,False,0.0
+1284,2025-03-20,,Trimestral,104.4,Zona Leste,Crossfit,45.0,1.32,True,8.0
+577,2025-08-02,,Anual,89.9,Centro,Musculacao,21.0,3.1,True,9.0
+545,2024-01-10,,Mensal,129.9,Centro,Funcional,30.0,2.27,True,10.0
+862,2025-05-10,,Trimestral,109.9, Zona Leste ,Yoga,28.0,3.44,False,0.0
+364,2024-11-16,,Mensal,123.4,Zona Oeste,Musculacao,37.0,5.84,True,26.0
+1212,2025-11-08,,Trimestral,109.9,Zona Leste,Funcional,48.0,4.56,True,17.0
+1234,2024-02-12,,Trimestral,109.9,Zona Leste,Musculacao,19.0,4.92,True,19.0
+347,2024-07-02,,Anual,89.9,Zona Leste,Musculacao,28.0,3.41,False,0.0
+1118,2024-10-24,,Trimestral,109.9,Centro,Spinning,42.0,4.29,True,17.0
+494,25/05/2025,,Mensal,129.9,Zona Leste,Funcional,36.0,6.38,True,15.0
+721,2024-03-02,,Mensal,129.9,Zona Leste,Yoga,40.0,3.21,False,0.0
+693,2024-06-02,,Mensal,123.4,Zona Oeste,Musculacao,54.0,4.22,True,13.0
+1331,2024-10-08,,Trimestral,109.9,Zona Leste,Musculacao,42.0,2.5,True,9.0
+621,18/09/2025,2025-12-24,Trimestral,109.9,Zona Leste,Crossfit,52.0,1.32,False,0.0
+599,2024-02-12,,Anual,89.9,Zona Leste,Funcional,30.0,5.49,True,22.0
+1086,2024-07-12,,Trimestral,109.9,Zona Leste,Funcional,28.0,2.85,True,11.0
+244,01/01/2024,,Mensal,129.9,Centro,Musculacao,41.0,3.34,True,9.0
+850,25/05/2025,,Anual,85.4, Zona Leste ,Crossfit,22.0,4.98,True,
+568,2025-09-26,,Mensal,129.9,Centro,Spinning,29.0,3.25,True,18.0
+650,2024-07-05,,Mensal,-123.4,Zona Leste,Crossfit,33.0,6.07,True,20.0
+807,2025-04-01,2025-06-10,Trimestral,109.9,Zona Oeste,Musculacao,27.0,2.07,True,8.0
+940,27/04/2024,,Mensal,123.4,Zona Oeste,Funcional,27.0,5.18,True,21.0
+848,30/06/2025,,Trimestral,104.4,Centro,Crossfit,36.0,3.57,True,11.0
+436,2025-10-28,,Mensal,123.4,Zona Leste,Spinning,35.0,5.06,True,
+1462,2024-11-01,,Mensal,129.9,Centro,Musculacao,19.0,3.92,True,9.0
+576,2024-08-03,2024-12-25,Mensal,129.9,Zona Oeste,Musculacao,38.0,1.43,True,5.0
+309,2025-04-15,,Mensal,123.4,Zona Leste,Musculacao,23.0,4.02,True,14.0
+431,2025-04-03,,Anual,85.4, Zona Oeste ,Musculacao,22.0,5.1,True,26.0
+931,2025-10-31,,Mensal,116.91,Centro,Funcional,50.0,4.79,True,34.0
+399,2024-06-20,2024-08-22,MENSAL,123.4,Zona Leste,Crossfit,32.0,2.98,False,0.0
+424,2024-07-27,, Mensal ,129.9,Zona Leste,Musculacao,25.0,3.69,True,3.0
+371,2024-11-25,2025-06-02,TRIMESTRAL,109.9,Zona Leste,Spinning,43.0,,True,11.0
+55,2025-08-05,2025-10-17,Trimestral,109.9,Zona Leste,Spinning,49.0,,True,
+1215,2025-05-24,2025-07-22,Mensal,123.4,Centro,Musculacao,54.0,2.6,True,6.0
+1280,2024-09-06,,Trimestral,98.91,Zona Leste,Yoga,38.0,3.5,False,0.0
+600,2025-01-02,,Trimestral,109.9,Zona Leste,Spinning,46.0,3.13,False,
+313,2024-03-22,2024-04-21,Mensal,129.9,Zona Oeste,Funcional,36.0,3.07,False,0.0
+974,2025-05-07,,Anual,89.9,Zona Oeste,Spinning,26.0,4.61,True,17.0
+1197,29/05/2025,,Mensal,129.9,Centro,Funcional,21.0,2.71,True,12.0
+110,2024-12-24,,Anual,89.9,Zona Leste,Spinning,22.0,2.36,False,0.0
+882,2025-09-04,,Trimestral,109.9,Zona Leste,Crossfit,45.0,3.26,False,0.0
+728,2025-08-28,,Mensal,129.9,Zona Leste,,32.0,4.48,True,15.0
+101,19/12/2024,,Anual,80.91,Centro,Funcional,36.0,4.44,True,17.0
+501,2024-10-23,,Trimestral,414.44,Centro,Spinning,33.0,5.78,True,31.0
+706,2025-07-16,,trimestral,109.9,Zona Oeste,Funcional,35.0,,True,18.0
+1417,2025-04-04,,Mensal,129.9,Zona Leste,Spinning,38.0,6.49,True,26.0
+267,2025-01-31,2025-08-03,Mensal,-116.91,Centro,Crossfit,27.0,1.91,True,6.0
+715,2024-06-14,,Trimestral,104.4,Centro,Musculacao,28.0,7.0,True,28.0
+297,24/06/2024,,Anual,85.4,Zona Oeste,Crossfit,16.0,4.85,True,11.0
+875,18/04/2024,,Trimestral,98.91,Zona Leste,Musculacao,34.0,3.36,True,10.0
+462,2025-03-25,,MENSAL,129.9,Zona Leste,Spinning,38.0,2.33,True,37.0
+1122,2024-09-17,2025-06-10,Mensal,123.4,Centro,Musculacao,38.0,2.79,False,
+1036,2024-09-26,,Trimestral,109.9, Zona Oeste ,Musculacao,25.0,4.58,True,58.0
+1182,2025-05-05,,Mensal,129.9,Centro,Spinning,23.0,,True,13.0
+378,2024-10-15,,Mensal,129.9,Zona Leste,Funcional,26.0,4.21,True,14.0
+287,2025-05-28,2025-09-19,Mensal,123.4,Zona Leste,Musculacao,43.0,2.41,False,0.0
+1482,2025-04-15,2025-08-31,Mensal,129.9,Zona Leste,Spinning,30.0,2.19,True,9.0
+768,10/11/2024,2025-03-02,Mensal,123.4,Zona Oeste,Funcional,31.0,4.66,True,18.0
+127,2025-08-21,2025-12-24,Mensal,129.9,Zona Leste,Spinning,29.0,1.55,False,0.0
+328,2025-03-15,2025-09-03,Mensal,129.9,Zona Oeste,Funcional,33.0,3.39,True,9.0
+293,2025-09-18,,Anual,89.9, Zona Leste ,Musculacao,25.0,6.35,True,21.0
+788,04/12/2024,2025-04-10,Mensal,129.9, Zona Oeste ,Funcional,999.0,4.09,True,16.0
+765,2025-09-21,,Anual,89.9,Zona Oeste,Yoga,30.0,2.7,True,10.0
+1008,2025-08-08,,Mensal,123.4,Centro,Musculacao,33.0,4.18,True,
+356,2025-05-31,2025-07-14,Mensal,129.9,Centro,Yoga,28.0,2.15,True,8.0
+1256,2024-07-31,,Anual ,89.9,Centro,Musculacao,24.0,2.59,True,8.0
+171,2025-07-25,2025-10-31,Mensal,129.9,Zona Leste,Spinning,44.0,1.28,False,0.0
+890,2024-10-15,2025-01-05,TRIMESTRAL,-109.9,Zona Leste,Musculacao,31.0,0.87,False,0.0
+1156,2024-07-03,,MENSAL,391.02,Centro,Yoga,27.0,2.63,True,8.0
+987,09/03/2025,,Mensal,129.9,Zona Oeste,Musculacao,36.0,2.66,True,11.0
+817,2025-04-16,,Anual,89.9,Zona Leste,Funcional,46.0,5.42,True,21.0
+1306,23/09/2025,,Anual,89.9,Zona Leste,Spinning,31.0,7.0,True,35.0
+210,2024-03-02,,Mensal,129.9,Zona Leste,,,1.66,False,0.0
+1192,2025-02-24,2025-05-03,Mensal,129.9,Zona Leste,Spinning,40.0,1.82,False,0.0
+549,2025-03-20,,Trimestral,109.9,Zona Leste,Crossfit,42.0,2.42,True,8.0
+141,2025-07-23,,Mensal,116.91,Zona Oeste,Funcional,40.0,,False,0.0
+1111,2025-06-17,2025-09-11, Mensal ,123.4,Centro,Spinning,16.0,4.03,True,14.0
+1032,2025-07-15,,Trimestral,98.91,Zona Oeste,Yoga,29.0,3.55,True,10.0
+819,2024-09-19,,Trimestral,109.9,Zona Oeste,Yoga,25.0,2.61,True,8.0
+1224,2024-09-21,,Trimestral,109.9,Zona Leste,Funcional,36.0,4.85,True,24.0
+723,2024-11-17,,Mensal,129.9,Zona Leste,Musculacao,36.0,3.93,True,13.0
+701,2024-11-15,,Mensal,129.9,Zona Leste,Funcional,31.0,5.87,True,17.0
+651,2024-08-25,2024-12-27,Mensal,129.9,Zona Oeste,Musculacao,31.0,1.13,False,0.0
+200,2024-08-06,,Mensal,116.91,Zona Oeste,Musculacao,33.0,3.45,False,0.0
+939,05/03/2025,,Anual,85.4,Zona Leste,Crossfit,21.0,3.34,True,14.0
+1277,2024-04-03,2024-07-20,Mensal,129.9,Zona Oeste,Musculacao,28.0,1.84,True,
+745,2024-04-07,,Mensal,129.9,Zona Leste,Musculacao,39.0,5.39,True,21.0
+1064,2025-10-30,,Trimestral,109.9,Zona Oeste,Yoga,43.0,2.59,True,8.0
+731,14/09/2025,,Mensal,129.9,Zona Leste,Funcional,0.0,1.14,True,6.0
+11,02/03/2024,,Mensal,129.9,Zona Leste,Musculacao,29.0,,False,0.0
+148,2025-02-09,,Mensal,129.9,Centro,Musculacao,27.0,2.76,True,11.0
+402,30/07/2025,,Anual,85.4,Zona Leste,Musculacao,33.0,3.62,True,21.0
+283,2024-05-09,,Mensal,129.9,Zona Leste,Musculacao,37.0,5.1,False,0.0
+292,2024-01-27,2024-04-17, Mensal ,123.4,Zona Leste,Funcional,35.0,1.24,False,0.0
+583,06/02/2024,2024-09-02,Mensal,129.9,Zona Oeste,Musculacao,29.0,1.36,True,1.0
+1047,2024-07-25,,Mensal,129.9,Centro,Crossfit,41.0,3.12,True,16.0
+130,2024-02-03,,Trimestral,109.9,Zona Leste,Spinning,59.0,5.23,True,
+324,2025-09-17,, Mensal ,129.9,Zona Oeste,Funcional,25.0,4.32,True,17.0
+818,2024-08-15,,Mensal,332.71,Zona Oeste,Musculacao,29.0,2.9,True,6.0
+523,2024-12-15,,Mensal,123.4,Zona Leste,,23.0,1.77,True,9.0
+592,20/02/2024,,Mensal,123.4,Centro,Spinning,22.0,6.0,True,23.0
+670,2024-01-25,2024-09-06,Mensal,129.9,Zona Oeste,Musculacao,17.0,4.1,True,16.0
+1436,2025-02-20,,anual,89.9,Zona Oeste,Funcional,30.0,6.32,True,13.0
+694,2025-02-08,2025-06-27,Mensal,129.9,Zona Leste,Musculacao,33.0,3.65,True,20.0
+1427,03/10/2025,2025-12-09,Mensal,129.9,Zona Oeste,Musculacao,54.0,3.39,True,12.0
+159,2025-06-28,,Trimestral,109.9,Zona Leste,Funcional,25.0,1.96,False,0.0
+618,2024-06-15,,MENSAL,129.9,Zona Leste,Musculacao,24.0,3.11,True,11.0
+998,2024-10-01,,Mensal,123.4,Zona Leste,Funcional,20.0,6.54,True,17.0
+1104,2024-06-26,,ANUAL,89.9, Zona Oeste ,Musculacao,56.0,5.38,True,21.0
+196,2025-10-06,2025-12-03,Mensal,-123.4,Zona Oeste,Musculacao,24.0,2.07,True,4.0
+1278,2025-10-30,,Mensal,123.4,Zona Oeste,Funcional,32.0,2.91,True,
+1388,22/07/2024,,Mensal,129.9,Centro,Crossfit,24.0,2.86,True,10.0
+411,2024-09-01,2024-12-23,Trimestral,109.9,Zona Leste,Spinning,41.0,3.52,True,14.0
+97,2025-02-04,,mensal,123.4,Zona Leste,Musculacao,35.0,1.78,False,0.0
+615,2024-08-27,2025-03-12,Mensal,129.9,Zona Leste,Funcional,44.0,2.13,True,8.0
+157,18/01/2024,2024-02-23,Mensal,129.9,Zona Leste,Spinning,43.0,,False,0.0
+420,20/04/2025,2025-05-24,Anual,89.9, Centro ,Funcional,41.0,2.96,False,0.0
+1416,27/07/2025,,Trimestral,-109.9,Zona Leste,Musculacao,36.0,3.44,False,0.0
+478,2024-04-01,,Trimestral,109.9, Centro ,Funcional,25.0,4.17,True,12.0
+1346,2024-04-09,2025-01-20,trimestral,104.4, Zona Oeste ,Crossfit,28.0,1.73,False,0.0
+681,2024-11-12,,Mensal,123.4, Centro ,Crossfit,27.0,5.67,True,28.0
+988,2025-03-12,,Mensal,129.9,Centro,Musculacao,36.0,0.41,True,1.0
+448,2025-11-13,2025-12-28,Trimestral,98.91,Centro,Crossfit,34.0,2.36,False,0.0
+179,2025-08-16,,Anual,89.9,Centro,Spinning,45.0,5.26,True,14.0
+391,2024-02-15,,Trimestral,109.9, Zona Leste ,,41.0,4.64,False,0.0
+1328,2025-01-31,, Trimestral,109.9,Zona Leste,Crossfit,35.0,7.0,True,24.0
+894,2025-02-05,,Mensal,129.9, Zona Leste ,Crossfit,41.0,,True,12.0
+1279,2025-06-17,,Anual,89.9,Zona Leste,Musculacao,35.0,2.92,True,10.0
+1472,25/04/2025,,Mensal,123.4, Zona Oeste ,Crossfit,31.0,2.93,False,0.0
+1074,2024-03-25,,Anual,89.9,Centro,Yoga,29.0,5.93,False,0.0
+669,2025-08-26,,Mensal,129.9,Zona Leste,Musculacao,59.0,6.15,True,18.0
+1272,2025-11-28,,Mensal,129.9, Centro ,Crossfit,47.0,3.34,True,19.0
+1143,2024-10-27,,ANUAL,89.9, Zona Oeste ,Spinning,23.0,3.81,True,12.0
+902,2025-05-08,2025-11-09,Mensal,129.9,Centro,Funcional,48.0,2.16,False,0.0
+1089,2024-11-20,,MENSAL,123.4,Zona Oeste,Crossfit,36.0,4.69,True,16.0
+295,18/12/2024,,Anual,85.4,Centro,Musculacao,31.0,3.34,True,9.0
+835,2024-08-16,,Trimestral,-98.91,Zona Leste,Musculacao,,2.92,True,18.0
+919,2025-03-15,,Mensal,123.4,Zona Leste,Musculacao,24.0,2.84,True,58.0
+89,28/10/2024,2025-04-26,Mensal,129.9,Zona Leste,Funcional,49.0,1.35,True,8.0
+42,03/02/2024,,Anual,89.9,Zona Leste,Crossfit,33.0,3.67,True,18.0
+1327,05/11/2024,,mensal ,129.9, Zona Oeste ,Crossfit,28.0,3.1,True,12.0
+632,2025-11-06,,trimestral,109.9,Zona Oeste,Musculacao,47.0,,False,
+695,2025-02-12,,Anual,80.91,Zona Oeste,Musculacao,22.0,4.93,True,12.0
+1429,02/05/2025,,Trimestral,98.91,Zona Leste,Spinning,36.0,4.36,True,10.0
+1443,04/11/2024,,Mensal,129.9,Centro,Funcional,48.0,4.19,True,11.0
+1461,05/05/2024,,Trimestral,109.9, Centro ,Musculacao,22.0,5.37,True,17.0
+291,06/04/2025,2025-08-15,Anual,89.9,Zona Oeste,Funcional,32.0,2.54,True,3.0
+854,2024-11-25,,Anual,85.4, Zona Oeste ,Musculacao,28.0,2.94,True,14.0
+627,2025-04-12,,Trimestral,98.91,Zona Leste,Crossfit,23.0,7.0,True,22.0
+349,2025-02-23,,Trimestral,109.9, Zona Leste ,Musculacao,40.0,4.08,False,0.0
+598,2025-10-13,,Trimestral,109.9,Zona Oeste,Spinning,49.0,4.58,True,17.0
+1454,05/03/2024,,Anual,80.91,Centro,Funcional,29.0,2.55,True,10.0
+1168,2024-12-01,2025-08-15,Mensal,129.9,Zona Leste,Spinning,38.0,1.01,False,0.0
+874,2024-06-18,,Mensal,116.91,Zona Leste,Spinning,23.0,1.72,True,12.0
+679,2025-09-06,,Mensal,129.9,Zona Leste,Musculacao,24.0,4.44,True,22.0
+459,2024-08-26,,TRIMESTRAL,109.9,Centro,Spinning,36.0,2.94,True,8.0
+376,2024-11-13,2024-12-26,Mensal,129.9,Centro,Crossfit,21.0,2.81,False,
+334,13/06/2025,2025-11-03,Anual,85.4,Zona Leste,Crossfit,47.0,2.4,False,0.0
+1313,2025-04-06,,trimestral,109.9,Zona Oeste,Musculacao,32.0,,True,9.0
+1362,2024-08-04,,Mensal,129.9,Zona Oeste,Yoga,33.0,2.05,True,7.0
+1201,2025-03-14,,Trimestral,109.9,Zona Oeste,Musculacao,999.0,4.39,False,0.0
+1000,05/03/2025,,Mensal,129.9,Zona Oeste,Funcional,36.0,3.82,True,11.0
+1431,2024-01-11,,Anual,89.9,Zona Oeste,Musculacao,25.0,4.48,False,0.0
+597,2024-03-17,,Trimestral,109.9,Zona Leste,Musculacao,31.0,3.91,True,17.0
+329,2024-07-22,,Trimestral,109.9,Centro,Spinning,20.0,1.97,True,7.0
+319,21/11/2025,,Mensal,123.4,Zona Oeste,Musculacao,32.0,2.81,False,0.0
+1188,2024-06-15,,Anual,89.9,Zona Oeste,Spinning,,4.43,True,17.0
+1005,2025-08-15,,Trimestral,-104.4,Zona Leste,Spinning,37.0,2.67,False,0.0
+13,2024-03-13,,Trimestral,98.91,Zona Oeste,Musculacao,34.0,3.82,True,13.0
+172,2025-08-19,2025-09-26,Mensal,129.9,Zona Oeste,Spinning,31.0,1.36,False,0.0
+261,2024-10-12,,Mensal,129.9,Zona Leste,Musculacao,19.0,4.09,True,14.0
+866,2024-09-16,2025-04-08,Anual,89.9,Zona Oeste,Spinning,41.0,3.36,True,19.0
+908,20/03/2024,2024-07-18,Mensal,129.9,Zona Leste,Funcional,17.0,2.46,False,0.0
+1495,2024-03-10,2024-09-04, Mensal ,123.4,Zona Oeste,Musculacao,17.0,3.28,False,
+139,2025-02-18,,Trimestral,109.9,Zona Leste,Crossfit,34.0,,True,15.0
+550,2025-07-06,,Mensal,129.9,Zona Leste,Spinning,43.0,3.48,True,12.0
+1378,12/05/2025,,Anual,89.9, Zona Leste ,Yoga,,4.67,True,24.0
+893,2025-06-07,, Mensal ,116.91,Zona Leste,Musculacao,29.0,6.72,True,15.0
+821,2025-03-13,,Mensal,129.9,Zona Leste,Musculacao,40.0,5.48,True,21.0
+559,2025-07-02,,Trimestral,109.9,Zona Leste,Musculacao,21.0,1.8,False,0.0
+140,2024-01-06,2024-03-22,Mensal,129.9,Zona Oeste,Musculacao,36.0,6.48,True,27.0
+1348,2025-03-26,,Mensal,123.4,Zona Leste,Funcional,47.0,,True,11.0
+1233,2025-03-29,2025-07-19, Mensal ,129.9,Zona Oeste,Musculacao,35.0,1.28,True,7.0
+225,2025-05-26,2025-12-09,Mensal,129.9,Zona Oeste,Musculacao,29.0,3.66,True,17.0
+619,2025-06-30,,Mensal,425.27,Zona Leste,Musculacao,19.0,4.95,True,22.0
+410,2025-07-16,,Anual,85.4,Centro,Spinning,51.0,7.0,True,27.0
+326,2025-09-06,,Trimestral,98.91,Zona Leste,Musculacao,22.0,4.37,True,10.0
+300,2024-01-07,,Trimestral,109.9,Zona Oeste,Funcional,20.0,5.43,True,29.0
+941,2025-04-28,,Mensal,129.9,Centro,Musculacao,19.0,3.93,True,15.0
+1487,2025-02-01,2025-03-03,Anual ,89.9,Zona Leste,Musculacao,47.0,4.55,True,15.0
+707,2025-01-09,,Trimestral,379.9,Zona Oeste,Funcional,17.0,5.64,True,27.0
+1432,2025-09-02,,Trimestral,109.9, Zona Leste ,Musculacao,34.0,3.48,True,12.0
+999,2024-03-14,,ANUAL,85.4, Centro ,Musculacao,40.0,4.84,True,20.0
+1227,2025-08-28,,Mensal,123.4,Centro,Musculacao,37.0,2.33,True,6.0
+574,2024-07-28,,TRIMESTRAL,109.9,Centro,Musculacao,30.0,6.24,True,15.0
+504,2025-10-12,,Mensal,129.9,Zona Oeste,Funcional,25.0,6.22,True,28.0
+606,2024-05-22,,TRIMESTRAL,104.4,Zona Oeste,Musculacao,41.0,1.02,False,0.0
+803,2024-12-05,2025-03-09,Anual ,85.4,Zona Oeste,Spinning,27.0,1.52,True,6.0
+4,26/07/2025,,Trimestral,104.4,Zona Leste,Yoga,53.0,4.2,False,0.0
+977,19/11/2024,,mensal,123.4,Zona Leste,Funcional,35.0,3.09,False,0.0
+468,30/05/2024,,Anual,80.91,Centro,Musculacao,36.0,4.18,True,16.0
+322,2024-06-20,2024-09-01,Mensal,116.91,Zona Oeste,Musculacao,28.0,2.92,True,9.0
+6,2024-08-02,,Anual,89.9,Zona Oeste,Musculacao,28.0,4.89,False,0.0
+223,2025-09-06,,Trimestral,109.9, Zona Oeste ,Funcional,23.0,,True,5.0
+548,2024-11-28,,Mensal,129.9,Zona Oeste,Crossfit,27.0,2.05,True,2.0
+789,2025-07-29,,Trimestral,109.9,Zona Leste,Musculacao,40.0,4.21,True,17.0
+40,2025-02-09,,Trimestral,109.9, Zona Leste ,Musculacao,32.0,2.95,True,11.0
+543,2024-07-04,,Anual,89.9,Zona Oeste,Funcional,39.0,3.37,True,11.0
+243,2024-04-19,, Mensal ,129.9,Zona Leste,Crossfit,33.0,4.86,True,16.0
+137,2024-12-25,,Anual,89.9, Zona Leste ,Funcional,23.0,2.27,True,
+1222,2024-07-19,,Mensal,123.4,Centro,Musculacao,24.0,1.79,True,7.0
+635,2024-11-05,, Mensal ,129.9,Zona Oeste,Musculacao,19.0,2.58,True,7.0
+892,2024-07-15,,Anual ,85.4,Zona Oeste,Musculacao,,2.9,True,
+712,2025-07-02,,Trimestral,109.9,Zona Oeste,Musculacao,29.0,3.08,True,68.0
+1098,2024-10-16,,Trimestral,109.9,Zona Leste,Funcional,19.0,3.43,True,14.0
+793,2024-08-22,2024-10-25,Mensal,129.9,Zona Oeste,Musculacao,47.0,1.96,False,0.0
+1407,2024-11-25,,Anual,89.9,Centro,Musculacao,29.0,7.0,True,21.0
+582,2024-02-11,,Mensal,123.4,Zona Leste,Musculacao,36.0,5.51,True,15.0
+1103,2024-06-30,,Trimestral,109.9,Zona Oeste,Crossfit,34.0,3.73,True,14.0
+1499,2024-03-13,,Mensal,129.9,Centro,Funcional,32.0,5.39,True,24.0
+1430,2024-02-21,,Mensal,337.12,Zona Oeste,Funcional,28.0,,True,67.0
+377,2025-04-17,,Anual,89.9,Zona Leste,Funcional,999.0,3.03,False,0.0
+315,2025-06-24,,Mensal,123.4,Centro,Musculacao,17.0,2.13,True,5.0
+443,08/06/2025,2025-09-22,Trimestral,109.9,Zona Leste,Musculacao,,3.76,True,15.0
+320,2025-08-29,,Anual,89.9, Zona Oeste ,Musculacao,17.0,4.06,True,16.0
+1035,2024-12-09,2025-05-06,Mensal,129.9, Centro ,Musculacao,21.0,2.85,False,0.0
+837,2024-12-08,,Trimestral,104.4,Centro,Musculacao,,2.7,False,0.0
+1165,10/08/2025,2025-11-25,Mensal,129.9,Zona Oeste,Musculacao,41.0,1.54,True,3.0
+425,2025-06-30,,Trimestral,109.9,Zona Leste,Musculacao,1.0,6.67,True,17.0
+554,2025-11-27,,Anual,89.9, Centro ,Musculacao,40.0,4.55,True,20.0
+595,2025-04-26,2025-06-03,Mensal,129.9,Centro,Musculacao,17.0,4.95,True,21.0
+945,2024-05-27,2025-03-24,Mensal,129.9,Zona Oeste,Yoga,36.0,3.1,False,0.0
+1335,2024-09-30,,Anual,85.4,Zona Oeste,Spinning,36.0,2.53,True,5.0
+812,27/07/2025,,Mensal,129.9,Zona Leste,Musculacao,63.0,6.73,True,25.0
+1254,2025-03-18,2025-05-28, Trimestral,109.9,Zona Leste,Yoga,36.0,2.82,False,
+922,2025-10-17,,Anual,89.9,Zona Leste,,33.0,3.85,True,8.0
+228,2024-08-04,,Trimestral,109.9,Centro,Spinning,31.0,4.11,True,10.0
+1300,19/05/2024,2024-06-13,Mensal,129.9,Zona Oeste,Musculacao,21.0,3.88,True,17.0
+856,26/04/2024,,Mensal,129.9,Centro,Musculacao,52.0,7.0,True,33.0
+1028,2024-07-30,2024-11-13,Mensal,-129.9,Centro,Spinning,46.0,,False,0.0
+725,2024-01-15,,mensal ,129.9, Centro ,Crossfit,53.0,3.75,True,57.0
+67,2025-06-03,2025-09-03,Trimestral,109.9,Zona Leste,Crossfit,,1.71,False,0.0
+394,2025-06-21,2025-12-25,Trimestral,104.4, Zona Leste ,Musculacao,38.0,3.0,True,12.0
+580,2024-12-13,,Mensal,129.9,Zona Leste,Musculacao,25.0,4.63,True,19.0
+25,2025-05-07,,Trimestral,109.9,Zona Oeste,,33.0,5.63,True,22.0
+212,2025-07-28,2025-11-25,Trimestral,306.61,Zona Leste,Musculacao,28.0,4.5,False,0.0
+1194,2025-03-08,2025-04-17,Anual,89.9,Centro,Musculacao,43.0,3.12,True,10.0
+825,2024-06-07,,Anual,89.9,Zona Leste,,18.0,2.43,True,4.0
+537,2025-04-07,,Mensal,123.4,Centro,Funcional,42.0,7.0,True,20.0
+963,2025-07-01,,Mensal,129.9,Zona Leste,Funcional,27.0,6.89,True,27.0
+1133,2025-02-16,, Mensal ,123.4,Centro,Musculacao,37.0,,False,0.0
+86,2025-05-15,,mensal,123.4,Centro,Musculacao,,2.11,True,4.0
+1481,2025-01-28,,Mensal,123.4,Zona Oeste,Musculacao,24.0,4.01,True,13.0
+273,2024-06-07,,Mensal,129.9,Zona Oeste,Spinning,28.0,4.23,True,13.0
+968,07/11/2024,,Mensal,123.4,Zona Oeste,Funcional,39.0,5.35,True,13.0
+744,2025-03-16,,Mensal,129.9,Zona Leste,Funcional,20.0,7.0,True,22.0
+1392,2024-10-03,,Anual,89.9,Centro,Musculacao,22.0,4.89,True,20.0
+631,2025-01-15,,Anual,89.9,Zona Leste,Funcional,30.0,6.5,True,21.0
+1387,2025-02-27,,Trimestral,109.9, Zona Leste ,Musculacao,65.0,1.59,False,0.0
+1441,2024-10-08,2024-10-21,Mensal,116.91, Centro ,Musculacao,51.0,1.07,False,0.0
+506,2025-05-10,,Trimestral,109.9,Centro,Spinning,,3.53,True,
+274,2024-10-03,,Trimestral,109.9, Centro ,Musculacao,37.0,2.76,True,18.0
+760,2025-02-23,2025-04-06,Mensal,123.4,Zona Leste,,37.0,3.91,True,19.0
+363,2025-04-25,,Mensal,129.9,Centro,Spinning,39.0,3.18,True,17.0
+623,2025-04-08,2025-09-05,Anual,-89.9,Zona Leste,Spinning,1.0,3.89,True,15.0
+3,2024-08-13,2025-03-01,Anual,85.4,Zona Leste,Spinning,36.0,3.31,False,0.0
+7,2024-12-29,,Trimestral,109.9,Zona Oeste,Musculacao,24.0,3.64,True,13.0
+312,2025-11-04,,Mensal,129.9,Zona Leste,Musculacao,37.0,7.0,True,27.0
+1030,15/11/2024,,MENSAL,129.9,Zona Oeste,Musculacao,38.0,1.08,True,5.0
+666,2024-02-07,,Trimestral,109.9,Zona Leste,Musculacao,25.0,3.33,True,10.0
+991,10/07/2025,,TRIMESTRAL,109.9, Centro ,Funcional,39.0,2.8,True,13.0
+1026,2025-11-04,,Mensal,382.64,Zona Leste,Musculacao,25.0,2.1,False,0.0
+216,2025-03-15,,Trimestral,109.9,Zona Oeste,Musculacao,52.0,3.16,False,0.0
+1453,2024-02-22,,Anual,89.9,Zona Leste,Musculacao,28.0,4.79,True,12.0
+28,2024-08-18,,Mensal,129.9,Zona Oeste,Funcional,18.0,1.67,True,5.0
+1121,2024-10-25,2025-06-03,Trimestral,109.9, Centro ,,26.0,1.24,True,1.0
+915,2025-09-20,,Anual,89.9,Zona Oeste,Musculacao,62.0,6.25,True,17.0
+713,08/03/2025,,Trimestral,109.9,Centro,Yoga,40.0,3.04,True,12.0
+639,2024-08-26,,Trimestral,109.9,Zona Oeste,Musculacao,41.0,7.0,True,25.0
+1139,2024-11-29,,Mensal,123.4,Centro,Funcional,30.0,3.89,True,12.0
+692,2024-02-12,,Anual,80.91,Zona Oeste,Yoga,31.0,2.2,False,0.0
+1050,2025-03-07,2025-07-04,Mensal,129.9,Zona Leste,Musculacao,28.0,4.06,False,0.0
+625,18/04/2025,2025-05-23,Anual,89.9,Zona Leste,Crossfit,37.0,1.01,False,0.0
+1146,2024-03-08,,Mensal,123.4,Centro,Musculacao,28.0,,True,20.0
+257,2024-06-24,2024-10-31,Trimestral,109.9,Zona Leste,Crossfit,17.0,3.56,True,13.0
+26,2025-11-15,,MENSAL,129.9,Zona Leste,Musculacao,34.0,2.48,False,0.0
+337,2024-11-13,2024-12-10,Mensal,123.4,Zona Leste,Musculacao,23.0,1.45,False,0.0
+573,2025-11-08,,Mensal,129.9,Zona Leste,Musculacao,50.0,3.37,False,0.0
+48,2024-03-14,,Mensal,129.9,Zona Oeste,Musculacao,31.0,4.32,True,19.0
+107,2025-01-27,2025-07-20,Mensal,129.9,Centro,Spinning,31.0,2.68,False,0.0
+350,27/01/2024,2025-05-09,Mensal,129.9,Zona Oeste,Musculacao,26.0,1.57,False,0.0
+56,2025-09-12,,Trimestral,109.9,Zona Oeste,Musculacao,34.0,3.26,False,0.0
+1178,2025-08-17,,Mensal,123.4,Centro,Musculacao,38.0,7.0,True,23.0
+214,2025-07-02,,Trimestral,109.9,Centro,Spinning,41.0,4.18,True,18.0
+121,09/01/2024,2024-05-16,Trimestral,104.4,Zona Leste,Funcional,31.0,3.0,False,0.0
+918,2024-05-26,2024-07-10,Mensal,129.9,Zona Oeste,,39.0,3.81,True,14.0
+1158,2024-02-26,2024-08-04,MENSAL,129.9,Zona Oeste,Spinning,57.0,2.59,False,0.0
+73,2024-02-07,,Anual,89.9,Zona Oeste,Musculacao,27.0,4.56,True,20.0
+1169,2024-02-26,,Trimestral,109.9,Zona Oeste,Yoga,34.0,1.07,False,0.0
+758,2024-07-26,,Anual,89.9,Centro,Funcional,40.0,2.0,False,0.0
+46,07/06/2025,,Trimestral,109.9,Zona Leste,Funcional,25.0,2.65,True,5.0
+1302,2025-05-17,,Trimestral,109.9,Zona Oeste,Musculacao,46.0,3.79,True,13.0
+524,2025-11-07,,Trimestral,109.9, Zona Leste ,Funcional,35.0,3.19,True,
+917,2024-11-27,,Mensal,129.9,Zona Leste,Musculacao,23.0,3.42,True,12.0
+1180,2024-05-06,,Mensal,116.91,Zona Leste,Funcional,25.0,2.31,True,12.0
+1112,2025-01-29,2025-05-17,Mensal,129.9,Centro,Musculacao,21.0,0.31,False,0.0
+839,2024-02-03,,Mensal,129.9, Zona Oeste ,Crossfit,17.0,5.51,True,13.0
+534,2024-10-31,,Trimestral,109.9,Zona Leste,Funcional,47.0,5.67,True,22.0
+1170,2024-04-04,,Mensal,123.4,Zona Oeste,Musculacao,23.0,6.27,True,17.0
+604,2025-02-26,,Trimestral,109.9,Centro,Spinning,42.0,3.38,True,12.0
+466,2024-06-02,,Trimestral,109.9,Zona Leste,Yoga,31.0,3.39,True,12.0
+1126,2025-06-29,,Trimestral,109.9,Zona Leste,,38.0,4.4,True,12.0
+1316,2025-11-11,,Trimestral,109.9,Zona Oeste,Spinning,25.0,3.03,True,21.0
+820,2024-07-11,,Mensal,129.9,Centro,Yoga,30.0,3.51,True,10.0
+1000,05/03/2025,,Mensal,129.9,Zona Oeste,Funcional,36.0,3.82,True,11.0
+61,2025-04-01,2025-07-16,TRIMESTRAL,109.9,Centro,Spinning,58.0,2.15,False,0.0
+953,2024-11-28,2025-02-12,Mensal,129.9,Zona Oeste,Spinning,33.0,1.46,False,0.0
+93,29/03/2024,,Mensal,129.9,Centro,Funcional,32.0,6.22,True,30.0
+667,2024-09-13,,Trimestral,109.9,Centro,Funcional,47.0,5.06,True,15.0
+742,2025-06-03,,Mensal,129.9,Zona Leste,Spinning,17.0,2.2,True,9.0
+195,20/09/2025,,Mensal,123.4,Zona Oeste,,37.0,,True,11.0
+281,2024-11-26,,Mensal,129.9,Zona Leste,Spinning,21.0,5.84,True,24.0
+696,2024-04-28,2024-07-13,Mensal,123.4,Centro,Crossfit,45.0,2.4,False,
+360,2025-09-17,,Trimestral,98.91,Zona Leste,Yoga,27.0,3.69,True,16.0
+520,2025-11-07,2025-11-29,Trimestral,104.4,Zona Leste,Musculacao,53.0,,False,0.0
+1235,2024-11-19,,Mensal,129.9,Zona Leste,Musculacao,21.0,6.17,True,26.0
+810,2024-04-16,,Anual,89.9,Centro,Musculacao,33.0,4.41,True,12.0
+183,2024-03-29,2024-05-14,Mensal,129.9,Zona Oeste,Crossfit,40.0,0.54,False,0.0
+1055,2024-11-25,,Mensal,129.9,Zona Leste,Musculacao,37.0,4.94,True,16.0
+111,2025-08-28,,Mensal,129.9,Zona Leste,Crossfit,27.0,3.96,True,14.0
+43,2024-11-18,2025-02-02,Trimestral,109.9,Zona Leste,Funcional,35.0,1.35,False,0.0
+747,2025-06-23,,Mensal,129.9,Zona Leste,Spinning,33.0,3.81,True,13.0
+967,2025-08-22,,Anual,89.9,Centro,Funcional,36.0,2.26,False,0.0
+205,2024-06-15,,mensal ,123.4,Zona Oeste,Funcional,44.0,,True,13.0
+1051,2024-01-16,,Trimestral,104.4,Zona Oeste,Crossfit,17.0,2.82,True,60.0
+53,2025-09-08,,Trimestral,98.91,Zona Leste,Yoga,27.0,6.18,True,17.0
+546,2024-06-20,2024-09-04,Mensal,123.4,Zona Leste,Musculacao,45.0,2.82,True,7.0
+69,2025-09-18,,MENSAL,129.9,Zona Oeste,Musculacao,40.0,2.05,False,0.0
+1002,2025-05-14,2025-07-05,MENSAL,123.4,Zona Oeste,Spinning,36.0,2.2,True,
+904,2024-04-16,2024-05-06,Mensal,116.91,Centro,Musculacao,,3.13,False,0.0
+794,2025-11-28,,Mensal,129.9,Zona Leste,Musculacao,35.0,0.88,False,0.0
+184,2025-01-18,2025-06-12,Mensal,129.9,Zona Leste,Funcional,25.0,2.71,False,0.0
+138,2024-05-09,2024-07-10,Mensal,123.4,Centro,Crossfit,41.0,5.98,True,16.0
+1024,01/10/2025,,MENSAL,129.9,Zona Oeste,Funcional,24.0,3.02,True,7.0
+81,2025-02-06,2025-12-11,Trimestral,109.9,Centro,Musculacao,33.0,2.9,False,0.0
+1343,2024-07-27,,Mensal,129.9,Zona Leste,Spinning,28.0,,True,15.0
+106,2025-10-12,,Trimestral,109.9,Zona Leste,Musculacao,23.0,3.35,True,8.0
+1198,2024-02-18,,Trimestral,319.32,Zona Leste,Spinning,43.0,3.77,True,10.0
+542,2025-05-02,,Trimestral,109.9,Centro,Crossfit,18.0,5.38,False,0.0
+778,2025-01-23,,Mensal,129.9,Zona Leste,Crossfit,37.0,1.54,True,6.0
+481,2025-11-19,,Mensal,129.9,Centro,Musculacao,28.0,6.22,True,16.0
+166,2024-07-11,2024-09-26,mensal ,116.91,Centro,Spinning,54.0,4.43,False,0.0
+249,2024-02-11,,Mensal,367.3,Zona Oeste,Spinning,20.0,6.63,True,17.0
+308,2025-02-09,,Trimestral,109.9, Zona Leste ,Musculacao,44.0,1.3,False,0.0
+447,2025-04-23,2025-06-10,Anual,85.4,Zona Leste,Musculacao,29.0,3.8,True,12.0
+786,2025-01-31,,Mensal,129.9,Zona Leste,Funcional,37.0,4.03,False,
+335,2024-05-01,,Mensal,129.9,Zona Leste,Musculacao,32.0,3.12,True,10.0
+98,2024-05-21,2024-08-27,Mensal,129.9,Zona Leste,Musculacao,31.0,2.46,True,3.0
+859,2024-08-11,2024-12-30,Mensal,129.9, Centro ,Musculacao,49.0,1.48,False,0.0
+738,2025-08-30,,Mensal,116.91,Zona Leste,Musculacao,37.0,6.39,True,28.0
+926,2025-05-26,, Mensal ,129.9, Zona Oeste ,Spinning,28.0,7.0,True,25.0
+883,2025-02-19,,Anual,85.4,Zona Leste,Yoga,24.0,3.74,True,11.0
+995,2025-01-19,,Anual,89.9,Centro,Yoga,16.0,1.94,True,9.0
+103,2024-11-11,,Mensal,129.9,Zona Oeste,Musculacao,37.0,4.24,True,17.0
+435,2025-01-23,,Mensal,-129.9,Zona Oeste,Funcional,29.0,3.3,True,9.0
+75,2025-02-14,,Mensal,129.9,Zona Leste,Spinning,44.0,2.41,True,9.0
+1382,2025-04-16,2025-08-29,MENSAL,129.9,Zona Leste,Crossfit,32.0,1.98,False,0.0
+925,2025-04-14,,Mensal,129.9,Centro,Musculacao,32.0,,True,13.0
+1401,2024-12-12,,Mensal,129.9,Zona Leste,Musculacao,43.0,2.1,True,9.0
+303,2025-04-18,2025-08-13,Mensal,123.4,Zona Leste,Funcional,38.0,2.74,True,12.0
+1332,2025-02-11,,Mensal,129.9,Zona Oeste,Musculacao,25.0,1.87,True,9.0
+1301,2025-02-17,2025-06-29,mensal ,129.9,Centro,Funcional,47.0,3.01,True,14.0
+1260,2025-06-15,,Anual,80.91,Zona Oeste,Funcional,38.0,2.5,True,7.0
+763,2024-04-19,,Mensal,129.9,Zona Oeste,Yoga,23.0,4.81,True,16.0
+734,2025-08-22,,Mensal,129.9,Centro,Musculacao,32.0,3.28,True,
+389,2025-05-02,,Mensal,129.9,Centro,Musculacao,29.0,3.96,True,14.0
+236,14/09/2024,,Trimestral,109.9,Zona Oeste,Funcional,22.0,1.77,False,0.0
+1365,09/06/2025,,Mensal,129.9,Zona Leste,Funcional,25.0,2.7,False,0.0
+268,2025-06-01,,Mensal,129.9,Zona Leste,Musculacao,26.0,6.03,True,19.0
+306,2025-07-01,,Mensal,386.32,Zona Oeste,Musculacao,999.0,5.27,True,22.0
+990,2024-05-14,,Trimestral,109.9,Zona Oeste,Musculacao,20.0,2.76,True,8.0
+118,2024-03-10,2024-06-06,Trimestral,109.9,Zona Oeste,Spinning,43.0,1.92,True,7.0
+1248,30/08/2025,,Mensal,123.4, Zona Leste ,Musculacao,45.0,4.1,False,0.0
+674,2025-05-30,,Trimestral,109.9,Zona Leste,Musculacao,38.0,3.25,True,15.0
+250,2025-05-24,,Mensal,123.4,Zona Leste,Musculacao,24.0,3.33,True,13.0
+1221,2025-02-18,2025-06-17,Mensal,123.4,Zona Oeste,Funcional,,1.46,False,0.0
+1107,2024-09-03,,Mensal,129.9,Zona Oeste,Yoga,30.0,6.3,True,22.0
+72,2025-08-11,,Mensal,129.9,Zona Oeste,,29.0,1.24,False,0.0
+95,2025-04-05,2025-05-20,Mensal,129.9,Centro,Musculacao,17.0,2.91,True,9.0
+1373,05/11/2025,,Mensal,129.9, Zona Leste ,Crossfit,32.0,2.59,True,5.0
+34,2024-08-30,,Mensal,129.9,Zona Oeste,Crossfit,48.0,3.09,True,15.0
+800,2025-01-31,,Trimestral,104.4,Zona Oeste,Yoga,63.0,4.52,True,8.0
+154,2025-06-11,2025-08-05,Trimestral,109.9, Zona Leste ,Spinning,19.0,5.86,True,30.0
+449,2024-06-24,,Mensal,129.9,Zona Leste,Funcional,36.0,3.65,True,19.0
+446,2024-09-23,,Trimestral,109.9,Centro,Musculacao,21.0,7.0,True,23.0
+772,2025-11-30,,Trimestral,109.9,Zona Oeste,Musculacao,38.0,2.63,False,0.0
+717,2024-04-11,,Trimestral,109.9,Zona Leste,Crossfit,33.0,3.99,False,0.0
+1151,2024-10-25,,Mensal,129.9,Centro,Crossfit,28.0,2.72,True,54.0
+1177,2024-03-08,,Mensal,116.91,Zona Oeste,Musculacao,32.0,3.24,True,8.0
+1351,2025-06-06,,Trimestral,109.9,Zona Leste,Yoga,27.0,,True,29.0
+1062,2025-03-23,,Trimestral,109.9,Zona Oeste,Musculacao,39.0,5.85,True,27.0
+78,23/02/2025,,Trimestral,109.9,Centro,Musculacao,58.0,5.71,True,23.0
+85,2025-09-20,,Mensal,129.9,Zona Oeste,Crossfit,,5.11,False,0.0
+1299,2024-07-19,2024-09-11,Trimestral,109.9,Zona Oeste,Musculacao,40.0,1.85,False,0.0
+83,2024-03-06,2024-04-14,Trimestral,109.9,Zona Leste,Spinning,26.0,1.83,True,8.0
+458,2025-08-25,,Mensal,123.4,Zona Leste,Yoga,20.0,1.72,True,8.0
+971,2025-06-28,,Mensal,129.9,Zona Leste,Yoga,,,True,12.0
+677,28/03/2024,2024-07-20,Anual,89.9, Zona Leste ,Musculacao,32.0,2.86,False,0.0
+1485,2024-01-24,2024-09-30,Trimestral,109.9,Zona Leste,Funcional,35.0,5.92,True,
+1350,2024-03-22,2024-07-07,Mensal,129.9, Zona Leste ,Funcional,41.0,1.97,False,0.0
+437,2024-02-11,2024-05-22,Mensal,129.9,Zona Oeste,Musculacao,33.0,4.59,True,17.0
+771,2024-11-04,2025-03-01,Mensal,129.9,Zona Oeste,Crossfit,23.0,1.67,False,0.0
+645,2025-07-19,,Trimestral,109.9,Zona Leste,Spinning,34.0,3.21,False,0.0
+909,2024-03-07,2024-06-28,Mensal,129.9,Zona Leste,Crossfit,31.0,1.5,False,0.0
+1115,2024-01-19,,Anual,85.4,Zona Leste,Crossfit,26.0,1.09,True,6.0
+1229,2024-03-14,,Anual,89.9,Zona Leste,Spinning,17.0,3.56,False,0.0
+1152,2025-05-05,,Anual,85.4, Zona Leste ,Funcional,43.0,4.63,True,18.0
+405,2024-01-22,2024-03-11,Anual,89.9,Zona Oeste,Spinning,37.0,,True,23.0
+1342,2025-10-28,,Trimestral,109.9,Zona Leste,Crossfit,36.0,3.64,False,0.0
+986,2024-02-20,,Anual,89.9, Zona Leste ,Spinning,34.0,2.24,False,0.0
+1228,2025-10-22,2025-12-24,Mensal,129.9,Zona Leste,Musculacao,17.0,2.2,True,6.0
+105,2025-03-28,,Trimestral,109.9,Zona Leste,Spinning,31.0,3.68,False,0.0
+610,2024-08-21,2024-10-02,mensal,123.4,Zona Leste,Funcional,30.0,2.11,False,0.0
+1271,2025-06-20,,Anual,85.4,Zona Leste,Yoga,55.0,6.87,True,24.0
+689,2025-08-18,,Trimestral,109.9,Zona Leste,Yoga,25.0,4.28,True,12.0
+1001,2025-10-25,,Mensal,123.4,Zona Leste,Musculacao,44.0,2.2,False,0.0
+827,2025-11-11,,Trimestral,98.91, Zona Leste ,Musculacao,51.0,5.02,False,0.0
+984,04/01/2024,2024-02-10,Mensal,129.9,Zona Leste,Spinning,29.0,2.83,True,13.0
+63,2025-02-02,,TRIMESTRAL,104.4,Centro,Musculacao,24.0,2.37,True,11.0
+282,03/07/2025,,Mensal,129.9,Centro,Funcional,43.0,1.07,False,0.0
+779,2025-10-06,,Trimestral,109.9,Centro,Funcional,39.0,5.47,True,30.0
+1044,2024-08-10,,Trimestral,109.9,Zona Leste,,35.0,3.69,True,21.0
+239,2024-10-22,,Mensal,123.4,Zona Oeste,Yoga,40.0,2.02,True,11.0
+224,2024-04-21,,Anual,85.4,Zona Oeste,Spinning,61.0,2.73,False,0.0
+146,2025-01-14,,Mensal,123.4, Zona Oeste ,Musculacao,18.0,1.56,True,10.0
+1440,2025-03-10,,Anual,89.9,Zona Leste,Spinning,20.0,3.46,True,11.0
+374,2024-11-20,,Mensal,116.91,Centro,Crossfit,37.0,1.75,False,0.0
+1396,2024-05-26,,Mensal,371.15,Zona Leste,Yoga,38.0,5.76,True,10.0
+119,2025-01-18,2025-08-11,Mensal,123.4,Centro,Musculacao,22.0,3.72,True,12.0
+1160,2024-09-01,,trimestral,109.9,Zona Leste,Funcional,24.0,3.73,True,14.0
+251,2025-08-08,,Trimestral,109.9,Zona Oeste,Spinning,38.0,1.07,False,0.0
+1488,2025-09-23,,Mensal,129.9,Zona Oeste,Musculacao,45.0,1.2,False,0.0
+1245,2024-06-15,2024-11-10,Mensal,129.9,Zona Leste,Funcional,36.0,,False,0.0
+943,2024-11-08,,Mensal,129.9,Zona Leste,Funcional,36.0,4.5,False,0.0
+10,2025-06-15,,mensal,129.9,Zona Oeste,Crossfit,32.0,2.23,True,8.0
+450,2024-08-25,, Trimestral,-109.9,Centro,Funcional,53.0,4.75,False,0.0
+932,06/08/2024,2025-09-16,Mensal,129.9,Zona Oeste,Crossfit,36.0,,False,0.0
+709,2024-07-18,,Mensal,345.27,Zona Leste,Crossfit,50.0,4.74,True,21.0
+256,2024-10-12,,trimestral,109.9,Zona Oeste,Musculacao,28.0,4.36,True,20.0
+594,2025-02-11,,Trimestral,109.9,Zona Leste,Musculacao,36.0,4.04,True,
+390,2025-04-03,,ANUAL,89.9,Zona Leste,Crossfit,34.0,7.0,True,30.0
+1010,04/09/2024,2024-11-11,Mensal,123.4, Zona Oeste ,Crossfit,23.0,0.5,True,2.0
+1237,2025-11-10,,Mensal,129.9,Zona Leste,Crossfit,38.0,4.75,True,18.0
+558,2024-08-10,,Mensal,129.9,Zona Oeste,Musculacao,19.0,3.17,True,
+1326,2025-10-06,,Anual,89.9,Zona Oeste,Spinning,49.0,2.09,True,5.0
+887,2025-11-03,,Mensal,129.9,Centro,Musculacao,29.0,,True,8.0
+461,2025-02-04,,Trimestral,109.9,Zona Oeste,Musculacao,20.0,1.88,True,7.0
+724,2024-04-30,2025-01-18,Anual,89.9,Zona Leste,Musculacao,29.0,1.31,False,0.0
+1423,2024-07-29,2025-01-17,Mensal,116.91,Zona Leste,Musculacao,24.0,1.2,False,0.0
+145,2024-06-05,2024-09-21,Mensal,116.91,Zona Leste,Musculacao,32.0,4.11,True,13.0
+502,2024-09-23,,Anual,85.4,Zona Leste,Crossfit,18.0,5.28,True,20.0
+1129,2024-08-23,,Trimestral,104.4, Zona Leste ,Musculacao,44.0,3.06,False,0.0
+740,2024-03-19,,Mensal,129.9,Zona Oeste,Musculacao,38.0,6.21,True,26.0
+1426,30/01/2024,2024-06-23,Mensal,129.9, Zona Oeste ,Musculacao,27.0,1.14,False,0.0
+869,2024-07-28,,Mensal,116.91,Zona Leste,Crossfit,24.0,1.8,True,5.0
+732,20/06/2025,,Mensal,129.9,Zona Oeste,,30.0,,True,19.0
+540,2025-08-25,,Anual,80.91,Zona Oeste,Musculacao,44.0,3.46,True,
+178,2024-04-21,,Anual,89.9,Zona Leste,Spinning,35.0,7.0,True,28.0
+1490,2025-08-01,,Mensal,129.9,Zona Oeste,Crossfit,16.0,1.56,False,0.0
+698,2024-05-25,2024-06-14,Trimestral,109.9,Zona Oeste,Musculacao,40.0,1.58,False,0.0
+1164,24/09/2025,,Mensal,129.9,Zona Leste,Spinning,38.0,5.69,True,23.0
+1076,2024-05-24,2024-08-11,Mensal,129.9,Zona Oeste,Musculacao,23.0,0.83,False,0.0
+924,2024-07-31,2024-11-15,mensal ,129.9, Zona Leste ,Musculacao,19.0,2.12,True,3.0
+950,2024-04-23,2024-08-23,Mensal,129.9,Zona Oeste,Crossfit,36.0,2.52,False,0.0
+555,2024-05-19,2024-09-14,Mensal,129.9,Zona Leste,Musculacao,35.0,2.91,True,8.0
+8,2025-11-02,,Trimestral,109.9,Zona Oeste,Spinning,50.0,6.58,True,23.0
+911,2025-05-21,2025-08-02,Trimestral,109.9,Zona Oeste,Musculacao,52.0,2.53,False,0.0
+668,2025-02-06,,Anual,89.9,Zona Leste,Musculacao,43.0,2.9,True,6.0
+1389,27/11/2025,,Anual,80.91,Zona Leste,Crossfit,33.0,3.26,True,6.0
+358,2024-01-29,,Trimestral,104.4,Zona Leste,Musculacao,30.0,3.05,True,10.0
+784,23/06/2024,2024-10-10,Trimestral,109.9,Zona Oeste,Musculacao,40.0,2.29,False,0.0
+736,2025-02-20,,Trimestral,109.9,Centro,Yoga,34.0,4.22,True,19.0
+330,2025-02-26,,Mensal,123.4,Zona Oeste,Spinning,36.0,3.75,True,
+1352,2024-07-31,,Anual ,89.9,Zona Leste,Crossfit,27.0,5.05,True,21.0
+1183,2024-04-02,,Mensal,129.9,Zona Leste,Yoga,25.0,7.0,True,21.0
+1150,2025-08-15,,Anual,307.0,Centro,Spinning,33.0,4.67,False,0.0
+259,09/02/2025,,Mensal,123.4,Centro,Funcional,23.0,5.95,True,18.0
+942,2025-03-04,,anual,89.9,Zona Leste,Spinning,18.0,,True,7.0
+1210,27/09/2024,2024-12-03,Mensal,129.9,Zona Oeste,Funcional,35.0,2.01,True,12.0
+373,2024-10-12,,Mensal,129.9,Centro,Spinning,38.0,4.45,True,15.0
+1135,2024-07-09,,Anual,89.9,Zona Oeste,Crossfit,31.0,5.36,True,54.0
+1058,2025-03-17,2025-07-18,Mensal,129.9,Zona Leste,Spinning,35.0,3.54,True,13.0
+143,2025-03-01,2025-09-12,Anual,85.4,Zona Oeste,Funcional,23.0,3.02,True,12.0
+526,2025-04-21,,Mensal,129.9,Zona Leste,Yoga,29.0,,True,
+1171,2024-09-23,,Mensal,116.91, Zona Oeste ,Musculacao,52.0,3.51,False,
+233,2024-12-01,,Anual,89.9,Zona Oeste,Musculacao,36.0,2.54,True,10.0
+1341,2025-08-21,,Mensal,129.9,Centro,Musculacao,52.0,0.98,True,3.0
+1465,2024-01-28,,Trimestral,104.4,Zona Leste,Musculacao,27.0,4.65,True,23.0
+441,2025-09-03,2025-11-04,Anual,80.91,Zona Leste,Spinning,26.0,5.65,True,20.0
+532,2025-06-27,,Trimestral,109.9,Zona Oeste,Spinning,37.0,4.07,True,16.0
+1238,2024-07-20,,Mensal,129.9,Zona Oeste,Spinning,44.0,3.81,True,11.0
+227,2025-03-31,,Mensal,129.9,Zona Leste,Funcional,24.0,7.0,False,0.0
+1199,2025-09-23,,Mensal,129.9,Zona Leste,Crossfit,24.0,3.04,True,8.0
+229,2025-04-28,2025-06-28,Trimestral,109.9,Zona Leste,Funcional,38.0,3.94,True,13.0
+1318,23/08/2025,,Mensal,116.91,Zona Oeste,Funcional,29.0,3.02,True,10.0
+1336,2024-06-17,,Anual,89.9,Zona Oeste,Yoga,45.0,7.0,False,0.0
+213,2024-04-08,,Mensal,129.9,Centro,Musculacao,36.0,6.49,True,26.0
+886,2024-10-27,2024-11-16,Mensal,129.9,Zona Oeste,Spinning,49.0,1.98,False,0.0
+80,2024-03-22,,Trimestral,109.9,Centro,Yoga,,,True,7.0
+149,2025-03-27,2025-06-12,Mensal,123.4,Centro,Musculacao,20.0,0.62,False,0.0
+815,2024-12-20,2025-02-01,Mensal,129.9,Zona Leste,Musculacao,42.0,,True,14.0
+1480,2025-04-02,,Mensal,116.91,Centro,Musculacao,40.0,7.0,True,29.0
+965,2025-08-10,,Anual,89.9,Zona Leste,Funcional,52.0,1.89,False,0.0
+672,2025-05-14,,Trimestral,109.9,Zona Leste,Spinning,33.0,1.65,True,6.0
+1190,2025-01-14,2025-07-03,Trimestral,109.9,Zona Oeste,Crossfit,21.0,2.61,True,
+556,2025-08-24,,Mensal,116.91, Zona Oeste ,Musculacao,33.0,2.43,True,10.0
+1408,2024-08-23,,Mensal,129.9,Zona Leste,Musculacao,43.0,2.0,True,
+134,2025-06-01,,Mensal,123.4,Zona Oeste,Musculacao,,3.77,True,11.0
+1218,2025-05-05,,Trimestral,109.9,Centro,Funcional,28.0,3.13,True,10.0
+934,2025-09-22,,Trimestral,104.4,Zona Leste,Funcional,37.0,1.45,False,0.0
+1311,2024-07-06,,Mensal,123.4,Zona Leste,Musculacao,24.0,3.6,False,0.0
+824,2024-10-13,,Trimestral,104.4,Zona Leste,Funcional,30.0,6.68,True,35.0
+409,2025-03-22,2025-09-03,Mensal,129.9,Centro,Musculacao,40.0,0.62,True,3.0
+369,2024-07-24,,Mensal,129.9,Zona Oeste,Musculacao,55.0,1.76,False,0.0
+508,29/07/2024,,Anual,89.9,Zona Leste,Musculacao,54.0,3.2,False,0.0
+1217,29/02/2024,2024-07-27,mensal ,123.4,Zona Oeste,Funcional,46.0,2.85,True,
+505,2025-08-30,,Mensal,116.91,Zona Leste,Musculacao,33.0,2.39,True,13.0
+1371,13/03/2025,,Mensal,129.9,Zona Oeste,Yoga,25.0,2.06,True,8.0
+348,2025-06-30,,MENSAL,123.4,Zona Oeste,Funcional,51.0,2.47,False,0.0
+387,2024-08-04,,Trimestral,109.9,Zona Leste,Spinning,41.0,5.13,True,15.0
+1,2024-05-01,2024-10-17,Trimestral,109.9,Zona Oeste,,44.0,2.51,True,10.0
+1027,2024-08-13,,Anual,89.9,Centro,Spinning,23.0,3.62,True,10.0
+361,2025-05-31,,Anual,89.9,Zona Oeste,Funcional,38.0,1.76,True,9.0
+895,2024-05-19,,Trimestral,109.9,Zona Oeste,Spinning,35.0,3.63,False,0.0
+829,2025-10-23,,Anual ,89.9,Zona Oeste,Musculacao,40.0,3.68,True,15.0
+1457,2024-10-14,,Mensal,129.9,Zona Leste,Yoga,50.0,3.09,False,0.0
+476,2025-01-13,,Mensal,129.9,Zona Leste,Spinning,37.0,2.15,True,6.0
+1319,2025-07-19,2025-12-25,Trimestral,109.9, Zona Leste ,Musculacao,27.0,2.27,False,0.0
+58,2025-10-30,,Trimestral,109.9,Zona Oeste,Musculacao,39.0,2.74,False,0.0
+638,2025-07-17,,TRIMESTRAL,109.9,Zona Oeste,Musculacao,40.0,4.23,True,13.0
+1345,2024-07-06,2024-11-09,Anual,80.91,Zona Leste,Funcional,29.0,4.43,True,
+1080,2025-03-21,2025-09-13,Mensal,129.9,Centro,Funcional,40.0,4.95,True,17.0
+1006,2024-08-19,,Mensal,116.91,Zona Leste,Funcional,33.0,,True,14.0
+173,22/10/2024,2025-07-01,MENSAL,129.9, Zona Oeste ,Funcional,32.0,4.24,True,20.0
+451,2024-03-17,,Mensal,129.9,Centro,Funcional,25.0,4.99,True,14.0
+126,2025-02-10,,Mensal,129.9, Zona Oeste ,Musculacao,25.0,2.5,True,9.0
+39,2024-12-03,,Mensal,123.4,Centro,Musculacao,31.0,5.93,True,34.0
+531,2024-05-05,,Trimestral,104.4,Zona Leste,Musculacao,,3.62,True,
+858,2025-06-19,,Anual,85.4,Zona Oeste,Crossfit,27.0,4.9,True,14.0
+714,2024-01-05,,Anual,89.9,Zona Oeste,Funcional,48.0,3.53,True,6.0
+91,2024-01-28,,Mensal,129.9,Zona Leste,,24.0,0.82,True,2.0
+1494,2024-12-05,,Trimestral,109.9,Zona Oeste,Musculacao,34.0,2.56,False,0.0
+182,2024-07-03,2025-02-16,Anual,89.9,Centro,Yoga,35.0,1.89,True,3.0
+876,18/04/2024,,Anual,89.9,Zona Leste,Spinning,31.0,4.0,True,16.0
+1041,2025-07-11,,Mensal,129.9,Zona Oeste,Musculacao,51.0,3.47,True,
+787,2024-05-25,2025-02-11,Trimestral,109.9,Centro,Spinning,35.0,3.66,False,0.0
+415,2024-01-02,2024-02-29,mensal,129.9,Zona Leste,Musculacao,,,False,0.0
+252,2025-03-27,,Anual,386.8, Zona Leste ,Crossfit,,,False,0.0
+70,2025-05-13,,Mensal,129.9,Zona Oeste,Musculacao,54.0,4.07,False,0.0
+804,09/10/2025,,Trimestral,109.9,Zona Oeste,Musculacao,,5.21,True,15.0
+132,2024-02-23,,Anual,85.4,Centro,Musculacao,29.0,5.29,True,24.0
+301,31/08/2024,,Trimestral,109.9,Zona Oeste,Yoga,42.0,5.25,False,0.0
+1376,2024-11-26,,Mensal,129.9,Zona Leste,Musculacao,36.0,5.71,True,16.0
+327,02/08/2025,,Trimestral,418.39,Zona Oeste,Crossfit,28.0,5.54,True,16.0
+296,2024-05-19,,Anual,85.4,Zona Leste,Funcional,39.0,2.35,False,0.0
+1145,2024-10-30,2025-01-12,Mensal,129.9,Zona Leste,Funcional,27.0,2.53,True,12.0
+500,2025-09-17,,mensal,129.9,Zona Oeste,,28.0,3.68,False,0.0
+342,2024-09-29,,Anual,89.9,Zona Oeste,,32.0,5.39,True,29.0
+833,02/04/2025,,Mensal,129.9,Centro,Crossfit,45.0,1.8,False,0.0
+365,2025-04-24,,Trimestral,109.9,Zona Oeste,Spinning,31.0,2.84,True,
+496,04/05/2024,,Mensal,129.9,Zona Oeste,Musculacao,53.0,2.81,True,
+1436,2025-02-20,,anual,89.9,Zona Oeste,Funcional,30.0,6.32,True,13.0
+339,2025-06-12,2025-10-30,Mensal,123.4,Zona Oeste,Musculacao,28.0,4.69,True,25.0
+422,2024-11-29,,Mensal,129.9,Zona Leste,Musculacao,28.0,2.96,True,9.0
+165,2025-08-03,,Trimestral,104.4,Centro,Funcional,,2.54,True,10.0
+29,14/04/2025,,Mensal,116.91,Zona Leste,Musculacao,32.0,4.88,True,20.0
+517,2024-09-24,2024-11-13,Mensal,123.4,Zona Leste,Spinning,32.0,,False,0.0
+194,26/08/2025,,Anual,85.4,Zona Oeste,Crossfit,32.0,1.69,True,8.0
+1025,2024-05-17,,Trimestral,109.9,Centro,Crossfit,43.0,4.27,False,0.0
+1403,2025-11-18,,Anual,89.9, Zona Leste ,Spinning,23.0,5.26,True,27.0
+946,2025-03-11,2025-08-06,Mensal,123.4,Zona Oeste,Funcional,18.0,1.45,True,6.0
+1402,2025-03-09,,Mensal,129.9,Centro,Musculacao,38.0,2.98,True,7.0
+170,2024-01-27,,Anual,89.9,Centro,Musculacao,41.0,6.86,True,18.0
+168,2024-04-05,,Trimestral,109.9,Zona Leste,Spinning,21.0,4.77,False,0.0
+653,2024-05-04,2024-06-12,Trimestral,109.9,Zona Oeste,Musculacao,54.0,4.3,True,8.0
+174,2025-02-19,2025-06-26,Anual,89.9,Zona Leste,Funcional,40.0,2.95,True,18.0
+519,2025-05-30,,mensal,129.9,Zona Oeste,Funcional,40.0,0.96,True,2.0
+1250,2025-03-30,,Anual,89.9,Zona Leste,,16.0,2.25,True,
+1236,2025-08-02,,Mensal,352.2,Zona Oeste,Yoga,31.0,1.1,True,5.0
+913,2025-10-20,,Anual ,89.9,Zona Leste,Musculacao,24.0,1.72,True,4.0
+492,2024-02-08,2024-04-24,Trimestral,104.4,Zona Oeste,Musculacao,63.0,2.57,True,15.0
+954,2025-02-02,,Mensal,129.9,Centro,Spinning,21.0,4.06,True,14.0
+74,2025-05-08,2025-08-01, Mensal ,129.9,Centro,Spinning,21.0,2.0,False,0.0
+1291,2024-02-29,,Mensal,129.9,Centro,Musculacao,19.0,2.39,True,
+588,2025-09-07,,Mensal,129.9,Zona Leste,Funcional,24.0,1.4,True,9.0
+751,14/08/2024,2024-09-19,Mensal,129.9,Zona Oeste,Musculacao,27.0,1.31,False,0.0
+658,2025-10-19,,MENSAL,123.4,Zona Leste,Musculacao,31.0,,True,23.0
+843,2025-02-22,,Mensal,129.9,Zona Oeste,Funcional,22.0,3.06,True,5.0
+235,2024-02-28,2024-11-03,Anual,85.4,Centro,Funcional,150.0,1.64,False,0.0
+733,2025-08-18,,Mensal,129.9,Zona Leste,Yoga,36.0,3.29,True,13.0
+215,2024-12-21,,Trimestral,109.9,Zona Leste,Crossfit,31.0,4.57,False,0.0
+163,2024-09-16,,Mensal,129.9,Centro,Funcional,20.0,3.02,True,53.0
+133,2024-08-09,,Trimestral,109.9,Zona Oeste,Funcional,32.0,4.05,True,9.0
+1456,2024-04-03,,Mensal,129.9,Zona Leste,Yoga,35.0,4.43,False,0.0
+1264,2024-11-29,,Anual,85.4, Zona Leste ,Crossfit,35.0,1.92,True,10.0
+935,24/11/2025,,Trimestral,104.4,Zona Oeste,Musculacao,50.0,1.48,False,0.0
+109,2025-01-01,2025-02-23,Mensal,123.4,Zona Leste,Spinning,31.0,0.91,True,2.0
+569,2025-07-13,,Mensal,123.4,Zona Leste,Spinning,47.0,5.33,True,25.0
+891,2025-10-05,,Mensal,123.4,Zona Oeste,Funcional,30.0,0.95,False,0.0
+948,19/07/2024,,Anual,89.9,Zona Leste,Funcional,27.0,2.33,False,0.0
+1042,2025-04-06,,Trimestral,109.9,Zona Leste,Yoga,25.0,4.2,True,14.0
+885,2024-05-15,2024-09-08,Mensal,129.9,Zona Leste,Yoga,34.0,1.44,False,0.0
+1303,2025-05-11,,Trimestral,109.9,Zona Leste,Funcional,39.0,4.93,True,21.0
+851,2024-12-20,,mensal ,129.9,Zona Leste,Musculacao,47.0,3.41,False,0.0
+735,27/06/2024,,Mensal,129.9,Zona Oeste,Funcional,,5.48,True,22.0
+718,2024-03-16,2024-09-11,Mensal,129.9,Centro,Crossfit,48.0,3.67,True,15.0
+455,2024-07-05,2024-11-25,Mensal,129.9,Centro,Musculacao,26.0,5.99,True,24.0
+265,2024-04-04,2024-06-06,Anual,85.4,Zona Leste,Spinning,30.0,4.97,False,0.0
+76,2025-06-28,,Mensal,129.9,Zona Leste,Musculacao,29.0,4.49,True,17.0
+445,2025-02-25,2025-04-28,Mensal,129.9,Centro,,29.0,3.19,True,
+396,2025-01-12,,Mensal,116.91,Zona Leste,,25.0,4.75,True,13.0
+177,2024-12-26,,Mensal,129.9,Zona Oeste,Funcional,23.0,4.6,True,49.0
+1043,2024-09-04,,Trimestral,109.9,Zona Leste,Crossfit,35.0,5.15,True,27.0
+1349,2025-06-16,,Mensal,123.4,Zona Oeste,Musculacao,20.0,5.07,True,18.0
+1073,2025-04-11,,Mensal,129.9,Zona Oeste,Musculacao,29.0,2.97,False,0.0
+1066,2024-08-25,,Anual,89.9,Zona Leste,Crossfit,25.0,5.49,True,17.0
+596,2025-11-18,,Mensal,129.9,Zona Leste,,24.0,5.77,True,
+62,2025-04-20,,Mensal,129.9,Zona Oeste,Musculacao,27.0,5.21,True,20.0
+873,2024-02-11,,Anual,89.9,Zona Leste,Funcional,22.0,,True,19.0
+1437,2024-05-01,,Mensal,369.07,Zona Leste,Musculacao,40.0,5.11,True,50.0
+1448,2025-11-08,,Mensal,129.9,Centro,Crossfit,53.0,5.15,False,
+279,2024-07-17,,Anual,89.9,Zona Leste,Musculacao,31.0,7.0,True,32.0
+37,2024-07-11,,Mensal,129.9,Centro,Funcional,32.0,2.14,True,5.0
+663,2024-04-04,,Mensal,123.4,Zona Leste,Musculacao,59.0,1.56,False,0.0
+1393,2025-05-02,,Mensal,129.9, Zona Oeste ,Spinning,27.0,3.06,True,11.0
+1117,22/06/2025,,Mensal,129.9,Zona Leste,,33.0,5.47,True,28.0
+978,2025-06-23,,Mensal,129.9,Zona Leste,Musculacao,47.0,3.3,True,14.0
+739,2024-03-14,,Mensal,116.91,Zona Leste,Yoga,38.0,2.55,True,6.0
+192,29/09/2025,2025-11-12,Mensal,129.9,Centro,Musculacao,35.0,2.01,False,0.0
+920,05/08/2024,,trimestral,109.9,Centro,Funcional,17.0,3.79,True,13.0
+457,2025-07-17,,Anual,89.9,Zona Oeste,Funcional,26.0,5.74,True,
+676,2025-01-29,,Mensal,129.9,Zona Oeste,Crossfit,41.0,7.0,True,24.0
+761,2025-02-16,,Trimestral,104.4,Zona Oeste,Musculacao,17.0,7.0,True,
+1394,2025-10-27,,Mensal,116.91,Zona Oeste,Spinning,43.0,4.68,False,0.0
+729,2025-06-27,2025-10-20,Mensal,129.9,Zona Leste,Funcional,36.0,2.44,False,0.0
+413,2024-01-27,,Mensal,129.9,Centro,Musculacao,150.0,,False,
+826,2024-06-19,2024-10-26,Mensal,129.9,Centro,Crossfit,36.0,2.21,False,0.0
+617,2025-07-03,,Trimestral,109.9,Zona Leste,Crossfit,38.0,3.59,True,10.0
+115,2025-02-04,2025-07-13,Mensal,129.9,Centro,Spinning,38.0,2.32,True,8.0
+418,2024-06-29,,Trimestral,109.9,Zona Oeste,Crossfit,33.0,6.21,True,17.0
+1470,2025-11-28,,Mensal,129.9,Zona Leste,Musculacao,24.0,2.32,True,10.0
+970,2025-03-23,,Mensal,129.9,Zona Leste,Spinning,22.0,2.53,True,12.0
+605,2025-09-23,,anual,89.9,Zona Oeste,Musculacao,28.0,1.99,False,0.0
+1476,2024-08-23,,Mensal,365.85,Centro,Funcional,31.0,3.86,True,15.0
+90,2024-10-27,,Mensal,129.9,Zona Leste,Funcional,36.0,3.4,True,13.0
+849,2025-10-13,,Mensal,123.4,Zona Leste,Musculacao,,3.13,False,0.0
+1179,2024-05-19,,Mensal,129.9,Zona Oeste,Musculacao,38.0,3.05,False,0.0
+1475,2024-12-23,,Mensal,123.4,Zona Oeste,Musculacao,35.0,5.96,True,18.0
+754,2024-05-18,,Mensal,129.9,Zona Oeste,Funcional,19.0,1.59,True,5.0
+499,2024-11-05,2024-12-29,Mensal,129.9,Centro,Yoga,47.0,3.28,False,0.0
+12,2024-06-17,2024-11-12,Anual,89.9,Zona Leste,Funcional,31.0,1.84,False,
+397,2024-04-23,,Trimestral,109.9,Zona Oeste,Musculacao,29.0,7.0,True,25.0
+285,19/12/2024,,Trimestral,109.9,Zona Leste,Funcional,45.0,4.72,False,0.0
+1067,2024-07-25,, Mensal ,129.9,Zona Leste,Funcional,18.0,5.27,True,12.0
+691,2024-05-19,,Mensal,129.9, Zona Leste ,Funcional,44.0,4.08,False,0.0
+1384,2025-01-04,2025-02-20,Anual,89.9,Zona Leste,Musculacao,39.0,1.94,False,0.0
+1445,2025-10-27,,mensal,123.4,Zona Leste,Musculacao,31.0,,True,3.0
+690,02/06/2025,2025-07-10, Mensal ,129.9,Centro,Funcional,22.0,2.87,False,0.0
+852,2025-11-15,,Mensal,123.4, Centro ,Musculacao,52.0,4.23,False,0.0
+160,2025-08-21,2025-12-30,Trimestral,109.9,Zona Leste,Spinning,42.0,2.82,False,0.0
+896,2025-09-27,,Anual,89.9,Centro,Funcional,35.0,2.52,False,0.0
+1323,06/08/2024,,Mensal,129.9,Zona Leste,Yoga,43.0,2.95,True,6.0
+258,2025-07-02,,Mensal,129.9,Centro,Funcional,16.0,5.66,True,14.0
+336,2025-04-23,,Trimestral,104.4,Zona Leste,Musculacao,29.0,4.43,True,22.0
+1449,2025-03-08,2025-10-13,Trimestral,104.4, Centro ,Musculacao,35.0,5.34,True,22.0
+1040,2025-02-04,,Mensal,129.9,Zona Oeste,Musculacao,35.0,3.65,True,11.0
+516,20/02/2024,,Mensal,129.9,Zona Oeste,Musculacao,26.0,1.79,False,0.0
+1016,2024-06-18,2024-11-03,Mensal,129.9, Centro ,Spinning,31.0,0.89,False,0.0
+769,2024-09-04,,Mensal,123.4,Zona Oeste,Spinning,22.0,3.99,True,10.0
+1374,2025-08-04,2025-11-25,Trimestral,109.9,Zona Leste,Crossfit,35.0,2.5,False,
+762,04/04/2024,,mensal ,116.91,Centro,Musculacao,46.0,2.93,False,0.0
+1134,2024-12-24,2025-01-09,trimestral,109.9,Zona Oeste,Crossfit,23.0,1.53,False,
+522,2024-06-19,2024-11-01,Mensal,129.9,Zona Leste,Musculacao,48.0,1.0,True,1.0
+23,2025-06-19,,Anual,89.9,Centro,Musculacao,21.0,2.34,True,10.0
+357,2024-04-27,,Trimestral,104.4,Zona Leste,Musculacao,21.0,2.59,True,14.0
+1310,2024-02-09,,Anual,85.4,Zona Leste,Spinning,,5.67,True,28.0
+341,11/02/2024,2024-04-24,Mensal,129.9,Zona Leste,Musculacao,28.0,1.87,True,5.0
+432,2025-07-22,2025-11-22,Trimestral,98.91,Zona Oeste,Musculacao,37.0,5.66,True,22.0
+474,2024-08-23,2024-12-16,Mensal,123.4,Zona Leste,Funcional,40.0,3.26,False,0.0
+218,31/10/2024,,Mensal,390.05,Zona Oeste,Funcional,35.0,3.98,True,16.0
+912,13/09/2025,2025-11-09,Anual,89.9,Centro,Funcional,33.0,2.71,False,0.0
+1241,2024-04-20,2024-08-04,Anual,89.9,Zona Leste,Musculacao,24.0,2.13,True,7.0
+1012,2024-01-05,,Trimestral,109.9,Zona Leste,Musculacao,46.0,3.38,True,10.0
+470,2024-01-21,,Mensal,129.9,Zona Oeste,Funcional,24.0,3.46,True,14.0
+94,2025-01-31,2025-04-20,mensal ,129.9,Zona Leste,Musculacao,40.0,1.66,False,
+1009,2024-04-20,,Trimestral,104.4, Zona Oeste ,Musculacao,29.0,3.14,True,11.0
+1071,2025-07-29,,Anual,89.9,Zona Leste,Crossfit,57.0,5.01,True,14.0
+1093,2024-01-16,, Mensal ,123.4,Zona Oeste,Musculacao,21.0,,True,
+697,03/05/2024,,Trimestral,109.9,Zona Leste,Funcional,39.0,2.37,True,9.0
+1383,2025-10-26,,Mensal,129.9,Zona Oeste,Musculacao,31.0,4.32,True,14.0
+997,2025-07-23,,Trimestral,109.9,Zona Oeste,,24.0,1.1,False,0.0
+154,2025-06-11,2025-08-05,Trimestral,109.9,Zona Leste,Spinning,19.0,5.86,True,30.0
+1100,2025-03-25,2025-09-27,Mensal,123.4,Centro,Musculacao,38.0,2.38,True,4.0
+198,2025-11-17,,Anual,89.9,Centro,Musculacao,39.0,5.09,True,15.0
+1055,2024-11-25,,Mensal,129.9,Zona Leste,Musculacao,37.0,4.94,True,16.0
+790,2024-10-23,,Trimestral,104.4,Zona Leste,Yoga,42.0,5.15,True,52.0
+581,2024-08-07,,Mensal,129.9, Zona Leste ,Musculacao,44.0,5.43,True,26.0
+704,2025-09-16,,Anual,80.91,Zona Leste,Crossfit,29.0,7.0,True,26.0
+1297,2025-03-16,,Mensal,129.9,Zona Oeste,Yoga,42.0,5.95,False,0.0
+488,2025-11-25,,Mensal,123.4,Zona Oeste,Crossfit,32.0,2.62,True,8.0
+560,2025-09-01,2025-12-24,Mensal,129.9,Zona Leste,Musculacao,29.0,1.62,True,9.0
+1120,18/09/2025,,Anual,89.9,Centro,Musculacao,36.0,4.79,True,18.0
+802,28/10/2025,,Mensal,129.9,Zona Oeste,Spinning,33.0,2.95,True,13.0
+513,12/03/2024,,Mensal,129.9,Zona Leste,Musculacao,28.0,2.44,True,10.0
+634,2024-01-19,2024-04-10,Mensal,129.9,Centro,Crossfit,40.0,4.64,True,21.0
+1142,2024-07-30,2024-10-24,Trimestral,109.9,Zona Oeste,Yoga,19.0,1.67,False,0.0
+1379,18/10/2024,,Trimestral,109.9,Zona Oeste,Crossfit,32.0,5.29,True,14.0
+791,2025-05-12,2025-10-13,Mensal,129.9,Centro,Musculacao,42.0,1.42,False,0.0
+117,2024-06-28,2024-07-25,Trimestral,109.9,Zona Leste,Spinning,150.0,1.89,True,6.0
+741,2024-05-20,2024-08-15,MENSAL,129.9,Zona Leste,Musculacao,32.0,2.5,False,0.0
+1082,2025-03-25,,Anual,89.9,Centro,Crossfit,34.0,6.56,True,
+831,2025-04-11,,Trimestral,109.9,Zona Oeste,Spinning,38.0,6.87,True,28.0
+120,2025-10-06,,Trimestral,109.9,Zona Leste,Funcional,,3.07,True,14.0
+657,2024-04-14,2024-08-16,Anual,89.9,Zona Leste,Musculacao,26.0,1.15,True,4.0
+1467,2025-08-22,,Mensal,129.9,Zona Leste,Crossfit,18.0,3.62,True,14.0
+636,2024-12-04,,Mensal,129.9,Zona Oeste,Crossfit,37.0,6.69,True,27.0
+370,2024-07-31,,Anual,85.4,Centro,Spinning,42.0,,False,0.0
+269,2024-09-27,,Mensal,129.9,Zona Leste,Yoga,45.0,7.0,True,19.0
+656,2025-05-22,,Mensal,129.9,Centro,Funcional,23.0,5.28,True,16.0
+936,2024-06-02,,Mensal,123.4,Centro,Musculacao,35.0,3.84,True,15.0
+823,2024-05-04,2024-12-10,Mensal,129.9,Zona Leste,Musculacao,27.0,2.44,True,15.0
+867,2025-07-02,,Anual,89.9,Zona Leste,Musculacao,31.0,4.43,True,20.0
+47,2025-03-06,2025-05-02,Mensal,129.9,Zona Leste,Crossfit,57.0,3.05,True,13.0
+1329,10/07/2024,,Mensal,129.9,Centro,Musculacao,0.0,3.91,True,20.0
+992,27/04/2025,,Trimestral,109.9, Zona Leste ,Musculacao,32.0,4.53,False,0.0
+877,2024-09-04,2024-12-12,Mensal,129.9,Centro,Funcional,36.0,1.14,False,0.0
+774,29/07/2024,,Anual,85.4,Centro,Musculacao,30.0,3.23,True,9.0
+953,2024-11-28,2025-02-12,Mensal,129.9,Zona Oeste,Spinning,33.0,1.46,False,0.0
+5,2025-06-13,,Mensal,123.4,Centro,Yoga,48.0,4.37,True,14.0
+1004,2025-07-25,,Mensal,129.9,Centro,Crossfit,45.0,1.13,False,0.0
+1340,2025-05-28,2025-09-21, Mensal ,129.9,Zona Leste,Musculacao,36.0,2.4,False,0.0
+264,2025-10-19,,Mensal,129.9,Zona Leste,Musculacao,18.0,,True,21.0
+1261,2025-08-24,2025-10-30,Mensal,129.9,Zona Oeste,Funcional,21.0,1.98,True,37.0
+1411,2025-11-19,,Anual,89.9,Zona Oeste,Funcional,27.0,1.24,False,0.0
+444,19/03/2025,2025-04-30,Mensal,129.9,Zona Leste,Spinning,39.0,3.03,False,0.0
+1003,2024-06-21,,mensal,129.9,Centro,,34.0,5.01,True,20.0
+1078,2024-06-08,,Mensal,129.9,Centro,Yoga,36.0,5.14,True,22.0
+838,2024-01-02,,Anual,89.9,Zona Leste,Crossfit,27.0,2.71,True,11.0
+1381,05/04/2024,,Mensal,123.4,Zona Leste,Musculacao,,2.53,True,11.0
+305,2025-07-03,,Anual,89.9, Zona Oeste ,Funcional,40.0,3.39,False,0.0
+1209,2025-05-17,2025-07-29,mensal ,129.9,Zona Leste,Yoga,70.0,4.27,True,20.0
+314,2025-03-03,2025-07-20,Mensal,129.9,Zona Leste,Musculacao,23.0,1.38,True,5.0
+150,2024-11-16,2025-03-01,Mensal,123.4, Centro ,Musculacao,35.0,2.04,False,0.0
+1149,2024-10-03,,Mensal,116.91,Zona Oeste,Funcional,41.0,2.54,False,0.0
+575,2025-07-21,,Anual,89.9,Zona Leste,Funcional,37.0,7.0,True,30.0
+51,04/02/2024,,mensal,129.9,Zona Leste,Spinning,35.0,1.96,True,6.0
+1206,2024-03-27,,Mensal,116.91,Zona Oeste,,21.0,2.86,True,9.0
+727,2025-02-20,,Mensal,129.9,Zona Oeste,Funcional,32.0,1.76,True,8.0
+834,2025-07-29,,Trimestral,-98.91,Zona Leste,Musculacao,42.0,7.0,True,30.0
+1116,2025-08-23,,Mensal,129.9,Zona Oeste,Funcional,30.0,0.95,True,3.0
+1167,2025-02-12,,Trimestral,109.9,Centro,Funcional,30.0,2.64,False,0.0
+471,2025-09-24,2025-11-15, Mensal ,123.4, Zona Leste ,Yoga,44.0,1.46,False,0.0
+972,2025-10-11,,Mensal,129.9,Centro,Funcional,35.0,2.22,False,0.0
+654,2025-01-26,,Mensal,129.9,Centro,Funcional,,1.72,True,4.0
+400,17/08/2025,2025-12-16,Mensal,129.9,Zona Leste,Musculacao,17.0,2.96,True,12.0
+512,2025-07-24,,Anual,85.4,Zona Leste,Spinning,44.0,5.62,True,26.0
+321,2024-03-25,,Anual,-85.4,Centro,,43.0,4.4,True,20.0
+20,2025-09-28,,Trimestral,109.9,Zona Leste,Yoga,999.0,5.16,True,14.0
+685,13/05/2025,,Trimestral,109.9,Zona Oeste,Funcional,24.0,4.38,True,21.0
+36,2025-02-25,2025-04-30,Mensal,123.4,Zona Oeste,Yoga,,2.34,False,0.0
+903,2025-04-05,,Mensal,129.9,Zona Oeste,Spinning,35.0,2.87,True,6.0
+828,2025-05-12,2025-08-23,Mensal,129.9,Zona Leste,Funcional,27.0,0.89,True,6.0
+1386,2024-02-11,2024-08-08,Mensal,129.9,Zona Leste,Musculacao,22.0,2.33,True,9.0
+408,2025-08-29,,Anual,89.9,Zona Leste,,28.0,2.03,False,0.0
+921,2024-12-05,,Mensal,116.91,Zona Leste,Musculacao,28.0,4.08,True,16.0
+538,2024-06-09,,mensal,129.9,Zona Leste,Musculacao,59.0,2.37,True,9.0
+759,2024-08-29,,mensal ,123.4,Zona Leste,Funcional,31.0,1.82,False,0.0
+1063,2025-07-03,,Mensal,129.9,Zona Oeste,Funcional,25.0,,True,9.0
+246,2024-05-31,,Anual,89.9,Zona Oeste,Spinning,39.0,4.01,True,15.0
+1128,2024-01-09,,TRIMESTRAL,109.9,Zona Leste,Musculacao,35.0,1.27,False,0.0
+785,2025-08-05,,Anual,85.4,Zona Leste,Spinning,37.0,2.5,True,10.0
+490,2025-07-22,2025-08-15,Trimestral,109.9,Zona Leste,Musculacao,44.0,1.12,True,3.0
+155,2024-01-05,,Mensal,129.9,Centro,Musculacao,22.0,1.09,True,61.0
+962,2024-11-28,2025-09-09,Mensal,129.9,Zona Oeste,Spinning,39.0,3.56,False,0.0
+854,2024-11-25,,Anual,85.4,Zona Oeste,Musculacao,28.0,2.94,True,14.0
+626,2025-11-16,,Mensal,129.9,Zona Leste,Yoga,38.0,3.86,True,15.0
+686,2025-02-01,,Mensal,129.9,Zona Leste,Musculacao,36.0,3.44,True,8.0
+570,11/11/2024,,Mensal,123.4,Zona Oeste,Musculacao,999.0,2.81,False,0.0
+1468,2024-09-26,,Mensal,129.9,Zona Leste,Spinning,31.0,5.4,False,0.0
+18,2025-01-01,, Mensal ,123.4,Centro,Funcional,19.0,3.08,True,8.0
+128,2024-01-21,2024-02-08,Mensal,129.9,Zona Leste,Musculacao,45.0,1.87,False,0.0
+422,2024-11-29,,Mensal,129.9, Zona Leste ,Musculacao,28.0,2.96,True,9.0
+928,2024-01-30,2024-05-15,Anual,85.4,Zona Oeste,Musculacao,19.0,3.89,False,0.0
+981,2024-12-07,2025-01-20,Anual,89.9,Zona Oeste,Yoga,17.0,,True,9.0
+919,2025-03-15,,Mensal,123.4,Zona Leste,Musculacao,24.0,2.84,True,58.0
+191,2025-02-16,,Anual,89.9,Centro,Musculacao,,1.72,False,0.0
+1140,23/04/2024,2024-08-30,Trimestral,104.4,Zona Leste,Crossfit,30.0,3.35,False,
+993,2025-04-10,,Trimestral,109.9,Zona Leste,Funcional,42.0,5.18,True,14.0
+1323,06/08/2024,,Mensal,129.9,Zona Leste,Yoga,43.0,2.95,True,6.0
+1289,2025-03-21,,Mensal,129.9,Centro,Funcional,38.0,2.08,True,4.0
+607,2025-10-18,,Anual,85.4,Zona Oeste,Yoga,,4.3,False,0.0
+181,2025-05-31,2025-11-15,Anual,89.9,Zona Oeste,Spinning,41.0,5.04,True,
+302,2024-06-09,,Mensal,129.9,Zona Oeste,Funcional,27.0,2.92,True,12.0
+497,2025-03-08,2025-05-22,Mensal,129.9, Zona Leste ,Crossfit,41.0,4.29,False,0.0
+1330,2024-09-29,2025-02-18,mensal,129.9,Zona Oeste,Yoga,27.0,4.06,True,8.0
+1294,2024-10-01,,Mensal,123.4,Centro,Funcional,36.0,4.61,False,0.0
+1274,2025-11-15,,Trimestral,109.9,Zona Leste,Spinning,32.0,3.59,True,15.0
+518,2024-03-13,,Trimestral,109.9,Zona Leste,,32.0,1.14,False,0.0
+1070,2024-09-20,2025-01-21,Mensal,129.9,Centro,Yoga,35.0,2.3,True,11.0
+477,2024-12-08,,Mensal,129.9,Zona Oeste,Funcional,32.0,3.59,True,68.0
+158,2024-06-15,,Trimestral,104.4, Centro ,Yoga,46.0,5.36,False,0.0
+1196,2025-04-22,,Mensal,123.4,Zona Leste,Musculacao,30.0,1.22,True,4.0
+17,2025-01-21,,Trimestral,109.9,Zona Leste,Musculacao,45.0,3.06,True,11.0
+1073,2025-04-11,,Mensal,129.9,Zona Oeste,Musculacao,29.0,2.97,False,0.0
+1120,18/09/2025,,Anual,89.9,Centro,Musculacao,36.0,4.79,True,18.0
+547,14/07/2025,2025-08-02,Mensal,123.4,Zona Leste,Funcional,32.0,3.42,True,11.0
+659,2025-09-09,,Trimestral,104.4,Zona Leste,Funcional,47.0,4.18,False,
+1263,23/07/2024,2024-12-03,Mensal,129.9,Zona Leste,Musculacao,23.0,0.73,False,
+1020,2024-06-29,,Mensal,129.9,Zona Leste,Musculacao,31.0,5.83,True,15.0
+1458,2025-05-19,,Mensal,123.4,Zona Leste,Spinning,34.0,3.58,True,15.0
+960,2024-02-16,,Mensal,129.9,Zona Oeste,Musculacao,17.0,4.19,True,22.0
+1451,2024-06-23,2024-12-09,Trimestral,109.9,Zona Leste,Spinning,24.0,2.23,False,0.0
+284,2024-02-07,,Mensal,129.9,Zona Leste,Yoga,18.0,1.96,True,3.0
+798,2024-02-17,,Mensal,129.9,Zona Leste,Crossfit,24.0,4.94,False,0.0
+226,27/02/2025,,Anual,80.91, Zona Leste ,Funcional,,2.81,True,7.0
+27,2024-07-31,,Mensal,129.9,Zona Leste,Musculacao,53.0,1.44,True,3.0
+438,2024-12-10,,Mensal,129.9,Zona Oeste,,29.0,2.02,True,5.0
+1201,2025-03-14,,Trimestral,109.9,Zona Oeste,Musculacao,999.0,4.39,False,0.0
+230,2024-06-22,,Mensal,129.9,Zona Leste,Musculacao,38.0,2.75,True,6.0
+38,2024-08-01,,Mensal,129.9, Zona Oeste ,Crossfit,43.0,4.68,True,
+750,31/05/2024,,Anual,80.91,Zona Leste,Musculacao,34.0,5.08,True,24.0
+1046,2024-01-17,,Mensal,129.9,Zona Leste,Spinning,40.0,6.74,True,26.0
+470,2024-01-21,,Mensal,129.9,Zona Oeste,Funcional,24.0,3.46,True,14.0
+1317,2025-01-22,,Trimestral,104.4,Zona Leste,Musculacao,48.0,2.84,False,0.0
+1418,2024-06-02,2024-08-14,Mensal,129.9,Centro,Musculacao,30.0,3.81,True,10.0
+688,2024-02-28,,Anual,89.9,Zona Oeste,,36.0,,True,5.0
+1420,27/07/2025,,Anual,89.9,Zona Oeste,Spinning,33.0,7.0,True,23.0
+640,24/06/2025,,anual,89.9, Centro ,Yoga,36.0,4.61,True,12.0
+283,2024-05-09,,Mensal,129.9, Zona Leste ,Musculacao,37.0,5.1,False,0.0
+1219,2025-07-14,2025-10-22,Trimestral,109.9,Zona Leste,Musculacao,48.0,3.16,True,12.0
+1159,2024-12-19,,mensal,129.9,Zona Leste,Funcional,33.0,,True,9.0
+1288,2025-05-17,2025-06-06,Mensal,129.9,Zona Oeste,Musculacao,50.0,1.67,False,0.0
+1405,2025-09-23,,Mensal,129.9,Zona Leste,Spinning,27.0,2.83,True,12.0
+801,03/04/2025,,Trimestral,109.9,Centro,Musculacao,28.0,3.09,True,
+161,15/11/2024,,Mensal,123.4,Zona Leste,Funcional,23.0,3.04,True,13.0
+957,2025-11-03,,Trimestral,109.9,Zona Oeste,Crossfit,24.0,2.92,True,7.0
+1187,2025-11-24,,Mensal,129.9,Zona Leste,Funcional,24.0,3.54,True,21.0
+822,2025-09-09,,Trimestral,109.9,Zona Leste,Spinning,29.0,5.31,True,17.0
+1309,2024-08-01,,Mensal,129.9,Zona Leste,Funcional,23.0,4.54,True,16.0
+878,2024-01-26,,Mensal,129.9,Zona Oeste,Musculacao,35.0,3.72,True,9.0
+914,2024-12-02,,Anual,89.9,Zona Oeste,Crossfit,31.0,6.39,True,30.0
+153,2025-10-31,,Mensal,116.91,Zona Leste,Yoga,40.0,,True,10.0
+1415,14/08/2024,2025-02-15,Mensal,129.9,Zona Oeste,Spinning,19.0,1.52,False,0.0
+510,07/03/2024,,Mensal,129.9,Zona Oeste,Musculacao,33.0,2.58,False,0.0
+1136,2025-03-15,,Mensal,129.9,Zona Leste,Spinning,31.0,1.13,False,0.0
+1251,2024-07-08,2024-10-02,Mensal,129.9,Zona Leste,Yoga,58.0,1.78,False,
+1296,2025-08-17,,Mensal,129.9,Zona Oeste,Musculacao,25.0,4.37,True,15.0
+104,2024-12-27,,Anual,85.4,Centro,Musculacao,34.0,2.12,True,2.0
+587,2025-01-21,,Mensal,123.4,Zona Leste,Spinning,,2.4,True,11.0
+1367,2024-04-30,, Mensal ,129.9,Zona Leste,Funcional,30.0,4.26,True,14.0
+1144,2024-07-24,,Trimestral,109.9, Centro ,Yoga,21.0,3.17,True,11.0
+54,2025-02-02,2025-08-07,Trimestral,109.9,Zona Leste,Crossfit,34.0,1.2,False,0.0
+152,2024-11-17,,ANUAL,89.9,Zona Leste,Yoga,27.0,,False,0.0
+404,2024-05-05,,Mensal,123.4,Zona Leste,Musculacao,29.0,4.92,True,13.0
+1498,2025-05-20,,Trimestral,372.78,Zona Leste,Funcional,31.0,3.59,True,13.0
+208,2025-04-21,,Trimestral,109.9,Zona Leste,Musculacao,30.0,3.06,False,0.0
+1459,2025-11-21,,Anual,80.91,Zona Leste,Crossfit,46.0,3.29,True,13.0
+1123,2025-05-27,,Anual,89.9,Zona Leste,Funcional,36.0,2.72,False,
+1357,2024-05-12,,Mensal,129.9,Zona Oeste,Musculacao,37.0,4.34,True,9.0
+9,2025-05-18,2025-10-10,MENSAL,129.9,Zona Leste,,46.0,3.8,True,12.0
+1015,2024-07-03,,mensal ,369.78,Zona Leste,Musculacao,18.0,2.73,True,8.0
+1385,05/03/2025,,Anual,89.9,Zona Oeste,Spinning,26.0,3.12,True,8.0
+1061,2025-11-03,,Anual,89.9,Zona Oeste,Yoga,24.0,5.26,True,16.0
+453,06/01/2025,,Trimestral,109.9, Zona Oeste ,Crossfit,37.0,6.41,True,27.0
+254,2025-05-23,,MENSAL,129.9,Centro,Spinning,21.0,5.05,True,20.0
+897,2024-04-24,,Mensal,129.9,Zona Leste,Funcional,20.0,2.41,False,0.0
+1347,2025-01-15,,Mensal,439.42, Zona Leste ,Crossfit,21.0,3.56,False,0.0
+881,03/06/2024,,Mensal,129.9,Centro,Musculacao,29.0,1.82,True,5.0
+1455,02/04/2024,,Mensal,116.91,Zona Oeste,Musculacao,39.0,2.79,True,5.0
+624,2024-04-18,,Mensal,129.9,Zona Leste,Crossfit,30.0,3.89,True,10.0
+346,2025-03-22,,Trimestral,104.4,Zona Oeste,Funcional,24.0,3.79,False,0.0
+1325,2024-03-26,2024-08-04,Mensal,123.4,Centro,Musculacao,44.0,2.39,False,0.0
+263,2025-10-18,,Mensal,129.9,Zona Leste,Musculacao,44.0,1.66,True,6.0
+151,2024-09-10,,Trimestral,109.9,Zona Leste,Spinning,26.0,5.28,True,17.0
+473,2025-09-01,,Mensal,129.9,Zona Oeste,Spinning,18.0,3.44,True,7.0
+641,2024-04-10,,trimestral,109.9, Centro ,Funcional,31.0,2.69,True,4.0
+650,2024-07-05,,Mensal,-123.4, Zona Leste ,Crossfit,33.0,6.07,True,20.0
+1478,2024-02-03,,Anual,89.9,Zona Oeste,Musculacao,48.0,4.72,True,17.0
+551,2025-10-17,,Mensal,129.9, Centro ,Musculacao,46.0,3.54,True,
+929,2024-06-07,,Trimestral,109.9,Zona Oeste,Musculacao,40.0,2.05,True,4.0
+489,2024-03-20,,Trimestral,109.9,Centro,Spinning,31.0,5.13,True,22.0
+1398,14/01/2025,,Anual,89.9,Zona Leste,Spinning,52.0,5.22,True,28.0
+1172,2025-04-04,,Trimestral,109.9,Zona Leste,Musculacao,28.0,3.02,True,14.0
+147,2024-04-09,,Mensal,116.91, Zona Leste ,Crossfit,44.0,5.64,True,21.0
+403,02/08/2025,,Trimestral,109.9,Centro,Crossfit,29.0,2.51,True,8.0
+955,2024-07-23,2024-10-05,Anual,89.9,Zona Oeste,,27.0,2.84,False,0.0
+1447,2025-10-29,,anual,85.4,Zona Leste,Funcional,17.0,4.79,False,0.0
+660,21/08/2025,2025-11-28,Mensal,129.9,Zona Leste,Crossfit,52.0,,True,9.0
+464,2025-03-06,,Mensal,314.66,Zona Leste,Musculacao,22.0,4.43,True,16.0
+187,2024-07-24,,Mensal,129.9,Zona Oeste,Funcional,18.0,,True,6.0
+1148,2024-04-30,2024-08-08,Trimestral,109.9, Centro ,Yoga,44.0,1.6,False,0.0
+1225,2024-11-09,,Mensal,123.4,Zona Leste,Musculacao,47.0,4.45,False,0.0
+609,2024-03-01,,Trimestral,109.9,Zona Leste,Crossfit,36.0,3.36,False,0.0
+144,10/10/2024,,Trimestral,109.9,Zona Leste,Spinning,32.0,7.0,True,25.0
+752,10/10/2024,2025-04-22,Mensal,129.9,Zona Oeste,Funcional,20.0,1.77,False,0.0
+982,2025-04-13,,Trimestral,104.4,Zona Leste,Musculacao,44.0,7.0,True,19.0
+198,2025-11-17,,Anual,89.9,Centro,Musculacao,39.0,5.09,True,15.0
+884,2024-08-08,,Mensal,129.9,Zona Leste,Musculacao,31.0,2.87,True,11.0
+280,31/10/2024,,Anual,89.9,Zona Oeste,,40.0,3.42,True,
+294,14/05/2025,2025-06-12,Mensal,129.9, Zona Oeste ,Crossfit,22.0,2.13,False,0.0
+1406,2025-11-03,,Mensal,129.9,Zona Oeste,Yoga,32.0,1.78,True,
+401,2025-06-12,,Mensal,129.9,Zona Oeste,Yoga,28.0,,True,20.0
+123,24/08/2025,2025-09-29,Mensal,129.9,Centro,Funcional,19.0,4.19,True,13.0
+1208,2024-12-01,2025-02-09,Mensal,129.9,Zona Leste,Musculacao,30.0,0.43,False,0.0
+203,2025-02-05,,Mensal,129.9,Zona Leste,Yoga,20.0,5.69,True,15.0
+836,2024-03-11,,Trimestral,109.9, Zona Oeste ,Musculacao,42.0,5.63,True,16.0
+247,2024-02-25,,Trimestral,109.9,Zona Oeste,Musculacao,36.0,1.4,False,
+1464,2024-03-09,,mensal,123.4, Zona Oeste ,Musculacao,,7.0,True,30.0
+1450,2025-11-27,,Mensal,129.9,Centro,Musculacao,,0.99,True,4.0
+1154,2024-07-26,2025-03-07,Mensal,129.9,Zona Oeste,Spinning,23.0,2.82,True,6.0
+385,2024-02-25,2024-12-23,Mensal,116.91,Zona Leste,Crossfit,25.0,2.36,False,0.0
+1361,2025-09-04,,Trimestral,104.4,Zona Leste,Crossfit,46.0,7.0,True,24.0
+855,2024-06-21,,Mensal,123.4,Zona Leste,Spinning,32.0,2.86,True,15.0
+220,2024-04-17,,Mensal,129.9,Centro,Musculacao,,1.92,False,0.0
+642,2024-05-12,2024-07-02,Trimestral,104.4,Zona Leste,Musculacao,25.0,1.74,False,0.0
+2,2024-01-03,,Mensal,123.4,Centro,Musculacao,24.0,6.49,True,17.0
+113,2025-08-30,2025-11-22,Mensal,129.9,Zona Oeste,Crossfit,28.0,1.31,True,6.0
+699,2024-11-06,,Trimestral,109.9,Zona Leste,Musculacao,45.0,2.86,False,0.0
+1473,17/11/2025,,Mensal,123.4, Zona Leste ,Musculacao,46.0,1.79,False,0.0
+952,2025-09-12,,Mensal,129.9,Zona Oeste,Funcional,24.0,1.32,False,0.0
+1356,2024-12-07,,Mensal,129.9,Centro,Funcional,31.0,2.99,True,9.0
+1292,2025-08-19,,Trimestral,109.9,Zona Leste,Funcional,24.0,4.09,True,8.0
+1395,2024-08-30,2024-11-23,Anual,89.9,Centro,Musculacao,37.0,5.79,False,0.0
+442,2025-07-14,,mensal ,123.4,Zona Oeste,Crossfit,32.0,3.61,True,16.0
+1137,2024-04-11,2024-12-12,Mensal,129.9,Zona Oeste,Crossfit,,1.26,True,4.0
+1257,2024-11-09,,Trimestral,109.9,Centro,Yoga,55.0,3.2,True,12.0
+664,2024-07-21,,MENSAL,129.9,Zona Leste,Spinning,27.0,3.93,False,0.0
+1469,25/09/2024,2024-10-21,Trimestral,104.4,Zona Oeste,Yoga,27.0,2.67,False,0.0
+1258,2025-07-17,2025-09-16,Trimestral,-109.9,Zona Oeste,,43.0,1.81,False,0.0
+1486,2024-08-22,,Mensal,123.4,Zona Leste,Funcional,36.0,2.31,True,3.0
+318,2024-03-05,2024-04-13,Trimestral,109.9, Zona Oeste ,Musculacao,45.0,2.38,True,
+649,2024-10-27,,Trimestral,317.04,Zona Oeste,Funcional,55.0,3.18,True,8.0
+710,2024-02-09,,Mensal,129.9,Zona Leste,Funcional,31.0,1.11,False,0.0
+1283,2024-06-01,2024-07-15, Mensal ,116.91,Zona Oeste,Musculacao,47.0,1.73,False,0.0
+973,02/03/2024,,Mensal,129.9,Zona Oeste,Musculacao,59.0,3.33,True,13.0
+628,2024-10-30,2025-10-04,Mensal,129.9,Zona Leste,Musculacao,40.0,2.58,False,
+633,2024-09-06,2024-10-03,Mensal,123.4,Centro,Funcional,50.0,2.58,False,0.0
+1307,2025-09-26,2025-11-07,Trimestral,109.9,Zona Leste,Musculacao,39.0,4.16,True,18.0
+1249,2025-05-30,,Anual,85.4,Zona Oeste,Yoga,33.0,2.6,True,62.0
+1302,2025-05-17,,Trimestral,109.9,Zona Oeste,Musculacao,46.0,3.79,True,13.0
+1255,2025-07-02,,Mensal,129.9,Centro,Musculacao,28.0,5.16,False,
+1372,2025-06-11,,Anual,89.9,Zona Oeste,Funcional,32.0,3.29,False,0.0
+1355,2024-05-23,,Anual,85.4,Zona Oeste,Musculacao,25.0,1.19,False,0.0
+1238,2024-07-20,,Mensal,129.9,Zona Oeste,Spinning,44.0,3.81,True,11.0
+1425,2025-03-27,,Mensal,116.91,Zona Leste,Musculacao,28.0,2.44,False,0.0
+796,2025-01-28,,Mensal,129.9,Zona Leste,Yoga,35.0,3.83,True,17.0
+646,2025-03-11,,Anual,89.9,Centro,Crossfit,38.0,2.16,False,0.0
+1013,26/04/2024,2024-06-22,Mensal,129.9, Zona Leste ,Funcional,31.0,2.72,False,0.0
+557,2025-02-10,, Mensal ,129.9,Centro,,29.0,2.96,False,0.0
+682,2025-02-21,,Mensal,129.9,Centro,Spinning,35.0,5.75,True,18.0
+578,2025-11-06,,Trimestral,109.9,Zona Leste,Spinning,38.0,2.07,False,0.0
+1110,2025-06-23,,Mensal,129.9,Zona Leste,Musculacao,32.0,6.89,True,25.0
+1267,2025-06-03,,Mensal,129.9, Zona Leste ,Musculacao,36.0,7.0,True,
+1184,08/05/2024,,mensal ,129.9,Zona Oeste,Funcional,44.0,3.02,True,8.0
+525,2024-04-21,,Mensal,-129.9,Zona Oeste,Funcional,22.0,4.2,True,14.0
+1060,2025-02-20,2025-08-14,Trimestral,109.9,Zona Leste,Crossfit,29.0,0.9,False,0.0
+541,2025-03-25,,ANUAL,85.4,Zona Leste,Spinning,38.0,3.76,False,0.0
+1195,2025-10-09,,Anual,89.9,Centro,Musculacao,29.0,3.67,True,
+749,2024-01-31,,Trimestral,109.9,Zona Leste,Spinning,38.0,6.32,True,22.0
+1428,2025-10-18,,Mensal,129.9,Zona Oeste,Yoga,36.0,4.85,True,
+485,2024-06-19,,Mensal,129.9,Zona Oeste,Musculacao,42.0,2.67,False,0.0
+96,2024-09-30,,Trimestral,109.9,Zona Oeste,Yoga,23.0,2.04,False,0.0
+1021,2025-04-01,,Anual,89.9,Zona Leste,Crossfit,28.0,2.22,True,6.0
+564,2025-04-11,,Trimestral,109.9,Zona Leste,Spinning,43.0,4.46,True,15.0
+1265,2024-09-27,2025-09-30,Trimestral,104.4,Zona Leste,Musculacao,33.0,4.63,True,12.0
+743,2024-10-02,,Anual,89.9,Zona Leste,Crossfit,54.0,4.39,True,17.0
+864,27/08/2025,,Trimestral,109.9,Centro,Musculacao,51.0,3.27,True,13.0
+892,2024-07-15,,Anual ,85.4,Zona Oeste,Musculacao,,2.9,True,
+1039,2025-10-02,,Mensal,129.9,Zona Leste,Musculacao,34.0,3.5,True,11.0
+207,2024-08-20,2024-10-04,Mensal,129.9,Zona Leste,Musculacao,54.0,3.69,False,0.0
+393,2024-07-04,2024-10-21,Trimestral,104.4, Zona Oeste ,Yoga,35.0,2.53,True,12.0
+795,2024-10-17,,Mensal,129.9, Zona Leste ,Yoga,39.0,3.95,True,12.0
+871,2024-10-30,,TRIMESTRAL,109.9,Zona Oeste,Musculacao,35.0,,True,6.0
+398,2025-01-16,,Mensal,-129.9,Zona Leste,,32.0,6.6,True,20.0
+767,08/02/2025,2025-06-28,Mensal,123.4,Zona Oeste,Musculacao,19.0,1.11,False,0.0
+1418,2024-06-02,2024-08-14,Mensal,129.9,Centro,Musculacao,30.0,3.81,True,10.0
+1242,2025-11-16,,Mensal,129.9,Centro,Yoga,20.0,2.74,True,12.0
+1029,2025-11-16,2025-12-29,Trimestral,109.9,Centro,,47.0,,False,
+643,2025-02-26,,Mensal,123.4,Zona Oeste,Funcional,42.0,1.27,True,4.0
+613,2025-10-24,,Anual,89.9,Zona Leste,Musculacao,25.0,2.67,False,0.0
+961,2024-03-15,,Mensal,129.9,Centro,Funcional,20.0,6.59,True,30.0
+726,2025-10-31,,Mensal,129.9,Zona Leste,Musculacao,22.0,2.17,True,62.0
+684,2024-12-26,2025-02-17,Mensal,129.9,Zona Leste,Yoga,45.0,1.23,False,0.0
+99,19/08/2025,,Mensal,129.9,Centro,Musculacao,38.0,,True,14.0
+805,2025-02-01,2025-05-17,Mensal,116.91,Zona Leste,Funcional,49.0,,False,
+407,2025-03-05,,Mensal,129.9, Zona Leste ,Musculacao,36.0,2.6,False,0.0
+503,2025-01-02,,Anual,89.9,Centro,Musculacao,38.0,3.26,False,
+1072,2025-07-14,,trimestral,109.9,Zona Oeste,Musculacao,48.0,6.17,True,15.0
+1057,2025-03-22,,Anual,80.91,Zona Leste,Yoga,22.0,7.0,True,16.0
+930,2024-03-30,,Trimestral,109.9,Zona Oeste,,19.0,3.34,True,12.0
+780,20/08/2025,,Anual,89.9,Zona Oeste,Crossfit,30.0,2.86,False,0.0
+201,2024-04-19,2024-05-10,Trimestral,104.4, Centro ,Funcional,25.0,1.56,True,3.0
+135,2025-06-10,,Trimestral,109.9, Centro ,Crossfit,37.0,2.08,False,0.0
+1052,2024-06-02,,Mensal,129.9,Zona Oeste,Crossfit,23.0,2.29,True,13.0
+41,2024-04-05,,Mensal,129.9,Centro,Spinning,26.0,3.68,True,9.0
+1018,2024-03-28,,Anual,80.91, Zona Leste ,Musculacao,24.0,4.89,True,12.0
+231,2025-06-17,2025-08-10,Mensal,123.4,Centro,Funcional,39.0,,True,10.0
+379,2024-01-02,2024-10-02,Mensal,116.91,Zona Oeste,Funcional,39.0,3.0,True,11.0
+289,2024-10-02,,Mensal,129.9,Centro,Musculacao,33.0,4.51,True,12.0
+419,2025-02-17,,Mensal,129.9,Zona Oeste,Spinning,,4.87,True,10.0
+392,12/10/2025,,Mensal,129.9,Zona Oeste,Crossfit,42.0,0.97,False,0.0
+593,2025-04-11,2025-08-28,Mensal,129.9,Zona Oeste,Funcional,49.0,1.26,False,0.0
+1163,02/08/2025,,Trimestral,109.9,Zona Leste,Yoga,39.0,3.56,False,0.0
+1087,2025-09-08,,Trimestral,109.9,Zona Leste,Crossfit,32.0,4.95,True,16.0
+648,2025-04-17,,Mensal,129.9,Centro,Yoga,39.0,,True,20.0
+1153,2024-02-17,,Mensal,129.9,Centro,Musculacao,32.0,4.5,True,45.0
+1368,2024-04-10,2024-06-11,MENSAL,129.9,Zona Oeste,Musculacao,27.0,2.46,True,5.0
+521,2024-10-22,,Anual,89.9,Zona Oeste,Funcional,40.0,7.0,True,29.0
+65,2025-10-26,,Trimestral,104.4,Centro,Musculacao,58.0,5.84,True,23.0
+15,2024-08-27,,Mensal,129.9,Centro,Crossfit,37.0,4.28,True,17.0
+1181,2024-05-11,2024-08-17,Trimestral,109.9, Centro ,Musculacao,38.0,3.79,True,66.0
+1065,22/09/2025,,Mensal,123.4,Zona Oeste,Funcional,29.0,3.58,True,9.0
+493,2025-03-05,,Trimestral,109.9,Zona Leste,,36.0,3.35,True,11.0
+380,2025-05-07,,Trimestral,109.9,Zona Oeste,Spinning,30.0,2.6,False,0.0
+188,2025-09-09,,MENSAL,123.4,Zona Oeste,Musculacao,36.0,7.0,True,20.0
+764,2024-06-17,2024-11-08,Mensal,123.4,Zona Leste,Musculacao,1.0,3.87,False,0.0
+217,06/02/2024,2024-10-14,Mensal,129.9,Zona Leste,Yoga,35.0,2.22,False,0.0
+792,2025-11-19,,Mensal,129.9,Zona Oeste,Crossfit,31.0,3.84,True,20.0
+1077,2025-01-21,2025-05-02,Mensal,129.9,Zona Oeste,Crossfit,45.0,5.48,True,13.0
+879,2025-04-18,,Trimestral,109.9,Zona Leste,Crossfit,29.0,5.4,True,16.0
+338,2024-11-01,2024-12-23,Trimestral,98.91,Zona Leste,Musculacao,44.0,1.9,True,7.0
+720,2025-02-18,,Anual,89.9,Zona Leste,Spinning,41.0,2.18,True,5.0
+296,2024-05-19,,Anual,85.4,Zona Leste,Funcional,39.0,2.35,False,0.0
+1017,2024-07-26,,Trimestral,104.4,Zona Leste,Musculacao,32.0,2.66,False,0.0
+1276,2025-01-05,2025-02-20,Mensal,129.9,Zona Leste,Funcional,44.0,3.0,False,0.0
+456,2024-01-26,2024-05-17,Mensal,129.9,Centro,Musculacao,34.0,1.42,False,0.0
+941,2025-04-28,,Mensal,129.9,Centro,Musculacao,19.0,3.93,True,15.0
+816,2024-08-24,2024-11-07,Anual,89.9,Zona Leste,Musculacao,24.0,3.1,False,0.0
+270,2025-03-31,,Mensal,129.9,Centro,Funcional,29.0,1.77,True,8.0
+996,2024-02-14,,Mensal,123.4,Zona Oeste,Yoga,16.0,1.22,False,0.0
+202,2024-05-26,,Anual,89.9,Centro,Musculacao,26.0,3.74,False,0.0
+162,27/04/2025,2025-07-15,Anual,89.9,Zona Oeste,Spinning,52.0,2.55,True,9.0
+730,2025-11-21,,Mensal,129.9,Zona Oeste,Musculacao,27.0,3.13,True,15.0
+402,30/07/2025,,Anual,85.4,Zona Leste,Musculacao,33.0,3.62,True,21.0
+703,17/10/2025,2025-12-09, Mensal ,303.7,Centro,Musculacao,18.0,3.0,True,12.0
+1130,2024-04-30,,Anual,89.9,Zona Leste,,25.0,3.7,True,11.0
+566,2024-04-07,,Trimestral,109.9,Centro,Crossfit,29.0,4.29,True,14.0
+1414,2024-06-17,,Anual,85.4,Zona Oeste,Funcional,22.0,2.47,False,0.0
+1022,2025-08-02,,trimestral,109.9, Zona Oeste ,Funcional,32.0,1.5,False,0.0
+1026,2025-11-04,,Mensal,382.64,Zona Leste,Musculacao,25.0,2.1,False,0.0
+1412,2024-10-28,,Anual,85.4,Zona Leste,Yoga,,,True,71.0
+1105,2024-02-07,,Mensal,129.9,Zona Leste,Musculacao,32.0,1.98,False,0.0
+206,2025-03-15,2025-05-04,Mensal,123.4, Centro ,Yoga,38.0,1.11,True,51.0
+35,2024-01-04,,Mensal,129.9,Zona Leste,Musculacao,25.0,2.5,True,
+776,20/07/2024,,Anual,89.9,Zona Leste,Yoga,30.0,,True,15.0
+509,2024-01-11,2024-04-30, Mensal ,129.9,Zona Leste,Musculacao,33.0,5.89,True,17.0
+1452,2024-12-30,,Trimestral,109.9,Zona Oeste,Funcional,40.0,,False,0.0
+1479,2025-03-29,,Mensal,129.9,Zona Oeste,Musculacao,31.0,2.62,True,17.0
+588,2025-09-07,,Mensal,129.9,Zona Leste,Funcional,24.0,1.4,True,9.0
+1391,2024-08-07,,Anual,85.4,Zona Leste,Musculacao,33.0,6.18,True,
+92,2024-06-28,,trimestral,104.4,Zona Leste,Musculacao,30.0,6.81,True,23.0
+1364,2025-03-29,,Mensal,129.9,Zona Leste,Yoga,29.0,1.32,False,0.0
+898,20/12/2024,2025-08-21,Mensal,116.91,Zona Leste,Funcional,21.0,0.91,False,0.0
+565,2025-01-18,,Trimestral,104.4,Zona Leste,,44.0,3.22,True,6.0
+1370,16/01/2025,,Mensal,123.4,Zona Leste,Musculacao,24.0,5.93,True,25.0
+777,2025-10-07,,Trimestral,353.47,Zona Oeste,Musculacao,29.0,1.33,True,49.0
+242,2025-10-01,2025-11-07,Trimestral,98.91,Zona Leste,,41.0,4.48,False,0.0
+14,2025-11-16,,Trimestral,109.9,Zona Oeste,Funcional,50.0,4.36,True,16.0
+316,2024-06-11,,Mensal,406.24,Zona Oeste,Spinning,42.0,,False,0.0
+601,2025-08-05,,Mensal,129.9,Zona Oeste,Musculacao,36.0,1.91,True,8.0
+388,2024-10-24,,Anual,89.9,Zona Leste,Funcional,29.0,2.78,True,10.0
+1298,2024-05-08,2024-06-18,Mensal,129.9,Zona Leste,Musculacao,45.0,2.98,False,0.0
+167,2024-08-10,,Trimestral,109.9,Centro,Crossfit,,4.29,False,0.0
+841,2024-02-24,,Mensal,129.9, Zona Leste ,Musculacao,38.0,5.72,True,17.0
+21,2024-09-23,,Trimestral,109.9,Zona Leste,Musculacao,41.0,,True,
+647,30/03/2024,2024-06-09,Mensal,129.9,Zona Leste,Funcional,17.0,4.4,True,10.0
+1155,2025-06-15,2025-08-22,Mensal,129.9,Zona Oeste,Funcional,22.0,3.09,True,52.0
+832,2025-05-15,2025-10-03,trimestral,104.4,Zona Leste,Funcional,31.0,1.94,True,9.0
+1268,14/08/2024,,Anual,89.9,Zona Oeste,Musculacao,23.0,3.89,True,17.0
+563,2025-10-17,,anual,350.89,Zona Oeste,Musculacao,32.0,3.98,True,17.0
+1472,25/04/2025,,Mensal,123.4,Zona Oeste,Crossfit,31.0,2.93,False,0.0
+687,2024-03-28,2024-06-15,Mensal,116.91,Centro,,29.0,0.87,True,4.0
+958,2024-10-16,,Mensal,129.9,Zona Leste,Spinning,19.0,5.63,True,19.0
+190,18/05/2025,,Mensal,129.9,Zona Leste,Musculacao,40.0,1.11,True,2.0
+976,2024-12-17,,Trimestral,98.91,Zona Leste,Funcional,21.0,1.83,True,
+700,2024-06-12,,Mensal,129.9,Zona Oeste,Funcional,25.0,5.17,True,17.0
+1500,2025-10-28,,Trimestral,109.9,Zona Leste,Yoga,38.0,2.13,False,0.0
+511,2025-08-05,,mensal,116.91,Zona Leste,Funcional,28.0,2.91,False,0.0
+1083,09/12/2024,,Anual,80.91, Zona Leste ,Musculacao,31.0,3.61,True,11.0
+475,2025-10-06,,Mensal,129.9,Zona Leste,Musculacao,50.0,2.93,False,0.0
+857,2024-10-04,2025-04-03,Trimestral,109.9,Zona Oeste,Funcional,27.0,2.53,True,12.0
+748,2024-07-23,,Mensal,129.9,Zona Oeste,Spinning,25.0,3.2,True,72.0
+253,2024-04-02,2024-07-30,Mensal,123.4,Centro,Yoga,17.0,1.78,False,0.0
+22,04/10/2025,,Mensal,129.9,Zona Oeste,Crossfit,27.0,2.43,False,0.0
+1338,2024-03-12,2024-07-30,Trimestral,109.9, Zona Leste ,Funcional,18.0,1.39,False,0.0
+460,2025-06-17,,Trimestral,104.4,Zona Oeste,Musculacao,23.0,4.74,True,15.0
+1185,2024-10-05,2025-05-21,Mensal,123.4,Zona Leste,Musculacao,43.0,1.51,False,0.0
+277,2025-03-15,,Mensal,123.4,Zona Oeste,Crossfit,26.0,2.19,True,7.0
+956,2024-05-28,,Anual,89.9,Zona Oeste,Crossfit,29.0,2.44,True,8.0
+1216,2024-03-02,,Mensal,123.4, Zona Leste ,Funcional,31.0,5.65,False,0.0
+386,2025-08-19,,Anual,89.9,Zona Leste,Musculacao,44.0,2.0,False,
+806,2024-05-30,,Mensal,129.9,Zona Leste,Funcional,25.0,4.19,True,16.0
+1438,2024-01-26,2024-02-19,Mensal,129.9,Zona Leste,Musculacao,24.0,2.32,True,10.0
+1208,2024-12-01,2025-02-09,Mensal,129.9,Zona Leste,Musculacao,30.0,0.43,False,0.0
+344,24/10/2025,,Trimestral,109.9,Centro,Musculacao,43.0,2.4,True,15.0
+770,2024-01-27,,Trimestral,109.9,Centro,Musculacao,24.0,2.52,False,0.0
+1333,2024-05-02,,Mensal,123.4,Zona Oeste,Funcional,27.0,5.13,True,9.0
+131,2025-03-26,,Mensal,129.9,Zona Oeste,Musculacao,34.0,1.37,False,0.0
+872,2024-11-08,2025-02-20,Mensal,129.9,Zona Leste,Musculacao,43.0,1.03,False,0.0
+1124,2024-08-18,2025-01-23,mensal ,123.4, Centro ,Yoga,42.0,3.39,False,0.0
+1397,2025-06-19,2025-09-22,Mensal,116.91,Centro,Crossfit,33.0,2.04,False,0.0
+88,2024-03-17,,Mensal,129.9,Zona Oeste,Crossfit,19.0,5.32,True,16.0
+1483,2025-05-18,,Trimestral,104.4,Zona Leste,Musculacao,,4.58,True,17.0
+331,2024-12-11,,Trimestral,109.9, Zona Oeste ,Musculacao,50.0,,True,20.0
+1239,2024-05-02,2024-07-21,Mensal,123.4,Zona Oeste,,,1.97,False,0.0
+467,2024-09-06,,Trimestral,109.9,Zona Oeste,Crossfit,27.0,4.07,True,14.0
+122,2025-10-28,,Trimestral,109.9,Zona Oeste,Musculacao,27.0,7.0,True,18.0
+1045,2025-11-18,, Mensal ,129.9,Zona Oeste,,29.0,7.0,True,28.0
+1096,2025-09-23,,MENSAL,129.9,Centro,Yoga,30.0,7.0,True,22.0
+1131,2024-09-10,,Anual,89.9,Zona Leste,Spinning,25.0,2.05,False,0.0
+1295,23/12/2024,2025-02-13,Mensal,123.4,Centro,Funcional,,1.4,False,
+861,03/03/2025,,Trimestral,109.9,Centro,Spinning,40.0,2.33,True,4.0
+1460,2025-11-18,,Mensal,123.4,Centro,Crossfit,20.0,4.88,True,17.0
+1127,2024-06-05,2024-06-24,Mensal,129.9,Zona Oeste,Spinning,31.0,4.47,False,0.0

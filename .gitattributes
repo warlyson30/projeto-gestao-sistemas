@@ -1,0 +1,9 @@
+# Normaliza as quebras de linha: o repositorio guarda LF, o Colab (Linux) e o
+# Windows recebem o formato nativo de cada plataforma. Sem isso, arquivos
+# criados no Windows chegariam ao Colab com CRLF.
+* text=auto eol=lf
+
+# Binarios: nunca sofrer conversao de fim de linha nem diff textual.
+*.png binary
+*.parquet binary
+*.ipynb -text

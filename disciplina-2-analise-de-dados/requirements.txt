@@ -1,0 +1,20 @@
+# Dependencias do projeto Vertice Fit Analytics
+#
+# As versoes minimas declaradas correspondem ao ambiente em que a suite de
+# testes foi validada. O limite superior das versoes maiores e omitido de forma
+# deliberada: o codigo foi escrito para operar tanto com pandas 2.x, versao
+# corrente no Google Colab, quanto com pandas 3.x, evitando APIs depreciadas
+# como o parametro inplace em cadeia e a atribuicao encadeada de fatias.
+
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Camada intermediaria em Parquet. A ausencia desta dependencia nao interrompe
+# o pipeline: a carga degrada para CSV com aviso registrado em log.
+pyarrow>=12.0.0
+
+# Suite de testes
+pytest>=7.0.0

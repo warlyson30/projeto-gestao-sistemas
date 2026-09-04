@@ -1,24 +1,41 @@
-# Compiled class file
-*.class
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
 
-# Log file
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Caches de ferramentas
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+
+# ---------------------------------------------------------------------------
+# Artefatos de execucao
+# ---------------------------------------------------------------------------
 *.log
+*.log.*
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
+# ---------------------------------------------------------------------------
+# Pacotes e compactados
+# ---------------------------------------------------------------------------
 *.zip
 *.tar.gz
 *.rar
+*.jar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# ---------------------------------------------------------------------------
+# Sistema operacional e editores
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

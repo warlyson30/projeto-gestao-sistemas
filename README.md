@@ -46,3 +46,35 @@ Pesquisa Operacional para maximizar o lucro na alocação de horários/instrutor
 Repositório
 
 Link deste repositório : [https://github.com/warlyson30/projeto-gestao-sistemas/tree/main]
+
+
+---
+
+## Estrutura do repositório
+
+O repositório reúne as entregas das quatro disciplinas do projeto. Cada
+disciplina ocupa um diretório próprio, com código, dados e relatórios
+autocontidos.
+
+| Diretório | Disciplina | Conteúdo |
+|-----------|-----------|----------|
+| `disciplina-2-analise-de-dados/` | Análise de Dados | Pipeline de ETL, catálogo de indicadores, análise estatística e visualizações da Academia Vértice Fit |
+
+### Disciplina 2 — Análise de Dados
+
+Pipeline analítico completo em Python, com trilha de auditoria de cada
+tratamento aplicado aos dados. Documentação detalhada em
+[`disciplina-2-analise-de-dados/README.md`](disciplina-2-analise-de-dados/README.md).
+
+Execução local:
+
+```bash
+cd disciplina-2-analise-de-dados
+pip install -r requirements.txt
+python main.py
+```
+
+Execução no Google Colab: abra
+`disciplina-2-analise-de-dados/notebooks/D2_Analise_Dados.ipynb`. A primeira
+célula obtém o repositório e prepara o ambiente sozinha — não é necessário
+enviar arquivos manualmente.

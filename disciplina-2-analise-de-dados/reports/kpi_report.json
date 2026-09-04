@@ -1,0 +1,359 @@
+{
+  "executado_em": "2026-09-03T20:52:40",
+  "objetivos_smart": {
+    "OE-01": {
+      "descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "meta_numerica": "Reduzir o churn mensal em 10 pontos percentuais",
+      "prazo": "3 meses apos a implantacao"
+    },
+    "OE-02": {
+      "descricao": "Identificar antecipadamente a parcela da carteira com maior probabilidade de cancelamento, permitindo acao preventiva.",
+      "meta_numerica": "Classificar 20% da base como carteira de risco prioritario",
+      "prazo": "3 meses apos a implantacao"
+    },
+    "OE-03": {
+      "descricao": "Elevar o engajamento digital dos alunos no aplicativo proprio, hipotese central de alavanca de retencao.",
+      "meta_numerica": "Elevar a adesao ao aplicativo para 80% da base ativa",
+      "prazo": "6 meses apos a implantacao"
+    },
+    "OE-04": {
+      "descricao": "Otimizar a ocupacao da grade de aulas e a alocacao de instrutores, insumo direto do modelo de programacao linear da Disciplina 4.",
+      "meta_numerica": "Reduzir a ociosidade da grade em 15%",
+      "prazo": "6 meses apos a implantacao"
+    }
+  },
+  "indicadores": [
+    {
+      "codigo": "KPI-01",
+      "nome": "Taxa de Evasao (Churn) da Carteira",
+      "valor": 27.8078,
+      "valor_formatado": "27.81%",
+      "unidade": "%",
+      "formula": "(alunos com cancelamento registrado / total de alunos) x 100",
+      "direcao_desejada": "minimizar",
+      "objetivo_smart": "OE-01",
+      "objetivo_descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "objetivo_meta": "Reduzir o churn mensal em 10 pontos percentuais",
+      "justificativa": "Indicador primario do projeto. Mede diretamente a grandeza que o objetivo OE-01 se compromete a reduzir em dez pontos percentuais. Sem ele nao existe linha de base contra a qual aferir o sucesso da iniciativa, e a meta declarada no TAP permaneceria inverificavel.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-02",
+      "nome": "Taxa de Evasao Precoce",
+      "valor": 28.9538,
+      "valor_formatado": "28.95%",
+      "unidade": "%",
+      "formula": "(cancelamentos ocorridos ate 60 dias da matricula / total de cancelamentos) x 100",
+      "direcao_desejada": "minimizar",
+      "objetivo_smart": "OE-02",
+      "objetivo_descricao": "Identificar antecipadamente a parcela da carteira com maior probabilidade de cancelamento, permitindo acao preventiva.",
+      "objetivo_meta": "Classificar 20% da base como carteira de risco prioritario",
+      "justificativa": "Decompoe o churn total segundo a janela critica de sessenta dias definida no TAP. A distincao e operacionalmente decisiva: a evasao precoce indica falha de integracao e experiencia inicial, corrigivel por processo de acolhimento, enquanto a evasao tardia remete a perda de valor percebido ao longo do tempo. Sao problemas distintos e exigem intervencoes distintas.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-03",
+      "nome": "Ticket Medio Mensal",
+      "valor": 122.2845,
+      "valor_formatado": "R$ 122.28",
+      "unidade": "R$",
+      "formula": "media aritmetica do valor de mensalidade praticado",
+      "direcao_desejada": "monitorar",
+      "objetivo_smart": "OE-01",
+      "objetivo_descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "objetivo_meta": "Reduzir o churn mensal em 10 pontos percentuais",
+      "justificativa": "Converte a evasao em impacto financeiro. Sem o ticket medio, uma reducao percentual de churn permanece uma abstracao estatistica; com ele, cada ponto percentual de retencao e traduzido em receita preservada, insumo direto da analise de viabilidade do projeto.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-04",
+      "nome": "Receita Recorrente Mensal (MRR)",
+      "valor": 130719.97,
+      "valor_formatado": "R$ 130,719.97/mes",
+      "unidade": "R$/mes",
+      "formula": "somatorio das mensalidades da carteira ativa",
+      "direcao_desejada": "maximizar",
+      "objetivo_smart": "OE-01",
+      "objetivo_descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "objetivo_meta": "Reduzir o churn mensal em 10 pontos percentuais",
+      "justificativa": "Estabelece a base financeira sobre a qual o retorno do projeto e calculado. O MRR e a grandeza que a evasao corroi mes a mes, e constitui o denominador do indicador de receita em risco.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-05",
+      "nome": "Frequencia Media Semanal",
+      "valor": 3.4538,
+      "valor_formatado": "3.45 dias/semana",
+      "unidade": "dias/semana",
+      "formula": "media aritmetica de comparecimentos semanais por aluno",
+      "direcao_desejada": "maximizar",
+      "objetivo_smart": "OE-01",
+      "objetivo_descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "objetivo_meta": "Reduzir o churn mensal em 10 pontos percentuais",
+      "justificativa": "Principal variavel comportamental antecedente a evasao. A hipotese estrutural do projeto e que a frequencia opera como fator protetivo da retencao; este KPI fornece a medida agregada cuja associacao com o churn e testada formalmente na etapa estatistica.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-06",
+      "nome": "Taxa de Adesao ao Aplicativo",
+      "valor": 78.1631,
+      "valor_formatado": "78.16%",
+      "unidade": "%",
+      "formula": "(alunos ativos com uso do aplicativo / total de alunos ativos) x 100",
+      "direcao_desejada": "maximizar",
+      "objetivo_smart": "OE-03",
+      "objetivo_descricao": "Elevar o engajamento digital dos alunos no aplicativo proprio, hipotese central de alavanca de retencao.",
+      "objetivo_meta": "Elevar a adesao ao aplicativo para 80% da base ativa",
+      "justificativa": "Mede o objetivo OE-03 e, simultaneamente, a alavanca de intervencao de menor custo marginal do projeto. Ao contrario da frequencia, que depende da disponibilidade do aluno, a adesao digital pode ser influenciada diretamente por acao da empresa, o que a torna a variavel de maior valor gerencial da analise.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-07",
+      "nome": "Permanencia Media do Aluno Evadido",
+      "valor": 3.5858,
+      "valor_formatado": "3.59 meses",
+      "unidade": "meses",
+      "formula": "media de meses de vinculo entre os alunos que cancelaram",
+      "direcao_desejada": "maximizar",
+      "objetivo_smart": "OE-01",
+      "objetivo_descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "objetivo_meta": "Reduzir o churn mensal em 10 pontos percentuais",
+      "justificativa": "Complementa o churn com a dimensao temporal que a taxa isolada suprime. Duas carteiras podem apresentar identica taxa de evasao com desempenho economico distinto, conforme os alunos permanecam dois ou doze meses antes de cancelar. Esta metrica sustenta o calculo de valor de tempo de vida do cliente.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-08",
+      "nome": "Participacao da Carteira de Risco Prioritario",
+      "valor": 11.4339,
+      "valor_formatado": "11.43%",
+      "unidade": "%",
+      "formula": "(alunos ativos sem adesao ao aplicativo e com frequencia abaixo de 3 dias por semana / total de alunos ativos) x 100",
+      "direcao_desejada": "minimizar",
+      "objetivo_smart": "OE-02",
+      "objetivo_descricao": "Identificar antecipadamente a parcela da carteira com maior probabilidade de cancelamento, permitindo acao preventiva.",
+      "objetivo_meta": "Classificar 20% da base como carteira de risco prioritario",
+      "justificativa": "Operacionaliza o objetivo OE-02, que exige a identificacao antecipada da parcela de maior propensao ao cancelamento. O criterio combina os dois fatores protetivos confirmados estatisticamente e foi mantido deliberadamente simples: a recepcao precisa conseguir aplica-lo sem dependencia de modelo preditivo ou infraestrutura adicional.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-09",
+      "nome": "Receita Mensal em Risco",
+      "valor": 14426.65,
+      "valor_formatado": "R$ 14,426.65/mes",
+      "unidade": "R$/mes",
+      "formula": "somatorio das mensalidades da carteira de risco prioritario",
+      "direcao_desejada": "minimizar",
+      "objetivo_smart": "OE-02",
+      "objetivo_descricao": "Identificar antecipadamente a parcela da carteira com maior probabilidade de cancelamento, permitindo acao preventiva.",
+      "objetivo_meta": "Classificar 20% da base como carteira de risco prioritario",
+      "justificativa": "Traduz a carteira de risco em exposicao financeira mensurada. E o indicador que sustenta a priorizacao orcamentaria do projeto perante a alta administracao: o custo da acao de retencao passa a ser comparavel a receita que se deixaria de perder.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-10",
+      "nome": "Taxa de Subutilizacao da Estrutura",
+      "valor": 31.3027,
+      "valor_formatado": "31.30%",
+      "unidade": "%",
+      "formula": "(alunos ativos com frequencia inferior a 3 dias por semana / total de alunos ativos) x 100",
+      "direcao_desejada": "minimizar",
+      "objetivo_smart": "OE-04",
+      "objetivo_descricao": "Otimizar a ocupacao da grade de aulas e a alocacao de instrutores, insumo direto do modelo de programacao linear da Disciplina 4.",
+      "objetivo_meta": "Reduzir a ociosidade da grade em 15%",
+      "justificativa": "Vincula o comportamento do aluno a ocupacao da estrutura fisica. Fornece a estimativa de demanda reprimida que alimenta o modelo de programacao linear de alocacao de instrutores e grade de horarios desenvolvido na Disciplina 4, garantindo continuidade metodologica entre as etapas do projeto.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-11",
+      "nome": "Valor Medio Realizado por Aluno",
+      "valor": 1183.0287,
+      "valor_formatado": "R$ 1,183.03",
+      "unidade": "R$",
+      "formula": "media da receita acumulada ao longo do vinculo de cada aluno",
+      "direcao_desejada": "maximizar",
+      "objetivo_smart": "OE-01",
+      "objetivo_descricao": "Reduzir a taxa de evasao (churn) mensal de alunos da Academia Vertice Fit por meio de acoes de retencao baseadas em dados.",
+      "objetivo_meta": "Reduzir o churn mensal em 10 pontos percentuais",
+      "justificativa": "Aproximacao do valor de tempo de vida do cliente construida com receita ja realizada, e nao projetada. A opcao pelo valor realizado e conservadora e deliberada: evita sustentar a justificativa economica do projeto sobre premissas de permanencia futura ainda nao verificadas.",
+      "erro": null
+    },
+    {
+      "codigo": "KPI-12",
+      "nome": "Concentracao de Receita nos 20% Maiores Contratos",
+      "valor": 46.8817,
+      "valor_formatado": "46.88%",
+      "unidade": "%",
+      "formula": "(receita acumulada dos 20% maiores contratos / receita acumulada total) x 100",
+      "direcao_desejada": "monitorar",
+      "objetivo_smart": "OE-02",
+      "objetivo_descricao": "Identificar antecipadamente a parcela da carteira com maior probabilidade de cancelamento, permitindo acao preventiva.",
+      "objetivo_meta": "Classificar 20% da base como carteira de risco prioritario",
+      "justificativa": "Aplica o principio de Pareto a carteira para dimensionar a exposicao do faturamento a um numero reduzido de alunos. Quanto maior a concentracao, maior o impacto unitario de cada cancelamento no segmento de alto valor, o que redefine a prioridade das acoes de retencao: passa a importar nao apenas quantos alunos evadem, mas quais.",
+      "erro": null
+    }
+  ],
+  "segmentacoes": {
+    "por_plano": {
+      "Anual": {
+        "alunos": 262,
+        "evasoes": 52,
+        "frequencia_media": 3.72,
+        "ticket_medio": 91.88,
+        "taxa_evasao_pct": 19.85
+      },
+      "Mensal": {
+        "alunos": 814,
+        "evasoes": 272,
+        "frequencia_media": 3.28,
+        "ticket_medio": 135.11,
+        "taxa_evasao_pct": 33.42
+      },
+      "Trimestral": {
+        "alunos": 402,
+        "evasoes": 87,
+        "frequencia_media": 3.63,
+        "ticket_medio": 116.14,
+        "taxa_evasao_pct": 21.64
+      }
+    },
+    "por_segmento_engajamento": {
+      "Alto": {
+        "alunos": 714,
+        "evasoes": 92,
+        "frequencia_media": 4.54,
+        "ticket_medio": 123.52,
+        "taxa_evasao_pct": 12.89
+      },
+      "Baixo": {
+        "alunos": 281,
+        "evasoes": 159,
+        "frequencia_media": 1.9,
+        "ticket_medio": 120.0,
+        "taxa_evasao_pct": 56.58
+      },
+      "Medio-Digital": {
+        "alunos": 321,
+        "evasoes": 109,
+        "frequencia_media": 2.17,
+        "ticket_medio": 120.91,
+        "taxa_evasao_pct": 33.96
+      },
+      "Medio-Presencial": {
+        "alunos": 162,
+        "evasoes": 51,
+        "frequencia_media": 3.93,
+        "ticket_medio": 123.52,
+        "taxa_evasao_pct": 31.48
+      }
+    },
+    "por_faixa_etaria": {
+      "16-24": {
+        "alunos": 276,
+        "evasoes": 69,
+        "frequencia_media": 3.43,
+        "ticket_medio": 125.09,
+        "taxa_evasao_pct": 25.0
+      },
+      "25-34": {
+        "alunos": 578,
+        "evasoes": 142,
+        "frequencia_media": 3.47,
+        "ticket_medio": 122.56,
+        "taxa_evasao_pct": 24.57
+      },
+      "35-44": {
+        "alunos": 436,
+        "evasoes": 135,
+        "frequencia_media": 3.45,
+        "ticket_medio": 120.05,
+        "taxa_evasao_pct": 30.96
+      },
+      "45-54": {
+        "alunos": 152,
+        "evasoes": 57,
+        "frequencia_media": 3.38,
+        "ticket_medio": 122.68,
+        "taxa_evasao_pct": 37.5
+      },
+      "55+": {
+        "alunos": 36,
+        "evasoes": 8,
+        "frequencia_media": 3.73,
+        "ticket_medio": 121.64,
+        "taxa_evasao_pct": 22.22
+      }
+    },
+    "por_unidade": {
+      "Centro": {
+        "alunos": 326,
+        "evasoes": 99,
+        "frequencia_media": 3.47,
+        "ticket_medio": 122.06,
+        "taxa_evasao_pct": 30.37
+      },
+      "Zona Leste": {
+        "alunos": 668,
+        "evasoes": 181,
+        "frequencia_media": 3.48,
+        "ticket_medio": 121.45,
+        "taxa_evasao_pct": 27.1
+      },
+      "Zona Oeste": {
+        "alunos": 484,
+        "evasoes": 131,
+        "frequencia_media": 3.41,
+        "ticket_medio": 123.58,
+        "taxa_evasao_pct": 27.07
+      }
+    },
+    "por_modalidade": {
+      "Crossfit": {
+        "alunos": 188,
+        "evasoes": 48,
+        "frequencia_media": 3.48,
+        "ticket_medio": 122.37,
+        "taxa_evasao_pct": 25.53
+      },
+      "Funcional": {
+        "alunos": 289,
+        "evasoes": 80,
+        "frequencia_media": 3.38,
+        "ticket_medio": 122.03,
+        "taxa_evasao_pct": 27.68
+      },
+      "Musculacao": {
+        "alunos": 662,
+        "evasoes": 190,
+        "frequencia_media": 3.42,
+        "ticket_medio": 122.17,
+        "taxa_evasao_pct": 28.7
+      },
+      "Spinning": {
+        "alunos": 206,
+        "evasoes": 63,
+        "frequencia_media": 3.64,
+        "ticket_medio": 121.28,
+        "taxa_evasao_pct": 30.58
+      },
+      "Yoga": {
+        "alunos": 133,
+        "evasoes": 30,
+        "frequencia_media": 3.46,
+        "ticket_medio": 124.82,
+        "taxa_evasao_pct": 22.56
+      }
+    },
+    "hipotese_adesao_digital": {
+      "churn_com_app_pct": 19.42,
+      "churn_sem_app_pct": 47.4,
+      "diferenca_pp": 27.98,
+      "risco_relativo": 2.44
+    },
+    "carteira_de_risco": {
+      "alunos_ativos": 1067,
+      "alunos_em_risco": 122,
+      "participacao_pct": 11.43,
+      "mrr_em_risco": 14426.65
+    }
+  }
+}

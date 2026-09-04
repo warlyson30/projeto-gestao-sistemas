@@ -1,0 +1,544 @@
+{
+  "executado_em": "2026-09-03T20:52:40",
+  "registros_entrada": 1545,
+  "registros_saida": 1478,
+  "registros_descartados": 67,
+  "taxa_perda": 0.0434,
+  "total_tratamentos": 29,
+  "tratamentos": [
+    {
+      "etapa": "normalizacao",
+      "regra": "padronizacao_texto",
+      "coluna": "plano",
+      "registros_afetados": 184,
+      "acao": "trim + colapso de espacos + Title Case",
+      "justificativa": "Digitacao livre no cadastro produz variacoes da mesma categoria (por exemplo 'mensal', 'MENSAL', ' Mensal '). Sem padronizacao, cada variacao seria contada como uma categoria distinta nas agregacoes e impediria a deduplicacao correta."
+    },
+    {
+      "etapa": "normalizacao",
+      "regra": "padronizacao_texto",
+      "coluna": "unidade",
+      "registros_afetados": 163,
+      "acao": "trim + colapso de espacos + Title Case",
+      "justificativa": "Digitacao livre no cadastro produz variacoes da mesma categoria (por exemplo 'mensal', 'MENSAL', ' Mensal '). Sem padronizacao, cada variacao seria contada como uma categoria distinta nas agregacoes e impediria a deduplicacao correta."
+    },
+    {
+      "etapa": "normalizacao",
+      "regra": "padronizacao_texto",
+      "coluna": "modalidade_principal",
+      "registros_afetados": 0,
+      "acao": "trim + colapso de espacos + Title Case",
+      "justificativa": "Digitacao livre no cadastro produz variacoes da mesma categoria (por exemplo 'mensal', 'MENSAL', ' Mensal '). Sem padronizacao, cada variacao seria contada como uma categoria distinta nas agregacoes e impediria a deduplicacao correta."
+    },
+    {
+      "etapa": "normalizacao",
+      "regra": "conversao_datas_multiformato",
+      "coluna": "data_matricula",
+      "registros_afetados": 0,
+      "acao": "parse ISO e, no residuo, parse DD/MM/YYYY",
+      "justificativa": "A base mistura o formato ISO do sistema atual com o formato brasileiro herdado da migracao de legado. A conversao em duas passagens explicitas elimina a ambiguidade de datas como 03/04/2025, que a inferencia automatica resolveria de forma inconsistente entre linhas."
+    },
+    {
+      "etapa": "normalizacao",
+      "regra": "conversao_datas_multiformato",
+      "coluna": "data_cancelamento",
+      "registros_afetados": 0,
+      "acao": "parse ISO e, no residuo, parse DD/MM/YYYY",
+      "justificativa": "A base mistura o formato ISO do sistema atual com o formato brasileiro herdado da migracao de legado. A conversao em duas passagens explicitas elimina a ambiguidade de datas como 03/04/2025, que a inferencia automatica resolveria de forma inconsistente entre linhas."
+    },
+    {
+      "etapa": "deduplicacao",
+      "regra": "linhas_integralmente_duplicadas",
+      "coluna": "<todas>",
+      "registros_afetados": 45,
+      "acao": "descarte mantendo a primeira ocorrencia",
+      "justificativa": "Reenvio de lote na integracao com o sistema de gestao replica linhas identicas. Mante-las inflaria artificialmente o tamanho da carteira e o faturamento agregado."
+    },
+    {
+      "etapa": "deduplicacao",
+      "regra": "chave_de_negocio_duplicada",
+      "coluna": "id_aluno",
+      "registros_afetados": 0,
+      "acao": "mantido o registro mais completo por id_aluno",
+      "justificativa": "id_aluno e a chave primaria da carteira. Registros duplicados nesta chave provocariam dupla contagem em todos os indicadores de base ativa, receita e evasao. Entre duplicatas, preserva-se o registro com maior numero de campos preenchidos."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "intervalo_numerico_admissivel",
+      "coluna": "idade",
+      "registros_afetados": 15,
+      "acao": "valor convertido em ausente para imputacao posterior",
+      "justificativa": "Idade fora do intervalo admissivel para matricula (16 a 89 anos). Valores como 0, 1 ou 999 sao erro de lancamento manual na recepcao."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "intervalo_numerico_admissivel",
+      "coluna": "valor_mensalidade",
+      "registros_afetados": 22,
+      "acao": "valor convertido em ausente para imputacao posterior",
+      "justificativa": "Mensalidade negativa ou acima do teto comercial indica erro de sinal ou de digitacao. Manter valores negativos reduziria artificialmente a receita agregada."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "intervalo_numerico_admissivel",
+      "coluna": "frequencia_semanal",
+      "registros_afetados": 0,
+      "acao": "valor convertido em ausente para imputacao posterior",
+      "justificativa": "A frequencia semanal e limitada fisicamente a 7 dias. Valores superiores indicam duplicidade de check-in na catraca."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "intervalo_numerico_admissivel",
+      "coluna": "checkins_app_mes",
+      "registros_afetados": 0,
+      "acao": "valor convertido em ausente para imputacao posterior",
+      "justificativa": "Contagem de check-ins nao admite valor negativo."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "categoria_fora_do_dominio",
+      "coluna": "plano",
+      "registros_afetados": 0,
+      "acao": "valor convertido em ausente",
+      "justificativa": "Apenas as categorias ['Mensal', 'Trimestral', 'Anual'] sao comercializadas ou operadas. Categorias divergentes remanescentes apos a padronizacao textual indicam erro de origem."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "categoria_fora_do_dominio",
+      "coluna": "unidade",
+      "registros_afetados": 0,
+      "acao": "valor convertido em ausente",
+      "justificativa": "Apenas as categorias ['Zona Leste', 'Zona Oeste', 'Centro'] sao comercializadas ou operadas. Categorias divergentes remanescentes apos a padronizacao textual indicam erro de origem."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "categoria_fora_do_dominio",
+      "coluna": "modalidade_principal",
+      "registros_afetados": 0,
+      "acao": "valor convertido em ausente",
+      "justificativa": "Apenas as categorias ['Musculacao', 'Spinning', 'Funcional', 'Yoga', 'Crossfit'] sao comercializadas ou operadas. Categorias divergentes remanescentes apos a padronizacao textual indicam erro de origem."
+    },
+    {
+      "etapa": "validacao_dominio",
+      "regra": "coerencia_temporal",
+      "coluna": "data_cancelamento",
+      "registros_afetados": 0,
+      "acao": "cancelamento anterior a matricula anulado",
+      "justificativa": "Um cancelamento nao pode preceder a matricula. A inversao indica erro de preenchimento e distorceria o calculo de tempo de vida do aluno, base do indicador de retencao."
+    },
+    {
+      "etapa": "descarte",
+      "regra": "campos_criticos_ausentes",
+      "coluna": "id_aluno, data_matricula, plano, valor_mensalidade",
+      "registros_afetados": 22,
+      "acao": "registro removido da base analitica",
+      "justificativa": "Os campos criticos definem a existencia comercial do contrato. Imputar plano ou valor de mensalidade criaria receita ficticia e comprometeria todos os KPIs financeiros derivados."
+    },
+    {
+      "etapa": "imputacao",
+      "regra": "imputacao_por_mediana",
+      "coluna": "frequencia_semanal",
+      "registros_afetados": 89,
+      "acao": "preenchimento com mediana = 3.26",
+      "justificativa": "Variavel continua com distribuicao assimetrica. A mediana e robusta a valores extremos, enquanto a media seria deslocada pelos proprios outliers que a analise pretende investigar."
+    },
+    {
+      "etapa": "imputacao",
+      "regra": "imputacao_por_mediana",
+      "coluna": "idade",
+      "registros_afetados": 73,
+      "acao": "preenchimento com mediana = 33.00",
+      "justificativa": "Variavel continua com distribuicao assimetrica. A mediana e robusta a valores extremos, enquanto a media seria deslocada pelos proprios outliers que a analise pretende investigar."
+    },
+    {
+      "etapa": "imputacao",
+      "regra": "imputacao_por_moda",
+      "coluna": "modalidade_principal",
+      "registros_afetados": 72,
+      "acao": "preenchimento com moda = Musculacao",
+      "justificativa": "Variavel categorica nominal. A moda e a unica medida de tendencia central definida nesta escala de mensuracao."
+    },
+    {
+      "etapa": "imputacao",
+      "regra": "imputacao_por_moda",
+      "coluna": "unidade",
+      "registros_afetados": 0,
+      "acao": "preenchimento com sem ausentes",
+      "justificativa": "Variavel categorica nominal. A moda e a unica medida de tendencia central definida nesta escala de mensuracao."
+    },
+    {
+      "etapa": "imputacao",
+      "regra": "imputacao_por_constante",
+      "coluna": "checkins_app_mes",
+      "registros_afetados": 104,
+      "acao": "preenchimento com 0",
+      "justificativa": "A ausencia de registro de check-in no aplicativo possui significado de negocio conhecido: representa nenhum check-in realizado, e nao informacao desconhecida."
+    },
+    {
+      "etapa": "imputacao",
+      "regra": "imputacao_por_constante",
+      "coluna": "usa_app",
+      "registros_afetados": 0,
+      "acao": "preenchimento com False",
+      "justificativa": "Ausencia de vinculo registrado no aplicativo e interpretada como nao adesao, mantendo coerencia com o tratamento de checkins_app_mes."
+    },
+    {
+      "etapa": "outliers_origem",
+      "regra": "criterio_iqr_tukey",
+      "coluna": "frequencia_semanal",
+      "registros_afetados": 0,
+      "acao": "sinalizado em outlier_frequencia_semanal (limites [-0.775, 7.505])",
+      "justificativa": "O criterio IQR nao pressupoe normalidade e seus limites nao sao influenciados pelos proprios extremos, ao contrario do z-score. Os outliers sao sinalizados e nao removidos: em uma academia, o aluno de frequencia ou ticket extremo e o ativo comercial mais valioso da carteira, e sua exclusao suprimiria a evidencia central da hipotese de retencao."
+    },
+    {
+      "etapa": "outliers_origem",
+      "regra": "criterio_iqr_tukey",
+      "coluna": "valor_mensalidade",
+      "registros_afetados": 42,
+      "acao": "sinalizado em outlier_valor_mensalidade (limites [79.9, 159.9])",
+      "justificativa": "O criterio IQR nao pressupoe normalidade e seus limites nao sao influenciados pelos proprios extremos, ao contrario do z-score. Os outliers sao sinalizados e nao removidos: em uma academia, o aluno de frequencia ou ticket extremo e o ativo comercial mais valioso da carteira, e sua exclusao suprimiria a evidencia central da hipotese de retencao."
+    },
+    {
+      "etapa": "outliers_origem",
+      "regra": "criterio_iqr_tukey",
+      "coluna": "checkins_app_mes",
+      "registros_afetados": 29,
+      "acao": "sinalizado em outlier_checkins_app_mes (limites [-24.0, 40.0])",
+      "justificativa": "O criterio IQR nao pressupoe normalidade e seus limites nao sao influenciados pelos proprios extremos, ao contrario do z-score. Os outliers sao sinalizados e nao removidos: em uma academia, o aluno de frequencia ou ticket extremo e o ativo comercial mais valioso da carteira, e sua exclusao suprimiria a evidencia central da hipotese de retencao."
+    },
+    {
+      "etapa": "feature_engineering",
+      "regra": "derivacao_de_atributos_analiticos",
+      "coluna": "evadiu, status, dias_vinculo, meses_vinculo, evasao_precoce, receita_acumulada, coorte_mes, faixa_etaria, segmento_engajamento",
+      "registros_afetados": 1478,
+      "acao": "9 colunas derivadas",
+      "justificativa": "Variaveis nao presentes no sistema transacional, construidas a partir de regra de negocio explicita. Constituem a ponte entre o registro operacional e os indicadores gerenciais: dias_vinculo sustenta a analise de retencao, evasao_precoce operacionaliza a janela critica definida no TAP e segmento_engajamento viabiliza o teste da hipotese central do projeto."
+    },
+    {
+      "etapa": "outliers_derivadas",
+      "regra": "criterio_iqr_tukey",
+      "coluna": "receita_acumulada",
+      "registros_afetados": 25,
+      "acao": "sinalizado em outlier_receita_acumulada (limites [-1582.685, 3716.955])",
+      "justificativa": "O criterio IQR nao pressupoe normalidade e seus limites nao sao influenciados pelos proprios extremos, ao contrario do z-score. Os outliers sao sinalizados e nao removidos: em uma academia, o aluno de frequencia ou ticket extremo e o ativo comercial mais valioso da carteira, e sua exclusao suprimiria a evidencia central da hipotese de retencao."
+    },
+    {
+      "etapa": "outliers_derivadas",
+      "regra": "criterio_iqr_tukey",
+      "coluna": "dias_vinculo",
+      "registros_afetados": 0,
+      "acao": "sinalizado em outlier_dias_vinculo (limites [-433.25, 1004.75])",
+      "justificativa": "O criterio IQR nao pressupoe normalidade e seus limites nao sao influenciados pelos proprios extremos, ao contrario do z-score. Os outliers sao sinalizados e nao removidos: em uma academia, o aluno de frequencia ou ticket extremo e o ativo comercial mais valioso da carteira, e sua exclusao suprimiria a evidencia central da hipotese de retencao."
+    },
+    {
+      "etapa": "higiene_tipos",
+      "regra": "restauracao_tipo_inteiro",
+      "coluna": "idade, checkins_app_mes",
+      "registros_afetados": 1478,
+      "acao": "conversao de float64 para int64",
+      "justificativa": "Colunas de contagem foram promovidas a ponto flutuante pela presenca de ausentes. Concluida a imputacao, o tipo inteiro e restabelecido para evitar propagacao de ruido de formatacao aos relatorios e artefatos graficos."
+    }
+  ],
+  "perfil_entrada": {
+    "rotulo": "base_bruta",
+    "n_registros": 1545,
+    "n_colunas": 11,
+    "memoria_mb": 0.175,
+    "colunas": {
+      "id_aluno": {
+        "dtype": "int64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 1500,
+        "minimo": 1,
+        "maximo": 1500,
+        "media": 752.0725,
+        "mediana": 754.0
+      },
+      "data_matricula": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 769
+      },
+      "data_cancelamento": {
+        "dtype": "string",
+        "nulos": 1120,
+        "pct_nulos": 72.49,
+        "distintos": 308
+      },
+      "plano": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 13
+      },
+      "valor_mensalidade": {
+        "dtype": "float64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 59,
+        "minimo": -129.9,
+        "maximo": 439.42,
+        "media": 118.6593,
+        "mediana": 123.4
+      },
+      "unidade": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 6
+      },
+      "modalidade_principal": {
+        "dtype": "string",
+        "nulos": 75,
+        "pct_nulos": 4.85,
+        "distintos": 5
+      },
+      "idade": {
+        "dtype": "float64",
+        "nulos": 62,
+        "pct_nulos": 4.01,
+        "distintos": 55,
+        "minimo": 0.0,
+        "maximo": 999.0,
+        "media": 38.2724,
+        "mediana": 33.0
+      },
+      "frequencia_semanal": {
+        "dtype": "float64",
+        "nulos": 90,
+        "pct_nulos": 5.83,
+        "distintos": 525,
+        "minimo": 0.31,
+        "maximo": 7.0,
+        "media": 3.4808,
+        "mediana": 3.27
+      },
+      "usa_app": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "checkins_app_mes": {
+        "dtype": "float64",
+        "nulos": 107,
+        "pct_nulos": 6.93,
+        "distintos": 58,
+        "minimo": 0.0,
+        "maximo": 87.0,
+        "media": 10.8505,
+        "mediana": 10.0
+      }
+    }
+  },
+  "perfil_saida": {
+    "rotulo": "base_analitica",
+    "n_registros": 1478,
+    "n_colunas": 28,
+    "memoria_mb": 0.279,
+    "colunas": {
+      "id_aluno": {
+        "dtype": "int64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 1478,
+        "minimo": 1,
+        "maximo": 1500,
+        "media": 751.5244,
+        "mediana": 752.5
+      },
+      "data_matricula": {
+        "dtype": "datetime64[us]",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 612
+      },
+      "data_cancelamento": {
+        "dtype": "datetime64[us]",
+        "nulos": 1067,
+        "pct_nulos": 72.19,
+        "distintos": 306
+      },
+      "plano": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 3
+      },
+      "valor_mensalidade": {
+        "dtype": "float64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 51,
+        "minimo": 80.91,
+        "maximo": 439.42,
+        "media": 122.2845,
+        "mediana": 123.4
+      },
+      "unidade": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 3
+      },
+      "modalidade_principal": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 5
+      },
+      "idade": {
+        "dtype": "int64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 51,
+        "minimo": 16,
+        "maximo": 70,
+        "media": 33.5359,
+        "mediana": 33.0
+      },
+      "frequencia_semanal": {
+        "dtype": "float64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 522,
+        "minimo": 0.31,
+        "maximo": 7.0,
+        "media": 3.4538,
+        "mediana": 3.26
+      },
+      "usa_app": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "checkins_app_mes": {
+        "dtype": "int64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 58,
+        "minimo": 0,
+        "maximo": 87,
+        "media": 10.0487,
+        "mediana": 9.0
+      },
+      "outlier_frequencia_semanal": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 1
+      },
+      "outlier_valor_mensalidade": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "outlier_checkins_app_mes": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "outlier_origem": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "evadiu": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "status": {
+        "dtype": "str",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "dias_vinculo": {
+        "dtype": "int64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 600,
+        "minimo": 13,
+        "maximo": 730,
+        "media": 291.7855,
+        "mediana": 239.5
+      },
+      "meses_vinculo": {
+        "dtype": "float64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 600,
+        "minimo": 0.43,
+        "maximo": 23.98,
+        "media": 9.5856,
+        "mediana": 7.865
+      },
+      "evasao_precoce": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "receita_acumulada": {
+        "dtype": "float64",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 1147,
+        "minimo": 50.27,
+        "maximo": 10076.75,
+        "media": 1183.0287,
+        "mediana": 895.78
+      },
+      "coorte_mes": {
+        "dtype": "str",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 23
+      },
+      "faixa_etaria": {
+        "dtype": "string",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 5
+      },
+      "segmento_engajamento": {
+        "dtype": "str",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 4
+      },
+      "outlier_receita_acumulada": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "outlier_dias_vinculo": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 1
+      },
+      "outlier_derivada": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      },
+      "outlier_qualquer": {
+        "dtype": "bool",
+        "nulos": 0,
+        "pct_nulos": 0.0,
+        "distintos": 2
+      }
+    }
+  }
+}
