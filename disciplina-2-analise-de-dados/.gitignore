@@ -1,34 +1,14 @@
-# Bytecode e caches do Python
-__pycache__/
-*.py[cod]
-*$py.class
-.Python
+# As regras genericas de Python, ambientes virtuais, caches de ferramentas e
+# arquivos de editor estao no .gitignore da raiz do repositorio e ja valem
+# para este diretorio. Aqui ficam apenas as regras proprias da entrega.
 
-# Ambientes virtuais
-.venv/
-venv/
-env/
-
-# Caches de ferramentas
-.pytest_cache/
-.ipynb_checkpoints/
-.mypy_cache/
-.ruff_cache/
-
-# Logs de execucao (regenerados a cada run)
+# Logs de execucao, regenerados a cada run.
 logs/*.log
-!logs/.gitkeep
 logs/*.log.*
+!logs/.gitkeep
 
 # Camada intermediaria: artefato derivado, reconstruido pelo pipeline.
 # As camadas raw e processed permanecem versionadas porque sustentam os
 # numeros apresentados na analise critica e devem ser auditaveis pela banca.
 data/interim/*
 !data/interim/.gitkeep
-
-# Sistema operacional / editores
-.DS_Store
-Thumbs.db
-desktop.ini
-.vscode/
-.idea/

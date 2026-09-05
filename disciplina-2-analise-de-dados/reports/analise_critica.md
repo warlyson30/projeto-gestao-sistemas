@@ -1,6 +1,6 @@
 # Analise Critica (Secao 2.4)
 
-**Projeto:** Academia Vertice Fit — Disciplina 2, Analise de Dados
+**Projeto:** Academia Vertice Fit. Disciplina 2, Analise de Dados
 **Base analisada:** 1.478 alunos validos, extraidos de 1.545 registros brutos
 **Periodo de referencia:** janeiro de 2024 a dezembro de 2025
 

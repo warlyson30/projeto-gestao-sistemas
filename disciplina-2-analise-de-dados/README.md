@@ -6,8 +6,6 @@ que sustentam as decisoes tomadas no Termo de Abertura do Projeto.
 
 Disciplina 2 do Projeto em Gestao de Sistemas Computacionais.
 
----
-
 ## Problema de negocio
 
 A academia perde parte relevante da carteira nos primeiros meses de contrato,
@@ -24,12 +22,10 @@ Objetivos SMART declarados no TAP e rastreados por este pipeline:
 | OE-03 | Elevar o engajamento digital no aplicativo proprio | Elevar a adesao ao aplicativo para 80% da base ativa em 6 meses |
 | OE-04 | Otimizar a ocupacao da grade e a alocacao de instrutores | Reduzir a ociosidade da grade em 15% em 6 meses |
 
----
-
 ## Arquitetura
 
 ```
-vertice_fit_analytics/
+disciplina-2-analise-de-dados/
 ├── config/
 │   └── settings.py              Configuracao central: regras de negocio,
 │                                objetivos SMART, parametros de ETL,
@@ -60,9 +56,11 @@ vertice_fit_analytics/
 │   ├── data_quality_report.json Trilha completa de tratamentos do ETL
 │   ├── kpi_report.json          Indicadores com metadados e justificativas
 │   └── statistical_report.json  Resultados dos testes de hipotese
+├── logs/                        Registro de execucao (conteudo nao versionado)
 ├── tests/                       Suite com 49 testes automatizados
 ├── notebooks/                   Versao executavel no Google Colab
 ├── main.py                      Ponto de entrada de linha de comando
+├── pytest.ini                   Configuracao da suite de testes
 └── requirements.txt
 ```
 
@@ -70,8 +68,6 @@ O acoplamento entre camadas e unidirecional. Os modulos de ETL, indicadores,
 estatistica e visualizacao nao se importam entre si: toda a coordenacao ocorre
 em `src/pipeline.py`. Substituir a fonte de dados, acrescentar um indicador ou
 trocar a biblioteca grafica nao exige alteracao nas demais camadas.
-
----
 
 ## Execucao
 
@@ -90,8 +86,6 @@ O codigo de saida e zero em caso de sucesso e um em caso de falha estrutural,
 permitindo encadeamento em agendadores sem inspecao do texto de log.
 
 Para execucao no Google Colab, utilize `notebooks/D2_Analise_Dados.ipynb`.
-
----
 
 ## Decisoes tecnicas
 
@@ -200,10 +194,8 @@ ausentes, duplicatas, categorias com digitacao livre, valores fora de dominio e
 datas em formatos mistos. Cada defeito injetado possui tratamento
 correspondente no ETL, tornando o pipeline auditavel de ponta a ponta.
 
-A geracao e determinística: a mesma semente reproduz exatamente a mesma base, o
+A geracao e deterministica: a mesma semente reproduz exatamente a mesma base, o
 que garante a reprodutibilidade dos resultados apresentados na documentacao.
-
----
 
 ## Cobertura dos requisitos da disciplina
 
@@ -221,8 +213,6 @@ Dos dez tipos de grafico previstos no guia, oito foram selecionados e dois
 descartados com justificativa registrada em `JUSTIFICATIVA_SELECAO`, no modulo
 de visualizacao. A selecao e deliberada: um painel que reproduz todos os tipos
 disponiveis demonstra dominio da biblioteca, nao dominio do problema.
-
----
 
 ## Compatibilidade
 

@@ -1,69 +1,42 @@
 # projeto-gestao-sistemas
-Repositório oficial do projeto de Análise e Gestão de Sistemas para otimização de processos operacionais.
 
-Projeto em Gestão de Sistemas Computacionais
+[![testes](https://github.com/warlyson30/projeto-gestao-sistemas/actions/workflows/tests.yml/badge.svg)](https://github.com/warlyson30/projeto-gestao-sistemas/actions/workflows/tests.yml)
 
+Projeto em Gestão de Sistemas Computacionais. O repositório reúne as entregas
+das quatro disciplinas do projeto, todas aplicadas ao mesmo estudo de caso.
 
-Integrantes:
-Nome completo -	RA
+## Estudo de caso
 
-[Lucas Ferreira Mamede]	[Ra]
+Academia Vértice Fit, empresa fictícia do ramo de musculação e treino
+funcional. O sistema de gestão registra check-in, frequência e plano dos
+alunos, além do estoque de suplementos e equipamentos.
 
-[Luana Mariana Lopes Bomfim]	[Ra]
+Duas dores de negócio orientam as quatro entregas:
 
-[Warlyson Machado de Araujo]	[Ra]
+1. **Evasão de alunos.** A academia não identifica quais alunos estão prestes a
+   cancelar o plano e perde receita recorrente sem tempo de reagir.
+2. **Ineficiência operacional.** A alocação de horários e instrutores nos
+   períodos de pico é inadequada, e o custo de reposição junto a fornecedores é
+   elevado.
 
-[Gustavo Prota da Silva Barbosa]	[Ra]
+## Entregas
 
-[Andrielly Campos da Silva]	[Ra]
+| Diretório | Disciplina | Contribuição para o estudo de caso |
+|-----------|------------|------------------------------------|
+| Não publicada | Gestão de Projetos | Termo de Abertura do Projeto, escopo e objetivos SMART |
+| [`disciplina-2-analise-de-dados/`](disciplina-2-analise-de-dados) | Análise de Dados | Pipeline de ETL, indicadores, análise estatística e visualizações |
+| Não publicada | Segurança da Informação | Mapeamento de riscos e adequação à LGPD |
+| Não publicada | Pesquisa Operacional | Otimização da grade de horários e do custo de reposição |
 
-[Henryque Gomes Moura Cunha]	[Ra]
+Cada diretório é autocontido: código, dados, relatórios e instruções de
+execução próprios, sem dependência entre disciplinas.
 
+## Disciplina 2: Análise de Dados
 
-
-Empresa
-- Nome: Academia Vértice Fit (empresa fictícia)
-  
-
-Ramo de Atuação
-- Academia de musculação e funcional, com sistema de gestão que registra check-in, frequência e plano dos alunos, além de controle de estoque de suplementos e equipamentos.
-  
-
-O Problema:
-
-A Academia Vértice Fit enfrenta duas dores centrais de negócio que o projeto pretende resolver ao longo das 4 disciplinas:
-
-Alta evasão de alunos (churn): a academia não consegue prever quais alunos estão prestes a cancelar o plano, perdendo receita recorrente sem tempo de agir.
-Ineficiência operacional: má alocação de horários/instrutores nos períodos de pico e custos elevados na reposição de suplementos e equipamentos junto a fornecedores.
-
-
-O grupo utilizará:
-
-Gestão de Projetos para planejar e documentar formalmente a iniciativa;
-Análise de Dados (Python) para identificar os fatores ligados ao churn a partir de dados de frequência e uso dos alunos;
-Segurança da Informação para mapear riscos e adequar o tratamento de dados pessoais e de saúde à LGPD;
-Pesquisa Operacional para maximizar o lucro na alocação de horários/instrutores e minimizar o custo de reposição junto aos fornecedores.
-Repositório
-
-Link deste repositório : [https://github.com/warlyson30/projeto-gestao-sistemas/tree/main]
-
-
----
-
-## Estrutura do repositório
-
-O repositório reúne as entregas das quatro disciplinas do projeto. Cada
-disciplina ocupa um diretório próprio, com código, dados e relatórios
-autocontidos.
-
-| Diretório | Disciplina | Conteúdo |
-|-----------|-----------|----------|
-| `disciplina-2-analise-de-dados/` | Análise de Dados | Pipeline de ETL, catálogo de indicadores, análise estatística e visualizações da Academia Vértice Fit |
-
-### Disciplina 2 — Análise de Dados
-
-Pipeline analítico completo em Python, com trilha de auditoria de cada
-tratamento aplicado aos dados. Documentação detalhada em
+Pipeline analítico em Python que transforma a extração bruta do sistema de
+gestão em indicadores de negócio, evidência estatística e artefatos visuais,
+com trilha de auditoria de cada tratamento aplicado aos dados. Documentação
+completa em
 [`disciplina-2-analise-de-dados/README.md`](disciplina-2-analise-de-dados/README.md).
 
 Execução local:
@@ -74,7 +47,24 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Execução no Google Colab: abra
-`disciplina-2-analise-de-dados/notebooks/D2_Analise_Dados.ipynb`. A primeira
-célula obtém o repositório e prepara o ambiente sozinha — não é necessário
-enviar arquivos manualmente.
+Execução no Google Colab, sem instalação local e sem envio manual de arquivos.
+A primeira célula do notebook obtém o repositório e prepara o ambiente:
+
+[Abrir `D2_Analise_Dados.ipynb` no Colab](https://colab.research.google.com/github/warlyson30/projeto-gestao-sistemas/blob/main/disciplina-2-analise-de-dados/notebooks/D2_Analise_Dados.ipynb)
+
+## Equipe
+
+- Andrielly Campos da Silva
+- Gustavo Prota da Silva Barbosa
+- Henryque Gomes Moura Cunha
+- Luana Mariana Lopes Bomfim
+- Lucas Ferreira Mamede
+- Warlyson Machado de Araujo
+
+Os números de registro acadêmico constam nos documentos de entrega e não são
+publicados aqui: são dado pessoal, e a própria Disciplina 3 do projeto trata da
+adequação à LGPD.
+
+## Licença
+
+Distribuído sob a licença MIT. Ver [LICENSE](LICENSE).
