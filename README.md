@@ -2,34 +2,55 @@
 
 [![testes](https://github.com/warlyson30/projeto-gestao-sistemas/actions/workflows/tests.yml/badge.svg)](https://github.com/warlyson30/projeto-gestao-sistemas/actions/workflows/tests.yml)
 
-Projeto em Gestão de Sistemas Computacionais. O repositório reúne as entregas
-das quatro disciplinas do projeto, todas aplicadas ao mesmo estudo de caso.
+Repositório oficial do projeto de Análise e Gestão de Sistemas para otimização
+de processos operacionais.
 
-## Estudo de caso
+Projeto em Gestão de Sistemas Computacionais.
 
-Academia Vértice Fit, empresa fictícia do ramo de musculação e treino
-funcional. O sistema de gestão registra check-in, frequência e plano dos
-alunos, além do estoque de suplementos e equipamentos.
+## Integrantes
 
-Duas dores de negócio orientam as quatro entregas:
+| Nome completo | RA |
+|---------------|----|
+| Lucas Ferreira Mamede | |
+| Luana Mariana Lopes Bomfim | |
+| Warlyson Machado de Araujo | |
+| Gustavo Prota da Silva Barbosa | |
+| Andrielly Campos da Silva | |
+| Henryque Gomes Moura Cunha | |
 
-1. **Evasão de alunos.** A academia não identifica quais alunos estão prestes a
-   cancelar o plano e perde receita recorrente sem tempo de reagir.
-2. **Ineficiência operacional.** A alocação de horários e instrutores nos
-   períodos de pico é inadequada, e o custo de reposição junto a fornecedores é
-   elevado.
+## Empresa
 
-## Entregas
+**Nome:** Academia Vértice Fit (empresa fictícia).
 
-| Diretório | Disciplina | Contribuição para o estudo de caso |
-|-----------|------------|------------------------------------|
-| Não publicada | Gestão de Projetos | Termo de Abertura do Projeto, escopo e objetivos SMART |
-| [`disciplina-2-analise-de-dados/`](disciplina-2-analise-de-dados) | Análise de Dados | Pipeline de ETL, indicadores, análise estatística e visualizações |
-| Não publicada | Segurança da Informação | Mapeamento de riscos e adequação à LGPD |
-| Não publicada | Pesquisa Operacional | Otimização da grade de horários e do custo de reposição |
+**Ramo de atuação:** academia de musculação e funcional, com sistema de gestão
+que registra check-in, frequência e plano dos alunos, além de controle de
+estoque de suplementos e equipamentos.
 
-Cada diretório é autocontido: código, dados, relatórios e instruções de
-execução próprios, sem dependência entre disciplinas.
+## O problema
+
+A Academia Vértice Fit enfrenta duas dores centrais de negócio que o projeto
+pretende resolver ao longo das quatro disciplinas:
+
+1. **Alta evasão de alunos (churn).** A academia não consegue prever quais
+   alunos estão prestes a cancelar o plano, perdendo receita recorrente sem
+   tempo de agir.
+2. **Ineficiência operacional.** Má alocação de horários e instrutores nos
+   períodos de pico, e custos elevados na reposição de suplementos e
+   equipamentos junto a fornecedores.
+
+## Abordagem por disciplina
+
+O grupo utilizará:
+
+| Disciplina | Papel no projeto | Entrega neste repositório |
+|------------|------------------|---------------------------|
+| Gestão de Projetos | Planejar e documentar formalmente a iniciativa | Não publicada |
+| Análise de Dados (Python) | Identificar os fatores ligados ao churn a partir de dados de frequência e uso dos alunos | [`disciplina-2-analise-de-dados/`](disciplina-2-analise-de-dados) |
+| Segurança da Informação | Mapear riscos e adequar o tratamento de dados pessoais e de saúde à LGPD | Não publicada |
+| Pesquisa Operacional | Maximizar o lucro na alocação de horários e instrutores e minimizar o custo de reposição junto aos fornecedores | Não publicada |
+
+Cada diretório de entrega é autocontido: código, dados, relatórios e instruções
+de execução próprios, sem dependência entre disciplinas.
 
 ## Disciplina 2: Análise de Dados
 
@@ -51,19 +72,6 @@ Execução no Google Colab, sem instalação local e sem envio manual de arquivo
 A primeira célula do notebook obtém o repositório e prepara o ambiente:
 
 [Abrir `D2_Analise_Dados.ipynb` no Colab](https://colab.research.google.com/github/warlyson30/projeto-gestao-sistemas/blob/main/disciplina-2-analise-de-dados/notebooks/D2_Analise_Dados.ipynb)
-
-## Equipe
-
-- Andrielly Campos da Silva
-- Gustavo Prota da Silva Barbosa
-- Henryque Gomes Moura Cunha
-- Luana Mariana Lopes Bomfim
-- Lucas Ferreira Mamede
-- Warlyson Machado de Araujo
-
-Os números de registro acadêmico constam nos documentos de entrega e não são
-publicados aqui: são dado pessoal, e a própria Disciplina 3 do projeto trata da
-adequação à LGPD.
 
 ## Licença
 
